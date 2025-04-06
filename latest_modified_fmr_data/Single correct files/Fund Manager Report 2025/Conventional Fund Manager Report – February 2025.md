@@ -204,6 +204,41 @@ The investment objective of Alfalah GHP Cash Fund (AGCF) is to provide a regular
 | Jan-25 | 9.89%  | 11.72% |
 | Feb-25 | 9.48%  | 11.66% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Category                | January       | February      |
+|-------------------------|--------------|--------------|
+| Cash                   | 9.9176        | 1.9701       |
+| Plac. with Banks/DFIs  | 0            | 0            |
+| Govt Guaranteed*****   | 4.2540        | 5.0810       |
+| TFCs/Sukuks            | 0            | 0            |
+| PIBs                   | 10.3579       | 12.2786      |
+| T-Bills                | 75.2118       | 80.1371      |
+| CPs/STS                | 0            | 0            |
+| Others                 | 0.2588        | 0.5332       |
+| **Total Assets**       | **100**       | **100**      |
+
+
+
+## Historical Performance (%)
+
+| Fiscal Year | AGCF  | BM    |
+|------------|-------|-------|
+| FY11       | 11.56 | 9.60  |
+| FY12       | 11.01 | 8.79  |
+| FY13       | 9.06  | 7.24  |
+| FY14       | 8.09  | 7.08  |
+| FY15       | 8.58  | 6.67  |
+| FY16       | 5.17  | 4.75  |
+| FY17       | 6.82  | 5.02  |
+| FY18       | 4.7114 | 5.36  |
+| FY19       | 9.03  | 8.74  |
+| FY20       | 12.6749 | 11.6572 |
+| FY21       | 7.0081 | 6.7056 |
+| FY22       | 11.0076 | 9.32  |
+| FY23       | 17.4930 | 17.0670 |
+| FY24       | 22.1110 | 20.9033 |
+
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -436,6 +471,44 @@ An open-ended Money Market Scheme which shall seek to generate competitive retur
 | Dec-24 | 12.64% | 12.50% |
 | Jan-25 | 10.77% | 11.72% |
 | Feb-25 | 10.16% | 11.66% |
+
+## Asset Allocation (as % of Total Assets)
+
+| Category                     | January | February |
+|------------------------------|---------|---------|
+| Cash                         | 4.77    | 0.02    |
+| Plac. with DFIs              | -       | -       |
+| Plac. with NBFCs             | -       | -       |
+| Rev. Repo ag. GS             | -       | -       |
+| Rev. Repo ag. other Secs.    | -       | -       |
+| Govt Guaranteed*****         | 1.55    | 1.57    |
+| TFCs/Sukuks                  | -       | -       |
+| PIBs                         | 20.05   | 21.57   |
+| T-Bills                      | 73.55   | 76.42   |
+| CPs/STS                      | -       | -       |
+| Others                       | 0.08    | 0.42    |
+| **Total Assets**             | **100.00** | **100.00** |
+
+
+
+## Historical Performance (%)
+
+| Fiscal Year | AGMMF  | BM     |
+|------------|--------|--------|
+| FY11       | 11.89  | 8.78   |
+| FY12       | 11.79  | 6.96   |
+| FY13       | 9.46   | 6.90   |
+| FY14       | 8.18   | 6.86   |
+| FY15       | 8.73   | 6.62   |
+| FY16       | 5.37   | 4.75   |
+| FY17       | 5.65   | 5.02   |
+| FY18       | 5.46   | 5.36   |
+| FY19       | 9.15   | 8.74   |
+| FY20       | 12.64  | 11.66  |
+| FY21       | 6.86   | 6.71   |
+| FY22       | 10.93  | 8.95   |
+| FY23       | 17.70  | 17.05  |
+| FY24       | 22.24  | 20.90  |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -806,6 +879,41 @@ Avg. Peer Group Return for Feb 2025 was 9.42%
 | Jan-25 | 16.18% | 12.24% |
 | Feb-25 | 10.19% | 11.97% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Category                    | January | February |
+|-----------------------------|---------|---------|
+| Cash                        | 13.57   | 2.64    |
+| Plac. with Banks/DFIs       | -       | -       |
+| Govt. Backed/ Gov. Guar.    | 0.01    | 0.01    |
+| TFCs/Sukuks                 | -       | 1.13    |
+| PIBs                        | 34.85   | 34.23   |
+| T-Bills                     | 25.76   | 26.30   |
+| CPs                         | -       | -       |
+| MTS                         | 20.94   | 32.95   |
+| Spread Trans.               | -       | -       |
+| Others                      | 4.87    | 2.76    |
+| **Total Assets**            | **100.00** | **100.00** |
+
+
+## Historical Performance (%)
+
+| Fiscal Year | AGIF  | BM     |
+|------------|--------|--------|
+| FY11       | 11.33  | 9.79   |
+| FY12       | 11.16  | 9.88   |
+| FY13       | 9.94   | 12.22  |
+| FY14       | 8.00   | 13.39  |
+| FY15       | 12.26  | 8.99   |
+| FY16       | 7.56   | 6.53   |
+| FY17       | 5.20   | 6.10   |
+| FY18       | 4.79   | 6.34   |
+| FY19       | 7.70   | 10.22  |
+| FY20       | 14.83  | 12.23  |
+| FY21       | 6.96   | 7.43   |
+| FY22       | 7.97   | 10.80  |
+| FY23       | 17.13  | 18.33  |
+| FY24       | 17.49  | 11.97  |
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -1181,6 +1289,42 @@ Avg. Peer Group Return for Feb 2025 was 8.66%
 | Jan-25 | 12.96% | 12.29% |
 | Feb-25 | 6.61%  | 12.22% |
 
+
+## Asset Allocation (as % of Total Assets)
+
+| Category                    | January | February |
+|-----------------------------|---------|---------|
+| Cash                        | 54.39   | 11.33   |
+| Plac. with Banks/DFIs       | 0.00    | 0.00    |
+| Gov. Guar./ Ijara Sukuk     | 9.93    | 10.16   |
+| TFCs/Sukuks                 | 7.77    | 8.21    |
+| PIBs                        | 3.78    | 31.90   |
+| T-Bills                     | 22.72   | 23.44   |
+| CPs                         | 0.00    | 0.00    |
+| MTS                         | 0.00    | 0.00    |
+| Spread Trans.               | 0.00    | 0.00    |
+| Others                      | 1.40    | 14.97   |
+| **Total Assets**            | **100.00** | **100.00** |
+
+
+## Historical Performance (%)
+
+| Fiscal Year | AGIMF  | BM     |
+|------------|--------|--------|
+| FY11       | -2.37  | 13.89  |
+| FY12       | -3.90  | 12.78  |
+| FY13       | 11.23  | 10.25  |
+| FY14       | 12.35  | 10.16  |
+| FY15       | 14.15  | 9.25   |
+| FY16       | 8.38   | 6.83   |
+| FY17       | 5.90   | 6.38   |
+| FY18       | 4.90   | 6.69   |
+| FY19       | 6.26   | 10.75  |
+| FY20       | 15.26  | 12.27  |
+| FY21       | -0.31  | 7.73   |
+| FY22       | 6.84   | 11.23  |
+| FY23       | 19.41  | 18.62  |
+| FY24       | 23.60  | 21.69  |
 ## Details of Non-Compliant Investments
 
 | Name                     | Type  | Value Before | Provisioning | Value After | % Gross Assets | % Net Assets |
@@ -1426,6 +1570,42 @@ Avg. Peer Group Return for Feb 2025 was -0.05%
 | Jan-25 | -2.44% | -0.76% |
 | Feb-25 | -0.37% | -0.88% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Category                     | January | February |
+|------------------------------|---------|---------|
+| Cash                         | 0.91    | 2.67    |
+| T-Bills                      | 0.00    | 0.00    |
+| Stocks/Equities              | 95.27   | 96.54   |
+| Rev. Repo ag. GS             | 0.00    | 0.00    |
+| Rev. Repo ag. other Secs.    | 0.00    | 0.00    |
+| Govt. Backed/ Gov. Guar.     | 0.00    | 0.00    |
+| TFCs/Sukuks                  | 0.00    | 0.00    |
+| PIBs                         | 0.00    | 0.00    |
+| CPs                          | 0.00    | 0.00    |
+| MTS                          | 0.00    | 0.00    |
+| Spread Trans.                | 0.00    | 0.00    |
+| Others                       | 3.82    | 0.79    |
+| **Total Assets**             | **100.00** | **100.00** |
+
+## Historical Performance (%)
+
+| Fiscal Year | AGAF  | BM     |
+|------------|--------|--------|
+| FY11       | 16.72  | 28.53  |
+| FY12       | 2.67   | 10.45  |
+| FY13       | 39.81  | 52.20  |
+| FY14       | 29.55  | 41.57  |
+| FY15       | 27.39  | 16.01  |
+| FY16       | 14.12  | 9.84   |
+| FY17       | 28.99  | 23.24  |
+| FY18       | -14.18 | -10.00 |
+| FY19       | -17.48 | -19.11 |
+| FY20       | -3.37  | 1.53   |
+| FY21       | 39.27  | 37.58  |
+| FY22       | -17.98 | -12.28 |
+| FY23       | -0.31  | -0.21  |
+| FY24       | 90.33  | 89.24  |
 ## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
@@ -1552,6 +1732,44 @@ Avg. Peer Group Return for Feb 2025 was -0.05%
 | Dec-24 | 13.22% | 13.59% |
 | Jan-25 | -2.51% | -0.76% |
 | Feb-25 | -0.48% | -0.88% |
+
+## Asset Allocation (as % of Total Assets)
+
+| Category                     | January | February |
+|------------------------------|---------|---------|
+| Cash                         | 4.67    | 2.14    |
+| T-Bills                      | 0.00    | 0.00    |
+| Stocks/Equities              | 95.23   | 97.52   |
+| Rev. Repo ag. GS             | 0.00    | 0.00    |
+| Rev. Repo ag. other Secs.    | 0.00    | 0.00    |
+| Govt. Backed/ Gov. Guar.     | 0.00    | 0.00    |
+| TFCs/Sukuks                  | 0.00    | 0.00    |
+| PIBs                         | 0.00    | 0.00    |
+| CPs                          | 0.00    | 0.00    |
+| MTS                          | 0.00    | 0.00    |
+| Spread Trans.                | 0.00    | 0.00    |
+| Others                       | 0.10    | 0.34    |
+| **Total Assets**             | **100.00** | **100.00** |
+
+
+## Historical Performance (%)
+
+| Fiscal Year | AGSF  | BM     |
+|------------|--------|--------|
+| FY11       | 30.32  | 28.53  |
+| FY12       | 13.34  | 10.44  |
+| FY13       | 66.41  | 52.20  |
+| FY14       | 24.58  | 41.16  |
+| FY15       | 27.70  | 16.01  |
+| FY16       | 14.88  | 9.84   |
+| FY17       | 28.69  | 23.24  |
+| FY18       | -14.61 | -10.00 |
+| FY19       | -17.35 | -19.11 |
+| FY20       | -3.74  | 1.53   |
+| FY21       | 38.89  | 37.58  |
+| FY22       | -19.86 | -12.28 |
+| FY23       | -0.85  | -0.21  |
+| FY24       | 95.65  | 89.24  |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -1802,6 +2020,32 @@ Avg. Peer Group Return for Feb 2025 was -0.05%
 | Jan-25 | -1.29% | -0.76% |
 | Feb-25 | -0.11% | -0.88% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Category                     | January | February |
+|------------------------------|---------|---------|
+| Cash                         | 0.51    | 0.91    |
+| T-Bills                      | 0.00    | 0.00    |
+| Stocks/Equities              | 98.18   | 94.41   |
+| Rev. Repo ag. GS             | 0.00    | 0.00    |
+| Rev. Repo ag. other Secs.    | 0.00    | 0.00    |
+| Govt. Backed/ Gov. Guar.     | 0.00    | 0.00    |
+| TFCs/Sukuks                  | 0.00    | 0.00    |
+| PIBs                         | 0.00    | 0.00    |
+| CPs                          | 0.00    | 0.00    |
+| MTS                          | 0.00    | 0.00    |
+| Spread Trans.                | 0.00    | 0.00    |
+| Others                       | 1.31    | 4.68    |
+| **Total Assets**             | **100.00** | **100.00** |
+
+
+## Historical Performance (%)
+
+| Fiscal Year | AGDEF  | BM     |
+|------------|--------|--------|
+| FY23       | -0.97  | -3.46  |
+| FY24       | 53.41  | 44.37  |
+
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -1930,6 +2174,44 @@ Alfalah Consumer Index Exchange Traded Fund (ACIETF) is an open-ended scheme tha
 | Jan-25 | -4.96% | -4.77% |
 | Feb-25 | 0.85%  | 1.06%  |
 
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 1.96    | 1.94     |
+| T-Bills                         | 0.00    | 0.00     |
+| Stocks/Equities                 | 95.28   | 95.27    |
+| Rev. Repo ag. GS                | 0.00    | 0.00     |
+| Rev. Repo ag. other Secs.       | 0.00    | 0.00     |
+| Govt. Backed/ Gov. Guar.        | 0.00    | 0.00     |
+| TFCs/Sukuks                     | 0.00    | 0.00     |
+| PIBs                            | 0.00    | 0.00     |
+| T-Bills                         | 0.00    | 0.00     |
+| CPs                             | 0.00    | 0.00     |
+| MTS                             | 0.00    | 0.00     |
+| Spread Trans.                   | 0.00    | 0.00     |
+| Others                          | 2.76    | 2.79     |
+| **Total Assets**                | **100.00%** | **100.00%** |
+
+
+## ACIETF vs. BM (Fiscal Year)
+
+| Fiscal Year | ACIETF  | BM      |
+|-------------|---------|---------|
+| FY11        | 30.32   | 28.53   |
+| FY12        | 13.34   | 10.44   |
+| FY13        | 66.41   | 52.2    |
+| FY14        | 24.58   | 41.16   |
+| FY15        | #REF!   | #REF!   |
+| FY16        | #REF!   | #REF!   |
+| FY17        | #REF!   | #REF!   |
+| FY18        | 0       | 0.0     |
+| FY19        | 0       | 0       |
+| FY20        | 0       | 0       |
+| FY21        | 0       | 0       |
+| FY22        | -20.50  | -25.38  |
+| FY23        | -15.08  | -14.36  |
+| FY24        | 63.60   | 74.81   |
 ## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
@@ -2062,6 +2344,43 @@ The investment objective of Alfalah GHP Value Fund (AGVF) is to generate stable 
 | Jan-25 | -1.32% | -0.51% |
 | Feb-25 | 0.73%  | -0.65% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Category                     | January | February |
+|------------------------------|---------|---------|
+| Cash                         | 1.09    | 11.81   |
+| Stocks/Equities              | 77.95   | 79.87   |
+| Rev. Repo ag. GS             | 0.00    | 0.00    |
+| Rev. Repo ag. other Secs.    | 0.00    | 0.00    |
+| Govt. Backed/ Gov. Guar.     | 0.00    | 0.00    |
+| TFCs/Sukuks                  | 2.79    | 2.85    |
+| PIBs                         | 2.77    | 2.84    |
+| T-Bills                      | 11.34   | 0.00    |
+| CPs                          | 0.00    | 0.00    |
+| Placements                   | 0.00    | 0.00    |
+| MTS                          | 0.00    | 0.00    |
+| Spread Trans.                | 0.00    | 0.00    |
+| Others                       | 4.07    | 2.63    |
+| **Total Assets**             | **100.00** | **100.00** |
+
+## Historical Performance (%)
+
+| Fiscal Year | AGVF  | BM     |
+|------------|--------|--------|
+| FY11       | 5.66   | 20.09  |
+| FY12       | 5.77   | 11.46  |
+| FY13       | 30.09  | 31.06  |
+| FY14       | 19.52  | 25.50  |
+| FY15       | 25.48  | 12.50  |
+| FY16       | 18.30  | 8.18   |
+| FY17       | 26.18  | 17.60  |
+| FY18       | -12.04 | -6.76  |
+| FY19       | -8.80  | -6.93  |
+| FY20       | 0.94   | 5.82   |
+| FY21       | 0.13   | 0.29   |
+| FY22       | -0.14  | -0.09  |
+| FY23       | 0.04   | 0.07   |
+| FY24       | 0.58   | 0.54   |
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -2179,6 +2498,35 @@ The investment objective of the Fund is to seek long-term capital appreciation t
 | Dec-24 | 1.35% | 1.03% |
 | Jan-25 | 1.10% | 1.01% |
 | Feb-25 | 1.02% | 0.91% |
+
+## Asset Allocation (as % of Total Assets)
+
+| Category                     | January | February |
+|------------------------------|---------|---------|
+| Cash                         | 17%     | 18%     |
+| T-Bills                      | 0%      | 0%      |
+| Govt. Backed/ Gov. Guar.     | 0%      | 0%      |
+| TFCs/Sukuks                  | 63%     | 62%     |
+| PIBs                         | 18%     | 18%     |
+| Others                       | 2%      | 2%      |
+| **Total Assets**             | **100%** | **100%** |
+
+## Historical Performance (%)
+
+| Fiscal Year | AGFVF | BM     |
+|------------|--------|--------|
+| FY11       | 5.66   | 20.09  |
+| FY12       | 5.77   | 11.46  |
+| FY13       | 30.09  | 31.06  |
+| FY14       | 19.52  | 25.50  |
+| FY15       | 25.48  | 12.50  |
+| FY16       | 18.30  | 8.18   |
+| FY17       | #DIV/0! | 17.60  |
+| FY18       | -12.04 | -6.76  |
+| FY19       | -8.80  | -6.93  |
+| FY20       | 0.94   | 5.82   |
+| FY21       | 28.45  | 29.21  |
+| FY22       | -13.89 | -10.46 |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -2364,6 +2712,7 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 | Stable Return Fund Plan-XVII  | 27-Feb-25      | 27-Jun-25     | Low          | 7,184,286,192    | Active  |
 | Stable Return Fund Plan-XVIII | 28-Feb-25      | 09-Jan-26     | Low          | 1,505,879,172    | Active  |
 
+
 # Alfalah Stable Return Fund - Plan 11
 
 AMC Rating: "AM1" by VIS 02-Jan-25
@@ -2465,6 +2814,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Dec-24 | 10.82%  | 13.94% |
 | Jan-25 | 9.95%   | 20.54% |
 | Feb-25 | 10.03%  | 20.54% |
+
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 0.00    | 0.00     |
+| Plac. with Banks/DFIs          | -       | -        |
+| Govt. Backed/ Gov. Guar.       | -       | -        |
+| TFCs/Sukuks                     | -       | -        |
+| PIBs                            | -       | -        |
+| T-Bills                         | 99.68   | 9.70|
+| CPs                             | -       | -        |
+| Others                          | 0.32    | 0.30     |
+| **Total Assets**                | **100.00%** | **100.00%** |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -2582,6 +2945,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Dec-24 | 8.76%   | 13.94% |
 | Jan-25 | 12.96%  | 13.77% |
 | Feb-25 | 9.53%   | 13.77% |
+
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 0.16    | 0.16     |
+| Plac. with Banks/DFIs          | -       | -        |
+| Govt. Backed/ Gov. Guar.       | -       | -        |
+| TFCs/Sukuks                     | -       | -        |
+| PIBs                            | 3.76    | 3.73     |
+| T-Bills                         | 96.04   | 96.02    |
+| CPs                             | -       | -        |
+| Others                          | 0.04    | 0.09     |
+| **Total Assets**                | **100.00%** | **100.00%** |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -2702,6 +3079,21 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Jan-25 | 11.57%  | 13.90% |
 | Feb-25 | 8.44%   | 13.90% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 0.36    | 0.36     |
+| Plac. with Banks/DFIs          | -       | -        |
+| Govt. Backed/ Gov. Guar.       | -       | -        |
+| TFCs/Sukuks                     | -       | -        |
+| PIBs                            | -       | -        |
+| T-Bills                         | 99.63   | 99.19    |
+| CPs                             | -       | -        |
+| Others                          | 0.00    | 0.45     |
+| **Total Assets**                | **100.00%** | **100.00%** |
+
+
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -2818,6 +3210,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Dec-24 | 7.06%   | 13.94% |
 | Jan-25 | 14.54%  | 13.15% |
 | Feb-25 | 9.02%   | 13.15% |
+
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 0.13    | 0.13     |
+| Plac. with Banks/DFIs          | -       | -        |
+| Govt. Backed/ Gov. Guar.       | -       | -        |
+| TFCs/Sukuks                     | -       | -        |
+| PIBs                            | -       | -        |
+| T-Bills                         | 99.86   | 99.76    |
+| CPs                             | -       | -        |
+| Others                          | 0.00    | 0.11     |
+| **Total Assets**                | **100.00%** | **100.00%** |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -2940,6 +3346,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
+
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 0.12    | 0.65     |
+| Plac. with Banks/DFIs          | -       | -        |
+| Govt. Backed/ Gov. Guar.       | -       | -        |
+| TFCs/Sukuks                     | -       | -        |
+| PIBs                            | -       | -        |
+| T-Bills                         | 99.88   | 99.34    |
+| CPs                             | -       | -        |
+| Others                          | 0.00    | 0.01     |
+| **Total Assets**                | **100.00%** | **100.00%** |
 
 ## Disclaimer
 
@@ -3328,6 +3748,19 @@ Kashf Foundation 10/10/2023 1.61%
 | Jan-25 | 12.35%    | 12.24% |
 | Feb-25 | 11.12%    | 11.97% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 96.73%  | 97.34%   |
+| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
+| Govt. Backed/ Gov. Guar.       | 0.00%   | 0.00%    |
+| TFCs/Sukuks                     | 2.12%   | 1.61%    |
+| PIBs                            | 0.00%   | 0.00%    |
+| T-Bills                         | 0.00%   | 0.00%    |
+| Others                          | 1.15%   | 1.05%    |
+| **Total Assets**                | **100.00%** | **100.00%** |
+
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -3346,7 +3779,7 @@ Selling & marketing expense for the period ended February, 2025, PKR Mn 1.571
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-## Fund Managers' Report February 28, 2025
+Fund Managers' Report February 28, 2025
 
 # Alfalah Financial Sector Income Fund - Plan 2
 
@@ -3445,6 +3878,20 @@ The objective of the Alfalah Financial Sector Income Fund is to provide income e
 | Jan-25 | 6.89%      | 12.24% |
 | Feb-25 | 4.57%      | 11.97% |
 
+## Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 9.56%   | 96.46%   |
+| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
+| Govt. Backed/ Gov. Guar.       | 0.00%   | 0.00%    |
+| TFCs/Sukuks                     | 0.00%   | 0.00%    |
+| PIBs                            | 0.00%   | 0.00%    |
+| T-Bills                         | 0.00%   | 0.00%    |
+| CPs                             | 0.00%   | 0.00%    |
+| Others                          | 90.44%  | 3.54%    |
+| **Total Assets**                | **100.00%** | **100.00%** |
+
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -3459,7 +3906,7 @@ This publication is for informational purposes only and nothing herein should be
 
 \*\*\*Management fee charged: 0.12%
 
-## Selling & marketing expense for the period ended February, 2025, PKR Mn 0.030
+Selling & marketing expense for the period ended February, 2025, PKR Mn 0.030
 
 # Alfalah Government Securities Fund
 
@@ -3588,6 +4035,18 @@ The objective of the Scheme is to deliver optimal risk-adjusted returns by inves
 | Jan-25 | 12.10% | 11.84% |
 | Feb-25 | 13.93% | 11.75% |
 
+## ALFALAH GOVERNMENT SECURITIES Fund - Plan 1 - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 33.11%  | 1.14%    |
+| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
+| TFCs/Sukuks                     | 0.00%   | 0.00%    |
+| PIBs                            | 62.92%  | 83.31%   |
+| T-Bills                         | 0.00%   | 8.46%    |
+| CPs                             | 0.00%   | 0.00%    |
+| Others                          | 3.97%   | 7.09%    |
+| **Total Assets**                | **100.00%** | **100.00%** |
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -3698,6 +4157,20 @@ The objective of the Scheme is to deliver optimal risk-adjusted returns by inves
 | Dec-24 | 18.99% | 11.90% |
 | Jan-25 | 9.66%  | 11.84% |
 | Feb-25 | 10.70% | 11.75% |
+
+#  Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 10.35%  | 54.29%   |
+| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
+| Govt. Backed/ Gov. Guar.       | 0.00%   | 0.00%    |
+| TFCs/Sukuks                     | 0.00%   | 0.00%    |
+| PIBs                            | 83.32%  | 15.55%   |
+| T-Bills                         | 0.00%   | 10.84%   |
+| CPs                             | 0.00%   | 0.00%    |
+| Others                          | 6.33%   | 19.31%   |
+| **Total Assets**                | **100.00%** | **100.00%** |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -4217,6 +4690,25 @@ The Investment Objective of the Plan is to earn a competitive return through div
 | Jan-25 | -1.55% | -2.52% |
 | Feb-25 | -0.49% | -0.83% |
 
+## Alfalah Strategic Allocation Fund - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 1.57%   | 1.58%    |
+| Money Market                    | 0.00%   | 0.00%    |
+| Stocks/Equities                 | 0.97%   | 97.23%   |
+| Rev. Repo ag. GS                | 0.00%   | 0.00%    |
+| Rev. Repo ag. other Secs.       | 0.00%   | 0.00%    |
+| Govt. Backed/ Gov. Guar.        | 0.00%   | 0.00%    |
+| TFCs/Sukuks                     | 0.00%   | 0.00%    |
+| PIBs                            | 0.00%   | 0.00%    |
+| T-Bills                         | 0.00%   | 0.00%    |
+| CPs                             | 0.00%   | 0.00%    |
+| Income                          | 0.00%   | 0.00%    |
+| Spread Trans.                   | 0.00%   | 0.00%    |
+| Others                          | 1.18%   | 1.19%    |
+| **Total Assets**                | **3.73%** | **100.00%** |
+
 ## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
@@ -4268,7 +4760,6 @@ Fund Managers' Report February 2025
 | Alfalah Prosperity Planning Fund-Conservative Allocation Plan | 11-Sept-2015   | Perpetual     | Medium       | 318,965,802      | Active |
 | Alfalah Prosperity Planning Fund-Capital Preservation Plan    | 16-May-2024    | 16-May-2026   | High         | 528,397,336      | Active |
 
----
 
 # Alfalah GHP Prosperity Planning Fund
 
@@ -4481,6 +4972,18 @@ Alfalah GHP Prosperity Planning Fund is an Open-ended Fund of Funds Scheme that 
 | AGCPP-4 | -      | -      | -      | 0.76%  | 1.98%  | 1.04%  | 1.44%  | 4.07%  | 5.98%  | 5.41%  | 4.70%  | 0.43%  | 0.45%  |
 | BM      | -      | -      | -      | 0.86%  | 1.89%  | 1.45%  | 1.16%  | 1.85%  | 4.76%  | 5.03%  | 0.76%  | 4.81%  | 0.50%  |
 
+## Alfalah GHP Prosperity Planning Fund (CPF 4) - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation          | January | February |
+|---------------------------|---------|----------|
+| Equity Funds             | 9.2%    | 27.1%    |
+| Money Market Funds       | 9.5%    | 9.6%     |
+| Sovereign / Income Funds | 80.9%   | 63.1%    |
+| Others                   | 0.0%    | 0.0%     |
+| Cash                     | 0.3%    | 0.2%     |
+| Leverage                 | 0.0%    | 0.0%     |
+| **Total**                | **100.0%** | **100.0%** |
+
 ## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
@@ -4618,6 +5121,56 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | Expense Ratio (Month)     | 1.60%  |
 | Expense Ratio (YTD)**\*** | 0.99%  |
 
+## Alfalah GHP Pension Fund DSF - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation         | January | February |
+|--------------------------|---------|----------|
+| Cash                     | 1.30%   | 8.64%    |
+| Plac. with Banks/DFIs    |         |          |
+| Plac. with NBFCs         |         |          |
+| TFCs/Sukuks              | 3.28%   | 3.20%    |
+| Govt. Backed/ Gov. Guar. |         |          |
+| PIBs                     |         | 61.91%   |
+| T-Bills                  | 94.22%  | 24.96%   |
+| CPs/ST Sukuks            |         |          |
+| MTS                      |         |          |
+| Spread Trans.            |         |          |
+| Others                   | 1.20%   | 1.29%    |
+| **Total Assets**         | **100.00%** | **100.00%** |
+
+
+## Alfalah GHP Pension Fund MMSF - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation         | January | February |
+|--------------------------|---------|----------|
+| Cash                     | 10.45%  | 3.09%    |
+| Plac. with Banks/DFIs    |         |          |
+| Plac. with NBFCs         |         |          |
+| TFCs/Sukuks              |         |          |
+| PIBs                     | 1.72%   | 1.71%    |
+| T-Bills                  | 87.52%  | 94.88%   |
+| CPs/ST Sukuks            |         |          |
+| MTS                      |         |          |
+| Spread Trans.            |         |          |
+| Others                   | 0.31%   | 0.33%    |
+| **Total Assets**         | **100.00%** | **100.00%** |
+
+## Alfalah KPK Employee Pension Fund MMSF - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation         | January | February |
+|--------------------------|---------|----------|
+| Cash                     | 23.77%  | 24.10%   |
+| Plac. with Banks/DFIs    |         |          |
+| Plac. with NBFCs         |         |          |
+| TFCs/Sukuks              |         |          |
+| PIBs                     |         |          |
+| T-Bills                  | 71.49%  | 71.56%   |
+| CPs/ST Sukuks            |         |          |
+| MTS                      |         |          |
+| Spread Trans.            |         |          |
+| Others                   | 4.75%   | 4.34%    |
+| **Total Assets**         | **100.00%** | **100.00%** |
+
 ## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
@@ -4641,7 +5194,6 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 Fund Managers' Report February 2025
 
----
 
 # Alfalah KPK Employee Pension Fund
 

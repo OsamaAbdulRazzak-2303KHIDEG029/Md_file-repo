@@ -3,9 +3,11 @@
 **Date:** February, 2025
 **Company:** Alfalah Investments
 
+---
+
 # Alfalah Asset Management Limited
 
-Risk Profile of Conventional Collective Investment Schemes/Plans
+## Risk Profile of Conventional Collective Investment Schemes/Plans
 
 | Fund Name                                 | Category                              | Risk Profile | Principal Risk Level     |
 | ----------------------------------------- | ------------------------------------- | ------------ | ------------------------ |
@@ -58,11 +60,13 @@ Risk Profile of Conventional Collective Investment Schemes/Plans
 | Alfalah KPK Employee Pension Fund         | Voluntary Pension Fund Scheme         |              |                          |
 | Money Market Sub Fund                     |                                       | Low          | Principal at low risk    |
 
-Alfalah Asset Management Limited Fund Managers' Report
+---
+
+# Alfalah Asset Management Limited Fund Managers' Report
 
 **Date:** February 2025
 
-Economic & Capital Markets Review
+## Economic & Capital Markets Review
 
 ### Economic Review & Outlook
 
@@ -98,7 +102,7 @@ Looking ahead, market participants will closely watch macroeconomic indicators, 
 
 Despite recent volatility, the market continues to trade at a significant discount relative to historical levels. The forward Price-to-Earnings (P/E) ratio of 7.0x and a dividend yield of 7.8% present compelling valuation opportunities for investors with a medium to long-term perspective. We maintain a constructive outlook and believe that attractive entry points remain for those seeking value-driven investment opportunities.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation, or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/obligations of Alfalah Asset Management Limited.
 
@@ -110,11 +114,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The investment objective of Alfalah GHP Cash Fund (AGCF) is to provide a regular stream of income at a comparative rate of return while preserving capital to the extent possible by investing in assets with low risk and a high degree of liquidity from a portfolio constituted of mostly money market securities and placements.
 
-Basic Information
+## Basic Information
 
 | Category:                | Money Market Scheme                                                                                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -136,7 +140,7 @@ Basic Information
 | Leverage:                | Nil                                                                                                                                                               |
 | Listing:                 | Pakistan Stock Exchange                                                                                                                                           |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -151,7 +155,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 3,336.8 |
 | ------------------------------------------------- | ------- |
@@ -161,7 +165,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.88%   |
 | Total Expense Ratio (Month)                       | 1.77%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance             | BM     | AGCF   |
 | ---------------------------- | ------ | ------ |
@@ -170,7 +174,7 @@ Fund Performance
 | Month - New (February, 2025) | 11.66% | 9.48%  |
 | Month - Old (February, 2025) | 10.61% | -      |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage | Credit Rating | Percentage |
 | ---------------------------- | ---------- | ------------- | ---------- |
@@ -182,7 +186,7 @@ Credit Quality (as % of Total Assets)
 | A+                           | 0.00%      | IG            | 0.00%      |
 | A                            | 0.00%      | NR/UR         | 0.53%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGCF   | BM     |
 | ------ | ------ | ------ |
@@ -200,7 +204,7 @@ Monthly Returns
 | Jan-25 | 9.89%  | 11.72% |
 | Feb-25 | 9.48%  | 11.66% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Category                | January       | February      |
 |-------------------------|--------------|--------------|
@@ -214,7 +218,9 @@ Asset Allocation (as % of Total Assets)
 | Others                 | 0.2588        | 0.5332       |
 | **Total Assets**       | **100**       | **100**      |
 
-Historical Performance (%)
+
+
+## Historical Performance (%)
 
 | Fiscal Year | AGCF  | BM    |
 |------------|-------|-------|
@@ -232,11 +238,12 @@ Historical Performance (%)
 | FY22       | 11.0076 | 9.32  |
 | FY23       | 17.4930 | 17.0670 |
 | FY24       | 22.1110 | 20.9033 |
-Dispute Resolution/Complaint Handling
+
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -262,11 +269,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Fund is to seek maximum possible preservation of capital and a competitive rate of return via investing primarily in money market securities.
 
-Basic Information
+## Basic Information
 
 | Category:                | Money Market Scheme                                                                                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -286,7 +293,7 @@ Basic Information
 | Leverage:                | Nil                                                                                                                                                               |
 | Listing                  | Pakistan Stock Exchange                                                                                                                                           |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -301,7 +308,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 106.1 |
 | ------------------------------------------------- | ----- |
@@ -311,7 +318,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)                         | 1.85% |
 | Total Expense Ratio (Month)                       | 1.49% |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | ACF - II |
 | ------------------------ | ------ | -------- |
@@ -320,7 +327,7 @@ Fund Performance
 | Month (Feb 25) - New     | 11.66% | 9.73%    |
 | Month (Feb 25) - Old     | 10.61% | -        |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 |                              |        |
 | ---------------------------- | ------ |
@@ -339,11 +346,11 @@ Credit Quality (as % of Total Assets)
 | IG                           | 0.00%  |
 | NR/UR                        | 1.64%  |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -366,11 +373,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 An open-ended Money Market Scheme which shall seek to generate competitive returns consistent with low risk from a portfolio constituted of short term instruments including cash deposits, money market placements and government securities. The Fund will maintain a high degree of liquidity, with time to maturity of single asset not exceeding six months and with weighted average time to maturity of Net Assets not exceeding 90 days.
 
-Basic Information
+## Basic Information
 
 | Category:                | Money Market Scheme                                                                                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -392,7 +399,7 @@ Basic Information
 | Listing:                 | Pakistan Stock Exchange                                                                                                                                           |
 | Risk Profile:            | Low                                                                                                                                                               |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -407,7 +414,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 97,116.9 |
 | ------------------------------------------------- | -------- |
@@ -417,7 +424,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.36%    |
 | Total Expense Ratio (Month)                       | 1.18%    |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance                               | BM     | AGMMF  |
 | ---------------------------------------------- | ------ | ------ |
@@ -427,7 +434,7 @@ Fund Performance
 | Month - Old (Feb'25)                           | 10.61% | -      |
 | Avg. Peer Group Return for Feb 2025 was 10.61% | -      | -      |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -447,7 +454,7 @@ Credit Quality (as % of Total Assets)
 | A                            | 0.00%      |
 | R                            | 0.42%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGMMF  | BM     |
 | ------ | ------ | ------ |
@@ -465,7 +472,7 @@ Monthly Returns
 | Jan-25 | 10.77% | 11.72% |
 | Feb-25 | 10.16% | 11.66% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Category                     | January | February |
 |------------------------------|---------|---------|
@@ -482,7 +489,9 @@ Asset Allocation (as % of Total Assets)
 | Others                       | 0.08    | 0.42    |
 | **Total Assets**             | **100.00** | **100.00** |
 
-Historical Performance (%)
+
+
+## Historical Performance (%)
 
 | Fiscal Year | AGMMF  | BM     |
 |------------|--------|--------|
@@ -501,11 +510,11 @@ Historical Performance (%)
 | FY23       | 17.70  | 17.05  |
 | FY24       | 22.24  | 20.90  |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -531,11 +540,11 @@ AMC Rating: "AM1" by VIS 29-Dec-23
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The investment objective of Alfalah Money Market Fund-II (AMMF-II) is to generate competitive returns with minimum risk and enhanced liquidity by investing primarily in short-term government securities, term deposits, and money market instruments with a weighted average time to maturity of Net Assets not exceeding 90 days.
 
-Basic Information
+## Basic Information
 
 | Category:                | Money Market Scheme                                                                                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -555,7 +564,7 @@ Basic Information
 | Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                                 |
 | Leverage:                | Nil                                                                                                                                                               |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -570,7 +579,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 166.3 |
 | ------------------------------------------------- | ----- |
@@ -580,7 +589,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.64% |
 | Total Expense Ratio (Month)                       | 0.78% |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AMMF-II |
 | ------------------------ | ------ | ------- |
@@ -589,7 +598,7 @@ Fund Performance
 | Month - New (Feb'25)     | 11.66% | 10.88%  |
 | Month - Old (Feb'25)     | 10.61% | -       |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -608,11 +617,11 @@ Credit Quality (as % of Total Assets)
 | IG                           | 0.00%      |
 | NR/UR                        | 4.10%      |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -636,11 +645,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Scheme is to deliver optimal risk adjusted returns by investing mainly in a mix of short to long term Government Securities and other debt instruments.
 
-Basic Information
+## Basic Information
 
 | Category:                | Income Scheme                                                                                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -662,7 +671,7 @@ Basic Information
 | Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                             |
 | Management Fee:          | up to 2% of the average Annual Net Assets                                                                                                                     |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -677,7 +686,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 15,400 |
 | ------------------------------------------------- | ------ |
@@ -687,7 +696,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 2.88%  |
 | Total Expense Ratio (Month)\*\*                   | 2.86%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AGSOF  |
 | ------------------------ | ------ | ------ |
@@ -698,7 +707,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was 9.42%
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating | Percentage |
 | ------------- | ---------- |
@@ -714,11 +723,11 @@ Credit Quality (as % of Total Assets)
 | A+            | 0.00%      |
 | NR/UR         | -8.28%     |
 
-TFC/Sukuk/CP Holdings (% of Total Assets)
+## TFC/Sukuk/CP Holdings (% of Total Assets)
 
 |SAMBA-TIER-II-TFC-{01-03-2021} |0.08%|
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGSOF  | BM     |
 | ------ | ------ | ------ |
@@ -736,44 +745,11 @@ Monthly Returns
 | Jan-25 | 13.81% | 12.24% |
 | Feb-25 | 7.24%  | 0.00%  |
 
-Asset Allocation (as % of Total Assets)
-
-| Category                    | January | February |
-|-----------------------------|---------|---------|
-| Cash                        | 7.64    | 1.27    |
-| Govt. Backed/ Gov. Guar.    | -       | -       |
-| TFCs/Sukuks                 | 0.07    | 0.08    |
-| PIBs                        | 56.25   | 91.83   |
-| T-Bills                     | 34.91   | 15.10   |
-| CPs                         | -       | -       |
-| Others                      | 1.12    | (8.28)  |
-| **Total Assets**            | **100.00** | **100.00** |
-
-
-Historical Performance (%)
-
-| Fiscal Year | AGSF  | BM     |
-|------------|--------|--------|
-| FY11       | -      | -      |
-| FY12       | -      | -      |
-| FY13       | -      | -      |
-| FY14       | 8.70   | 9.11   |
-| FY15       | 16.38  | 8.18   |
-| FY16       | 7.42   | 5.87   |
-| FY17       | 5.54   | 5.77   |
-| FY18       | 4.96   | 6.20   |
-| FY19       | 7.68   | 10.02  |
-| FY20       | 16.16  | 12.08  |
-| FY21       | 6.33   | 7.28   |
-| FY22       | 8.91   | 10.68  |
-| FY23       | 16.07  | 18.20  |
-| FY24       | 23.05  | 21.68  |
-
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -799,11 +775,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The investment objective of Alfalah GHP Income Fund (AGIF) is to minimize risk, construct a liquid portfolio of fixed income instruments and provide competitive returns to the Unit Holders. The management team shall ensure the active implementation of prudent investment practices, the highest professional standards and compliance with applicable laws.
 
-Basic Information
+## Basic Information
 
 | Category:                | Income Scheme                                                                                                                                            |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -825,7 +801,7 @@ Basic Information
 | Listing:                 | Pakistan Stock Exchange                                                                                                                                  |
 | Old Benchmark:           | 6 Month KIBOR                                                                                                                                            |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -840,7 +816,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)     | 2,761.49 |
 | ------------------------------------------ | -------- |
@@ -850,7 +826,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*              | 2.33%    |
 | Total Expense Ratio (Month)                | 2.41%    |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AGIF   |
 | ------------------------ | ------ | ------ |
@@ -861,7 +837,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was 9.42%
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -877,7 +853,7 @@ Credit Quality (as % of Total Assets)
 | BBB                          | 34.10%     |
 | NR/UR                        | 0.00%      |
 
-TFC/Sukuk Holdings (% of Total Assets)
+## TFC/Sukuk Holdings (% of Total Assets)
 
 |                                    |       |
 | ---------------------------------- | ----- |
@@ -885,7 +861,7 @@ TFC/Sukuk Holdings (% of Total Assets)
 | K-ELECTRIC LTD. - SUKUK (03-08-20) | 0.78% |
 | MUGHAL - SUKUK (02-03-2021)        | 0.42% |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGIF   | BM     |
 | ------ | ------ | ------ |
@@ -903,8 +879,7 @@ Monthly Returns
 | Jan-25 | 16.18% | 12.24% |
 | Feb-25 | 10.19% | 11.97% |
 
-
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Category                    | January | February |
 |-----------------------------|---------|---------|
@@ -920,7 +895,8 @@ Asset Allocation (as % of Total Assets)
 | Others                      | 4.87    | 2.76    |
 | **Total Assets**            | **100.00** | **100.00** |
 
-Historical Performance (%)
+
+## Historical Performance (%)
 
 | Fiscal Year | AGIF  | BM     |
 |------------|--------|--------|
@@ -938,12 +914,11 @@ Historical Performance (%)
 | FY22       | 7.97   | 10.80  |
 | FY23       | 17.13  | 18.33  |
 | FY24       | 17.49  | 11.97  |
-
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -965,11 +940,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Financial Sector Opportunity Fund seeks to provide a competitive rate of returns to its investors by investing in money market and debt instruments with major exposure in financial sector instruments.
 
-Basic Information
+## Basic Information
 
 | Category:                | Income Scheme                                                                                                                                            |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -990,7 +965,7 @@ Basic Information
 | Pricing:                 | Forward Day                                                                                                                                              |
 | Listing:                 | Pakistan Stock Exchange                                                                                                                                  |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1005,7 +980,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 749.1   |
 | ------------------------------------------------- | ------- |
@@ -1015,7 +990,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 0.84%   |
 | Total Expense Ratio (Month)                       | 0.84%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AFSOF  |
 | ------------------------ | ------ | ------ |
@@ -1026,7 +1001,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was 9.42%
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -1045,11 +1020,11 @@ Credit Quality (as % of Total Assets)
 | IG                           | 0.00%      |
 | NR/UR                        | 2.99%      |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -1073,11 +1048,11 @@ AMC Rating: "AM1" by VIS 29-Dec-23
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of Alfalah MTS Fund (AMTSF) is to provide competitive returns primarily through investment in the MTS market.
 
-Basic Information
+## Basic Information
 
 | Category:                | Income Scheme                                                                                                                                            |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1098,7 +1073,7 @@ Basic Information
 | Pricing:                 | Forward Day                                                                                                                                              |
 | Management Fee:          | up to 1.00% of average net assets of the Scheme.                                                                                                         |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1113,7 +1088,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 120.7 |
 | ------------------------------------------------- | ----- |
@@ -1123,7 +1098,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 0.92% |
 | Total Expense Ratio (Month)                       | 1.52% |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance                              | BM     | AMTSF  |
 | --------------------------------------------- | ------ | ------ |
@@ -1133,7 +1108,7 @@ Fund Performance
 | Month - Old (Feb'25)                          | 11.81% | -      |
 | Avg. Peer Group Return for Feb 2025 was 9.42% | -      | -      |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -1152,11 +1127,11 @@ Credit Quality (as % of Total Assets)
 | IG                           | 0.00%      |
 | NR/UR                        | 12.73%     |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -1180,11 +1155,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The primary investment objective of the fund is to aim to generate stable and consistent returns while seeking capital growth through a diversified portfolio of high-quality debt securities and liquid money market instruments and placements.
 
-Basic Information
+## Basic Information
 
 | Category                      | Aggressive Income                                                                                                                                                |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1206,7 +1181,7 @@ Basic Information
 | Dealing Days                  | Monday - Friday                                                                                                                                                  |
 | Cut-off Time                  | 9:00 am - 4:00 pm                                                                                                                                                |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1221,7 +1196,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 1,195.05 |
 | ------------------------------------------------- | -------- |
@@ -1231,7 +1206,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 2.91%    |
 | Total Expense Ratio (Month)\*\*                   | 2.92%    |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance       | BM     | AGIMF  |
 | ---------------------- | ------ | ------ |
@@ -1242,7 +1217,26 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was 8.66%
 
-Credit Quality (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
+
+|                           | January    | February   |
+| ------------------------- | ---------- | ---------- |
+| Cash                      | 24.05      | 55.05      |
+| Plac. with Banks/DFIs     | 0.00       | 0.00       |
+| Plac. with NBFCs          | 0.00       | 0.00       |
+| Rev. Repo ag. GS          | 0.00       | 0.00       |
+| Rev. Repo ag. other Secs. | 0.00       | 0.00       |
+| Gov. Guar./ Ijara Sukuk   | 8.44       | 8.69       |
+| TFCs/Sukuks               | 13.96      | 14.37      |
+| PIBs                      | 25.98      | 26.74      |
+| T-Bills                   | 24.51      | 25.22      |
+| CPs                       | 0.00       | 0.00       |
+| MTS                       | 0.00       | 0.00       |
+| Spread Trans.             | 0.00       | 0.00       |
+| Others                    | 3.06       | -30.07     |
+| **Total Assets**          | **100.00** | **100.00** |
+
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating    | Percentage |
 | ---------------- | ---------- |
@@ -1258,41 +1252,7 @@ Credit Quality (as % of Total Assets)
 | NR/UR            | 14.97%     |
 | A+               | 0.05%      |
 
-Asset Allocation (as % of Total Assets)
-
-| Category                    | January | February |
-|-----------------------------|---------|---------|
-| Cash                        | 54.39   | 11.33   |
-| Plac. with Banks/DFIs       | 0.00    | 0.00    |
-| Gov. Guar./ Ijara Sukuk     | 9.93    | 10.16   |
-| TFCs/Sukuks                 | 7.77    | 8.21    |
-| PIBs                        | 3.78    | 31.90   |
-| T-Bills                     | 22.72   | 23.44   |
-| CPs                         | 0.00    | 0.00    |
-| MTS                         | 0.00    | 0.00    |
-| Spread Trans.               | 0.00    | 0.00    |
-| Others                      | 1.40    | 14.97   |
-| **Total Assets**            | **100.00** | **100.00** |
-
-Monthly Returns
-
-| Month  | AGIMF  | BM     |
-| ------ | ------ | ------ |
-| Feb-24 | 17.87% | 21.32% |
-| Mar-24 | 17.15% | 21.18% |
-| Apr-24 | 18.74% | 21.18% |
-| May-24 | 20.98% | 20.84% |
-| Jun-24 | 24.14% | 19.75% |
-| Jul-24 | 18.26% | 18.95% |
-| Aug-24 | 16.58% | 17.82% |
-| Sep-24 | 26.65% | 16.41% |
-| Oct-24 | 14.13% | 13.94% |
-| Nov-24 | 18.21% | 13.28% |
-| Dec-24 | 9.65%  | 12.49% |
-| Jan-25 | 12.96% | 12.29% |
-| Feb-25 | 6.61%  | 12.22% |
-
-Historical Performance (%)
+## Historical Performance (%)
 
 | FY   | AGIMF              | BM               |
 | ---- | ------------------ | ---------------- |
@@ -1311,7 +1271,61 @@ Historical Performance (%)
 | FY23 | 19.4082538449726   | 18.6213941942574 |
 | FY24 | 23.5987525003804   | 21.6945117647059 |
 
-Details of Non-Compliant Investments
+## Monthly Returns
+
+| Month  | AGIMF  | BM     |
+| ------ | ------ | ------ |
+| Feb-24 | 17.87% | 21.32% |
+| Mar-24 | 17.15% | 21.18% |
+| Apr-24 | 18.74% | 21.18% |
+| May-24 | 20.98% | 20.84% |
+| Jun-24 | 24.14% | 19.75% |
+| Jul-24 | 18.26% | 18.95% |
+| Aug-24 | 16.58% | 17.82% |
+| Sep-24 | 26.65% | 16.41% |
+| Oct-24 | 14.13% | 13.94% |
+| Nov-24 | 18.21% | 13.28% |
+| Dec-24 | 9.65%  | 12.49% |
+| Jan-25 | 12.96% | 12.29% |
+| Feb-25 | 6.61%  | 12.22% |
+
+
+## Asset Allocation (as % of Total Assets)
+
+| Category                    | January | February |
+|-----------------------------|---------|---------|
+| Cash                        | 54.39   | 11.33   |
+| Plac. with Banks/DFIs       | 0.00    | 0.00    |
+| Gov. Guar./ Ijara Sukuk     | 9.93    | 10.16   |
+| TFCs/Sukuks                 | 7.77    | 8.21    |
+| PIBs                        | 3.78    | 31.90   |
+| T-Bills                     | 22.72   | 23.44   |
+| CPs                         | 0.00    | 0.00    |
+| MTS                         | 0.00    | 0.00    |
+| Spread Trans.               | 0.00    | 0.00    |
+| Others                      | 1.40    | 14.97   |
+| **Total Assets**            | **100.00** | **100.00** |
+
+
+## Historical Performance (%)
+
+| Fiscal Year | AGIMF  | BM     |
+|------------|--------|--------|
+| FY11       | -2.37  | 13.89  |
+| FY12       | -3.90  | 12.78  |
+| FY13       | 11.23  | 10.25  |
+| FY14       | 12.35  | 10.16  |
+| FY15       | 14.15  | 9.25   |
+| FY16       | 8.38   | 6.83   |
+| FY17       | 5.90   | 6.38   |
+| FY18       | 4.90   | 6.69   |
+| FY19       | 6.26   | 10.75  |
+| FY20       | 15.26  | 12.27  |
+| FY21       | -0.31  | 7.73   |
+| FY22       | 6.84   | 11.23  |
+| FY23       | 19.41  | 18.62  |
+| FY24       | 23.60  | 21.69  |
+## Details of Non-Compliant Investments
 
 | Name                     | Type  | Value Before | Provisioning | Value After | % Gross Assets | % Net Assets |
 | ------------------------ | ----- | ------------ | ------------ | ----------- | -------------- | ------------ |
@@ -1319,15 +1333,15 @@ Details of Non-Compliant Investments
 | Agritech Limited"        | TFC   | 20,470,000   | 20,470,000   | 0           | 0.00%          | 0.00%        |
 | Hascol Petroleum Limited | SUKUK | 25,995,851   | 25,995,851   | 0           | 0.00%          | 0.00%        |
 
-Top Ten TFC/Sukuk Holdings (% of Total Assets)
+## Top Ten TFC/Sukuk Holdings (% of Total Assets)
 
 Kashf Foundation - 10 /10/20237.97%
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -1351,11 +1365,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The prime objective of Alfalah Income & Growth Fund is to provide superior long-term risk adjusted returns by investing in a diverse pool of fixed income securities, including money market instruments. In particular, the aim is to minimize interest rate risk through duration management and default risk portfolio diversification. The Fund will employ prudent and disciplined investment management, and maximize the total investment return through systematic and informed security selection.
 
-Basic Information
+## Basic Information
 
 | Category:                | Aggressive Income Scheme                                                                                                                                         |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1376,7 +1390,7 @@ Basic Information
 | Par Value:               | PKR 100                                                                                                                                                          |
 | Pricing:                 | Forward Day                                                                                                                                                      |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1391,7 +1405,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 101.8  |
 | ------------------------------------------------- | ------ |
@@ -1401,7 +1415,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.89%  |
 | Total Expense Ratio (Month)                       | 21.69% |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AIGF   |
 | ------------------------ | ------ | ------ |
@@ -1412,7 +1426,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was 8.66%
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage | Credit Rating | Percentage |
 | ---------------------------- | ---------- | ------------- | ---------- |
@@ -1424,11 +1438,11 @@ Credit Quality (as % of Total Assets)
 | A+                           | 0.29%      | BBB           | 0.00%      |
 | A                            | 80.56%     | NR/UR         | -23.54%    |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -1449,11 +1463,11 @@ Fund Managers' Report February 28, 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
-The investment objective of Alfalah GHP Alpha Fund (AGAF) is seeking long-term capital appreciation from a portfolio that is substantially constituted of equity and equity-related securities.
+The investment objective of Alfalah GHP Alpha Fund (AGAF) is seeking long-term capital appreciation from a portfolio that is substantially constituted of equity and equity-related securitiesAlfalah Income 0.
 
-Basic Information
+## Basic Information
 
 | Category:                | Equity Scheme                                                    |
 | ------------------------ | ---------------------------------------------------------------- |
@@ -1474,7 +1488,7 @@ Basic Information
 | Leverage:                | Nil                                                              |
 | Listing:                 | Pakistan Stock Exchange                                          |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1489,7 +1503,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as on February 2025)           | 1,733.24 |
 | ------------------------------------------------- | -------- |
@@ -1501,7 +1515,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 4.80%    |
 | Total Expense Ratio (Month)                       | 5.19%    |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance    | BM     | AGAF   |
 | ------------------- | ------ | ------ |
@@ -1511,7 +1525,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was -0.05%
 
-Asset Allocation (Sector Wise as a % of Total Assets)
+## Asset Allocation (Sector Wise as a % of Total Assets)
 
 | Sector                          | Allocation |
 | ------------------------------- | ---------- |
@@ -1523,7 +1537,7 @@ Asset Allocation (Sector Wise as a % of Total Assets)
 | Others                          | 28.01%     |
 | Total                           | 96.54%     |
 
-Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 | Holding                               | Percentage |
 | ------------------------------------- | ---------- |
@@ -1538,7 +1552,7 @@ Top 10 Holdings (% of Total Assets)
 | Cherat Cement Company Limited         | 3.14%      |
 | Bank AL Habib Limited                 | 3.13%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGAF   | BM     |
 | ------ | ------ | ------ |
@@ -1556,7 +1570,7 @@ Monthly Returns
 | Jan-25 | -2.44% | -0.76% |
 | Feb-25 | -0.37% | -0.88% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Category                     | January | February |
 |------------------------------|---------|---------|
@@ -1574,7 +1588,7 @@ Asset Allocation (as % of Total Assets)
 | Others                       | 3.82    | 0.79    |
 | **Total Assets**             | **100.00** | **100.00** |
 
-Historical Performance (%)
+## Historical Performance (%)
 
 | Fiscal Year | AGAF  | BM     |
 |------------|--------|--------|
@@ -1592,16 +1606,11 @@ Historical Performance (%)
 | FY22       | -17.98 | -12.28 |
 | FY23       | -0.31  | -0.21  |
 | FY24       | 90.33  | 89.24  |
-
-
-
-
-
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah Asset Management Limited or any investment scheme managed by it.
 
@@ -1617,11 +1626,11 @@ Selling & marketing expenses - for the period ended February 2025, PKR Mn 1.155.
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The investment objective of Alfalah GHP Stock Fund (AGSF) is to seek long-term capital growth by investing primarily in a diversified pool of equities and equity-related instruments. The management team shall ensure the active implementation of prudent investment practices, the highest professional standards, and compliance with applicable laws.
 
-Basic Information
+## Basic Information
 
 | Category:                | Equity Scheme                                                        |
 | ------------------------ | -------------------------------------------------------------------- |
@@ -1642,7 +1651,7 @@ Basic Information
 | Leverage:                | Nil                                                                  |
 | Listing:                 | Pakistan Stock Exchange                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1657,7 +1666,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as of February 2025)           | 6,491.23 |
 | ------------------------------------------------- | -------- |
@@ -1669,7 +1678,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*\*                   | 5.18%    |
 | Total Expense Ratio (Month)                       | 5.23%    |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance      | BM     | AGSF   |
 | --------------------- | ------ | ------ |
@@ -1679,7 +1688,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was -0.05%
 
-Asset Allocation (Sector Wise as a % of Total Assets)
+## Asset Allocation (Sector Wise as a % of Total Assets)
 
 | Sector                          | Percentage |
 | ------------------------------- | ---------- |
@@ -1691,7 +1700,7 @@ Asset Allocation (Sector Wise as a % of Total Assets)
 | Others                          | 29.06%     |
 | **Total**                       | **97.52%** |
 
-Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 | Holding                               | Percentage |
 | ------------------------------------- | ---------- |
@@ -1706,7 +1715,7 @@ Top 10 Holdings (% of Total Assets)
 | Sazgar Engineering Works Limited      | 3.35%      |
 | Pakistan State Oil Company Limited    | 2.91%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGSF   | BM     |
 | ------ | ------ | ------ |
@@ -1724,7 +1733,7 @@ Monthly Returns
 | Jan-25 | -2.51% | -0.76% |
 | Feb-25 | -0.48% | -0.88% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Category                     | January | February |
 |------------------------------|---------|---------|
@@ -1742,7 +1751,8 @@ Asset Allocation (as % of Total Assets)
 | Others                       | 0.10    | 0.34    |
 | **Total Assets**             | **100.00** | **100.00** |
 
-Historical Performance (%)
+
+## Historical Performance (%)
 
 | Fiscal Year | AGSF  | BM     |
 |------------|--------|--------|
@@ -1761,11 +1771,11 @@ Historical Performance (%)
 | FY23       | -0.85  | -0.21  |
 | FY24       | 95.65  | 89.24  |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation, or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load, etc.
 
@@ -1787,11 +1797,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of Alfalah Stock Fund - II (ASF-II) is to provide capital growth by investing primarily in a diversified pool of equities and equity-related investments to diversify fund risk and optimize potential returns.
 
-Basic Information
+## Basic Information
 
 | Category:                | Equity Scheme                                                        |
 | ------------------------ | -------------------------------------------------------------------- |
@@ -1811,7 +1821,7 @@ Basic Information
 | Leverage:                | Nil                                                                  |
 | Listing:                 | Pakistan Stock Exchange                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1826,7 +1836,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as of February 2025)           | 104.00 |
 | ------------------------------------------------- | ------ |
@@ -1835,7 +1845,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)                         | 4.91%  |
 | Total Expense Ratio (Month)                       | 5.20%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance    | BM     | ASF - II |
 | ------------------- | ------ | -------- |
@@ -1845,7 +1855,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was -0.05%
 
-Asset Allocation (Sector Wise as a % of Total Assets)
+## Asset Allocation (Sector Wise as a % of Total Assets)
 
 | Sector                          | Percentage |
 | ------------------------------- | ---------- |
@@ -1857,7 +1867,15 @@ Asset Allocation (Sector Wise as a % of Total Assets)
 | Others                          | 26.81%     |
 | **Total**                       | **86.35%** |
 
-Top 10 Holdings (% of Total Assets)
+## Historical Performance
+
+|                       | FYTD   | FY24    | FY23    | FY22    | FY21   | FY20  | FY19    | FY18    | FY17   | FY16  | FY15   | FY14   |
+| --------------------- | ------ | ------- | ------- | ------- | ------ | ----- | ------- | ------- | ------ | ----- | ------ | ------ |
+| **NAV**               | 136    | 89      | 105     | 120     | 164    | 90    | 86      | 120     | 147    | 129   | 120    | 100    |
+| **Return**            | 53.69% | -15.59% | -12.73% | -26.43% | 81.45% | 4.57% | -28.24% | -18.31% | 14.30% | 7.39% | 19.83% | 14.69% |
+| **Cumulative Return** | 36.26% |         |         |         |        |       |         |         |        |       |        |        |
+
+## Top 10 Holdings (% of Total Assets)
 
 | Holding                               | Percentage |
 | ------------------------------------- | ---------- |
@@ -1872,11 +1890,11 @@ Top 10 Holdings (% of Total Assets)
 | Mari Petroleum Company Limited        | 3.85%      |
 | Soneri Bank Limited                   | 3.73%      |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -1895,11 +1913,11 @@ Selling & marketing expense - for the period ended February 2025, PKR Mn 0.000.
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah GHP Dedicated Equity Fund (AGDEF) is an Open-end Equity Fund. The objective of AGDEF is to provide ‘Fund of Funds’ Schemes an avenue for investing in Equities.
 
-Basic Information
+## Basic Information
 
 | Category:                | Equity Scheme                                                     |
 | ------------------------ | ----------------------------------------------------------------- |
@@ -1920,7 +1938,7 @@ Basic Information
 | Listing:                 | Pakistan Stock Exchange                                           |
 | Leverage:                | Nil                                                               |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -1935,7 +1953,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as of February 2025)    | 0.00     |
 | ------------------------------------------ | -------- |
@@ -1947,7 +1965,7 @@ Fund Statistics
 | Total Expense Ratio (Month)                | 4.87%    |
 | Total Expense Ratio (YTD)\*\*              | 4.66%    |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance | BM     | AGDEF  |
 | ---------------- | ------ | ------ |
@@ -1957,7 +1975,7 @@ Fund Performance
 
 Avg. Peer Group Return for Feb 2025 was -0.05%
 
-Asset Allocation (Sector Wise as a % of Total Assets)
+## Asset Allocation (Sector Wise as a % of Total Assets)
 
 | Sector                          | Allocation |
 | ------------------------------- | ---------- |
@@ -1969,7 +1987,7 @@ Asset Allocation (Sector Wise as a % of Total Assets)
 | Others                          | 28.07%     |
 | Total                           | 94.41%     |
 
-Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 | Holding Name                          | Percentage |
 | ------------------------------------- | ---------- |
@@ -1984,7 +2002,7 @@ Top 10 Holdings (% of Total Assets)
 | Maple Leaf Cement Factory Limited     | 3.31%      |
 | Cherat Cement Company Limited         | 3.17%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGDEF  | BM     |
 | ------ | ------ | ------ |
@@ -2002,7 +2020,7 @@ Monthly Returns
 | Jan-25 | -1.29% | -0.76% |
 | Feb-25 | -0.11% | -0.88% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Category                     | January | February |
 |------------------------------|---------|---------|
@@ -2021,18 +2039,18 @@ Asset Allocation (as % of Total Assets)
 | **Total Assets**             | **100.00** | **100.00** |
 
 
-Historical Performance (%)
+## Historical Performance (%)
 
 | Fiscal Year | AGDEF  | BM     |
 |------------|--------|--------|
 | FY23       | -0.97  | -3.46  |
 | FY24       | 53.41  | 44.37  |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -2051,11 +2069,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Consumer Index Exchange Traded Fund (ACIETF) is an open-ended scheme that is traded on Pakistan Stock Exchange and aims to track the performance of the Benchmark index. The index shall be periodically re-balanced & reconstituted as specified in the offering document in order to provide long-term capital appreciation and dividends yield to the investors.
 
-Basic Information
+## Basic Information
 
 | Category:                | Exchange Traded Fund              |
 | ------------------------ | --------------------------------- |
@@ -2076,7 +2094,7 @@ Basic Information
 | Leverage:                | Nil                               |
 | Listing:                 | Pakistan Stock Exchange           |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -2091,7 +2109,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as of Feb 2025)            | 20.68  |
 | --------------------------------------------- | ------ |
@@ -2103,7 +2121,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                 | 2.48%  |
 | Total Expense Ratio (Month)                   | 2.34%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance | BM     | ACIETF |
 | ---------------- | ------ | ------ |
@@ -2111,7 +2129,7 @@ Fund Performance
 | YTD              | 43.94% | 40.29% |
 | Month (Feb 2025) | 1.06%  | 0.85%  |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Sector                        | Percentage |
 | ----------------------------- | ---------- |
@@ -2123,7 +2141,7 @@ Asset Allocation (as % of Total Assets)
 | Others                        | 11.60%     |
 | **Total**                     | **95.27%** |
 
-Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 | Holding                            | Percentage |
 | ---------------------------------- | ---------- |
@@ -2138,7 +2156,7 @@ Top 10 Holdings (% of Total Assets)
 | Sazgar Engineering Works Limited   | 5.11%      |
 | Interloop Limited                  | 4.29%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ACIETF | BM     |
 | ------ | ------ | ------ |
@@ -2156,7 +2174,7 @@ Monthly Returns
 | Jan-25 | -4.96% | -4.77% |
 | Feb-25 | 0.85%  | 1.06%  |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -2176,7 +2194,7 @@ Asset Allocation (as % of Total Assets)
 | **Total Assets**                | **100.00%** | **100.00%** |
 
 
-ACIETF vs. BM (Fiscal Year)
+## ACIETF vs. BM (Fiscal Year)
 
 | Fiscal Year | ACIETF  | BM      |
 |-------------|---------|---------|
@@ -2194,12 +2212,11 @@ ACIETF vs. BM (Fiscal Year)
 | FY22        | -20.50  | -25.38  |
 | FY23        | -15.08  | -14.36  |
 | FY24        | 63.60   | 74.81   |
-
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah Asset Investment Management Limited or any investment scheme managed by it.
 
@@ -2220,11 +2237,11 @@ Fund Managers' Report February 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The investment objective of Alfalah GHP Value Fund (AGVF) is to generate stable and consistent returns from a well-diversified portfolio consisting of high-quality equity and debt securities.
 
-Basic Information
+## Basic Information
 
 | Category:                | Asset Allocation Scheme                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2246,7 +2263,7 @@ Basic Information
 | Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Leverage:                | Nil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -2261,7 +2278,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as of February 2025)           | 336.64 |
 | ------------------------------------------------- | ------ |
@@ -2273,7 +2290,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*\*                   | 5.03%  |
 | Total Expense Ratio (Month)                       | 4.99%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance       | BM     | AGVF   |
 | ---------------------- | ------ | ------ |
@@ -2282,7 +2299,7 @@ Fund Performance
 | Month (Feb 2025) - New | -0.65% | 0.73%  |
 | Month (Feb 2025) - Old | -0.53% | N/A    |
 
-Asset Allocation (Sector Wise as % of Total Assets)
+## Asset Allocation (Sector Wise as % of Total Assets)
 
 | Sector                          | Percentage |
 | ------------------------------- | ---------- |
@@ -2294,7 +2311,7 @@ Asset Allocation (Sector Wise as % of Total Assets)
 | Others                          | 22.18%     |
 | **Total**                       | **79.87%** |
 
-Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 | Holding                               | Percentage |
 | ------------------------------------- | ---------- |
@@ -2309,7 +2326,7 @@ Top 10 Holdings (% of Total Assets)
 | Bank AL Habib Limited                 | 2.88%      |
 | Sazgar Engineering Works Limited      | 2.49%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGVF   | BM     |
 | ------ | ------ | ------ |
@@ -2327,7 +2344,7 @@ Monthly Returns
 | Jan-25 | -1.32% | -0.51% |
 | Feb-25 | 0.73%  | -0.65% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Category                     | January | February |
 |------------------------------|---------|---------|
@@ -2346,7 +2363,7 @@ Asset Allocation (as % of Total Assets)
 | Others                       | 4.07    | 2.63    |
 | **Total Assets**             | **100.00** | **100.00** |
 
-Historical Performance (%)
+## Historical Performance (%)
 
 | Fiscal Year | AGVF  | BM     |
 |------------|--------|--------|
@@ -2364,12 +2381,11 @@ Historical Performance (%)
 | FY22       | -0.14  | -0.09  |
 | FY23       | 0.04   | 0.07   |
 | FY24       | 0.58   | 0.54   |
-
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah Asset Management Limited or any investment scheme managed by it.
 
@@ -2387,11 +2403,11 @@ Fund Managers' Report February 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The investment objective of the Fund is to seek long-term capital appreciation through investments in equity stock, fixed income, money market, bank deposits primarily from the financial sector/segment/industry, and any other instrument as defined in the Constitutive documents.
 
-Basic Information
+## Basic Information
 
 | Category:                   | Asset Allocation Scheme                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2412,7 +2428,7 @@ Basic Information
 | Cut-off Time:               | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Listing:                    | Pakistan Stock Exchange                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -2427,7 +2443,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as of February 2025)           | 3,059.84 |
 | ------------------------------------------------- | -------- |
@@ -2439,11 +2455,11 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*\*                   | 0.35%    |
 | Total Expense Ratio (Month)                       | 0.34%    |
 
-Asset Allocation (Sector Wise as a % of Total Assets)
+# Asset Allocation (Sector Wise as a % of Total Assets)
 
 |Commercial Banks|62.15%|
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance    | BM     | AGFVF  |
 | ------------------- | ------ | ------ |
@@ -2452,7 +2468,7 @@ Fund Performance
 | Month (Feb 2025)    | 0.91%  | 1.02%  |
 | Month (Feb 2025)    | 0.91%  |        |
 
-Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 |                                               |        |
 | --------------------------------------------- | ------ |
@@ -2465,7 +2481,7 @@ Top 10 Holdings (% of Total Assets)
 | BOP-TFC-III-{17-04-2023}-{17-04-2033}         | 6.42%  |
 | HBL-TFC-II-{26-09-2019}-{26-09-2049}          | 3.23%  |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGFVF | BM    |
 | ------ | ----- | ----- |
@@ -2483,11 +2499,40 @@ Monthly Returns
 | Jan-25 | 1.10% | 1.01% |
 | Feb-25 | 1.02% | 0.91% |
 
-Dispute Resolution/Complaint Handling
+## Asset Allocation (as % of Total Assets)
+
+| Category                     | January | February |
+|------------------------------|---------|---------|
+| Cash                         | 17%     | 18%     |
+| T-Bills                      | 0%      | 0%      |
+| Govt. Backed/ Gov. Guar.     | 0%      | 0%      |
+| TFCs/Sukuks                  | 63%     | 62%     |
+| PIBs                         | 18%     | 18%     |
+| Others                       | 2%      | 2%      |
+| **Total Assets**             | **100%** | **100%** |
+
+## Historical Performance (%)
+
+| Fiscal Year | AGFVF | BM     |
+|------------|--------|--------|
+| FY11       | 5.66   | 20.09  |
+| FY12       | 5.77   | 11.46  |
+| FY13       | 30.09  | 31.06  |
+| FY14       | 19.52  | 25.50  |
+| FY15       | 25.48  | 12.50  |
+| FY16       | 18.30  | 8.18   |
+| FY17       | #DIV/0! | 17.60  |
+| FY18       | -12.04 | -6.76  |
+| FY19       | -8.80  | -6.93  |
+| FY20       | 0.94   | 5.82   |
+| FY21       | 28.45  | 29.21  |
+| FY22       | -13.89 | -10.46 |
+
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah Asset Management Limited or any investment scheme managed by it.
 
@@ -2510,11 +2555,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The prime objective of Alfalah Asset Allocation Fund (AAAF) is to provide investors with an opportunity to earn long-term capital appreciation by optimizing through a broad mix of asset classes encompassing equity, fixed income, and money market instruments.
 
-Basic Information
+## Basic Information
 
 | Category:                   | Asset Allocation Scheme                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2534,7 +2579,7 @@ Basic Information
 | Cut-off Time:               | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Leverage:                   | Nil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -2549,7 +2594,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as of February 2025)           | 104.95 |
 | ------------------------------------------------- | ------ |
@@ -2558,7 +2603,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)                         | 3.00%  |
 | Total Expense Ratio (Month)                       | 4.38%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance       | BM      | AAAF    |
 | ---------------------- | ------- | ------- |
@@ -2567,7 +2612,7 @@ Fund Performance
 | Month (January 2025)   | 0.56%   | 0.49%   |
 | Month (Jan 2025) - Old | 0.56%   |         |
 
-Asset Allocation (Sector Wise as % of Total Assets)
+## Asset Allocation (Sector Wise as % of Total Assets)
 
 | Sector                     | Percentage |
 | -------------------------- | ---------- |
@@ -2578,7 +2623,7 @@ Asset Allocation (Sector Wise as % of Total Assets)
 | Technology & Communication | 0.27%      |
 | Others                     | 31.98%     |
 
-Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 | Holding                                          | Percentage |
 | ------------------------------------------------ | ---------- |
@@ -2593,11 +2638,19 @@ Top 10 Holdings (% of Total Assets)
 | Sui Northern Gas Pipelines Limited               | 3.00%      |
 | MCB Bank Limited                                 | 2.84%      |
 
-Dispute Resolution/Complaint Handling
+## Historical Performance
+
+|                       | FYTD    | FY24   | FY23  | FY22    | FY21   | FY20  | FY19    | FY18    | FY17  | FY16   | FY15   | FY14   |
+| --------------------- | ------- | ------ | ----- | ------- | ------ | ----- | ------- | ------- | ----- | ------ | ------ | ------ |
+| **NAV**               | 271     | 191    | 114   | 109     | 144    | 75    | 73      | 93      | 119   | 113    | 116    | 100    |
+| **Return**            | 41.95%  | 67.65% | 5.09% | -24.59% | 92.39% | 1.83% | -20.96% | -21.64% | 4.67% | -2.46% | 16.16% | 17.01% |
+| **Cumulative Return** | 171.41% |        |       |         |        |       |         |         |       |        |        |        |
+
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah Asset Management Limited or any investment scheme managed by it.
 
@@ -2611,13 +2664,13 @@ Selling & marketing expenses - for the period ended February 2025, PKR Mn 0.000.
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-Fund Managers' Report February 2025
+## Fund Managers' Report February 2025
 
-Alfalah Stable Return Fund Plan
+# Alfalah Stable Return Fund Plan
 
 # Investment Plans Summary Report for February Year 2025
 
-CIS General Information
+## CIS General Information
 
 | CIS Name                                            | Alfalah Stable Return Fund Plan |
 | --------------------------------------------------- | ------------------------------- |
@@ -2626,7 +2679,7 @@ CIS General Information
 | Cumulative Net Assets (CIS)                         | PKR 18,940,731,779              |
 | Risk Profile (CIS)                                  | Low                             |
 
-CIS Level Expense Breakdown
+## CIS Level Expense Breakdown
 
 | Expense Type                | Amount (PKR) |
 | --------------------------- | ------------ |
@@ -2636,7 +2689,7 @@ CIS Level Expense Breakdown
 | Formation Cost Amortization | -            |
 | Other Expenses              | 11,414,249   |
 
-Investment Plans Overview
+## Investment Plans Overview
 
 | Investment Plan Name          | Date of Launch | Maturity Date | Risk Profile | Net Assets (PKR) | Status  |
 | ----------------------------- | -------------- | ------------- | ------------ | ---------------- | ------- |
@@ -2665,11 +2718,11 @@ Investment Plans Overview
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, and certificate of musharakahs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Fixed Return                                                                                                                     |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -2693,7 +2746,7 @@ Basic Information
 | Risk Profile:            | Low                                                                                                                              |
 | Management Fee:          | up to 1.50% per annum of the average daily net assets                                                                            |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -2708,7 +2761,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 1,458.0 |
 | ------------------------------------------------- | ------- |
@@ -2718,7 +2771,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*                       | 1.87%   |
 | Total Expense Ratio (Month)                       | 1.88%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance              | BM     | ASRF-11 |
 | ----------------------------- | ------ | ------- |
@@ -2727,7 +2780,7 @@ Fund Performance
 | Month - New (February, 2025): | 20.54% | 10.03%  |
 | Month - Old (February, 2025): | 10.61% |         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -2744,7 +2797,7 @@ Credit Quality (as % of Total Assets)
 | BBB+                         | 0.00%      |
 | BBB                          | 0.00%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASRF-11 | BM     |
 | ------ | ------- | ------ |
@@ -2762,7 +2815,7 @@ Monthly Returns
 | Jan-25 | 9.95%   | 20.54% |
 | Feb-25 | 10.03%  | 20.54% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -2776,11 +2829,11 @@ Asset Allocation (as % of Total Assets)
 | Others                          | 0.32    | 0.30     |
 | **Total Assets**                | **100.00%** | **100.00%** |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -2796,11 +2849,11 @@ Fund Managers' Report February 28, 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, and certificate of musharakahs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Fixed Return                                                                                                                      |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -2824,7 +2877,7 @@ Basic Information
 | Risk Profile:            | Low                                                                                                                               |
 | Management Fee:          | up to 1.50% per annum of the average daily net assets                                                                             |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -2839,7 +2892,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 5,292.6 |
 | ------------------------------------------------- | ------- |
@@ -2849,7 +2902,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*                       | 0.99%   |
 | Total Expense Ratio (Month)                       | 0.96%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance             | BM     | ASRF-12 |
 | ---------------------------- | ------ | ------- |
@@ -2858,7 +2911,7 @@ Fund Performance
 | Month - New (February, 2025) | 13.77% | 9.53%   |
 | Month - Old (January, 2025)  | 10.61% | -       |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -2875,7 +2928,7 @@ Credit Quality (as % of Total Assets)
 | A+                           | 0.00%      |
 | NR/UR/MTS                    | 0.09%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASRF-12 | BM     |
 | ------ | ------- | ------ |
@@ -2893,7 +2946,7 @@ Monthly Returns
 | Jan-25 | 12.96%  | 13.77% |
 | Feb-25 | 9.53%   | 13.77% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -2906,11 +2959,12 @@ Asset Allocation (as % of Total Assets)
 | CPs                             | -       | -        |
 | Others                          | 0.04    | 0.09     |
 | **Total Assets**                | **100.00%** | **100.00%** |
-Dispute Resolution/Complaint Handling
+
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -2928,11 +2982,11 @@ Fund Managers' Report February 28, 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, and certificate of musharakahs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Fixed Return                                                                                                                     |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -2956,7 +3010,7 @@ Basic Information
 | Leverage:                | Nil                                                                                                                              |
 | Listing:                 | Pakistan Stock Exchange                                                                                                          |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -2971,7 +3025,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 4,219.0 |
 | ------------------------------------------------- | ------- |
@@ -2981,7 +3035,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*                       | 0.95%   |
 | Total Expense Ratio (Month)                       | 0.96%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance             | BM     | ASRF-13 |
 | ---------------------------- | ------ | ------- |
@@ -2990,7 +3044,7 @@ Fund Performance
 | Month - New (February, 2025) | 13.90% | 8.44%   |
 | Month - Old (January, 2025)  | 10.61% | -       |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -3007,7 +3061,7 @@ Credit Quality (as % of Total Assets)
 | A+                           | 0.00%      |
 | NR/UR/MTS                    | 0.45%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASRF-13 | BM     |
 | ------ | ------- | ------ |
@@ -3025,7 +3079,7 @@ Monthly Returns
 | Jan-25 | 11.57%  | 13.90% |
 | Feb-25 | 8.44%   | 13.90% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -3039,11 +3093,12 @@ Asset Allocation (as % of Total Assets)
 | Others                          | 0.00    | 0.45     |
 | **Total Assets**                | **100.00%** | **100.00%** |
 
-Dispute Resolution/Complaint Handling
+
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -3061,11 +3116,11 @@ Fund Managers' Report February 28, 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, and certificate of musharakahs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Fixed Return                                                                                                     |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -3087,7 +3142,7 @@ Basic Information
 | Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                |
 | Leverage:                | Nil                                                                                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -3102,7 +3157,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 1,686.1 |
 | ------------------------------------------------- | ------- |
@@ -3112,7 +3167,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*                       | 0.48%   |
 | Total Expense Ratio (Month)                       | 0.48%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance              | BM     | ASRF-15 |
 | ----------------------------- | ------ | ------- |
@@ -3121,7 +3176,7 @@ Fund Performance
 | Month - New (February, 2025): | 14.15% | 9.02%   |
 | Month - Old (February, 2025): | 10.61% |         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -3138,7 +3193,7 @@ Credit Quality (as % of Total Assets)
 | Below IG                     | 0.00%      |
 | NR/UR/MTS                    | 0.11%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASRF-15 | BM     |
 | ------ | ------- | ------ |
@@ -3156,7 +3211,7 @@ Monthly Returns
 | Jan-25 | 14.54%  | 13.15% |
 | Feb-25 | 9.02%   | 13.15% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -3170,12 +3225,11 @@ Asset Allocation (as % of Total Assets)
 | Others                          | 0.00    | 0.11     |
 | **Total Assets**                | **100.00%** | **100.00%** |
 
-
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -3193,11 +3247,11 @@ Fund Managers' Report February 28, 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, and certificate of musharakahs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Fixed Return                                                                                                                                                                  |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3220,7 +3274,7 @@ Basic Information
 | Management Fee:          | up to 1.50% per annum of the average daily net assets                                                                                                                         |
 | Launch Date:             | December 12, 2024                                                                                                                                                             |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -3235,7 +3289,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 3,127.0 |
 | ------------------------------------------------- | ------- |
@@ -3245,7 +3299,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*                       | 0.52%   |
 | Total Expense Ratio (Month)                       | 0.50%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance              | BM     | ASRF-16 |
 | ----------------------------- | ------ | ------- |
@@ -3254,7 +3308,7 @@ Fund Performance
 | Month - New (February, 2025): | 11.90% | 10.29%  |
 | Month - Old (February, 2025): | 10.61% |         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -3271,7 +3325,7 @@ Credit Quality (as % of Total Assets)
 | BBB                          | 0.00%      |
 | Below IG                     | 0.00%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASRF-16 | BM     |
 | ------ | ------- | ------ |
@@ -3289,7 +3343,11 @@ Monthly Returns
 | Jan-25 | 11.72%  | 11.90% |
 | Feb-25 | 10.29%  | 11.90% |
 
-Asset Allocation (as % of Total Assets)
+## Dispute Resolution/Complaint Handling
+
+"Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
+
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -3303,11 +3361,7 @@ Asset Allocation (as % of Total Assets)
 | Others                          | 0.00    | 0.01     |
 | **Total Assets**                | **100.00%** | **100.00%** |
 
-Dispute Resolution/Complaint Handling
-
-"Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
-
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -3325,11 +3379,11 @@ Fund Managers' Report February 28, 2025
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, and certificate of musharakahs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Fixed Return                                                                                                                                                                   |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3352,7 +3406,7 @@ Basic Information
 | Management Fee:          | up to 1.50% per annum of the average daily net assets                                                                                                                          |
 | Launch Date:             | December 12, 2024                                                                                                                                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -3367,7 +3421,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 7,177.7 |
 | ------------------------------------------------- | ------- |
@@ -3377,7 +3431,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*                       | 0.80%   |
 | Total Expense Ratio (Month)                       | 0.80%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance              | BM     | ASRF-17 |
 | ----------------------------- | ------ | ------- |
@@ -3386,7 +3440,7 @@ Fund Performance
 | Month - New (February, 2025)  | 11.90% | 9.60%   |
 | Month - Old (February, 2025): | 10.61% |         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -3403,7 +3457,7 @@ Credit Quality (as % of Total Assets)
 | Below IG                     | 0.00%      |
 | NR/UR/MTS                    | 0.03%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASRF-17 | BM     |
 | ------ | ------- | ------ |
@@ -3421,11 +3475,11 @@ Monthly Returns
 | Jan-25 | -       | -      |
 | Feb-25 | 9.60%   | 11.90% |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -3436,16 +3490,18 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 Fund Managers' Report February 28, 2025
 
+---
+
 # Alfalah Stable Return Fund - Plan 18
 
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, and certificate of musharakahs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Fixed Return                                                                                                                                                                   |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3468,7 +3524,7 @@ Basic Information
 | Management Fee:          | up to 1.50% per annum of the average daily net assets                                                                                                                          |
 | Launch Date:             | February 27, 2025                                                                                                                                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -3483,7 +3539,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on February 28, 2025)       | 1,505.9 |
 | ------------------------------------------------- | ------- |
@@ -3493,7 +3549,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*                       | 0.22%   |
 | Total Expense Ratio (Month)                       | 0.22%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance              | BM     | ASRF-17 |
 | ----------------------------- | ------ | ------- |
@@ -3502,7 +3558,7 @@ Fund Performance
 | Month (February, 2025)        | 11.90% | 15.84%  |
 | Month - Old (February, 2025): | 10.61% |         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -3519,7 +3575,7 @@ Credit Quality (as % of Total Assets)
 | Below IG                     | 0.00%      |
 | NR/UR/MTS                    | 0.01%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASRF-17 | BM     |
 | ------ | ------- | ------ |
@@ -3537,11 +3593,11 @@ Monthly Returns
 | Jan-25 | -       | -      |
 | Feb-25 | 15.84%  | 11.90% |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
@@ -3552,11 +3608,13 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 Fund Managers' Report February 28, 2025
 
+---
+
 # Alfalah Financial Sector Income Fund
 
-Investment Plans Summary Report for February 2025
+## Investment Plans Summary Report for February 2025
 
-CIS General Information
+### CIS General Information
 
 | CIS Name                         | Alfalah Financial Sector Income Fund |
 | -------------------------------- | ------------------------------------ |
@@ -3565,7 +3623,7 @@ CIS General Information
 | Cumulative Net Assets (CIS)      | PKR 7,143,446,004                    |
 | Risk Profile (CIS)               | Low                                  |
 
-CIS Level Expense Breakdown
+### CIS Level Expense Breakdown
 
 | Expense Type                | Amount (PKR) |
 | --------------------------- | ------------ |
@@ -3575,12 +3633,14 @@ CIS Level Expense Breakdown
 | Formation Cost Amortization | 31,939       |
 | Other Expenses              | 7,086,838    |
 
-Investment Plans Overview
+### Investment Plans Overview
 
 | Investment Plan Name                      | Date of Launch | Maturity Date | Risk Profile | Net Assets (PKR) | Status |
 | ----------------------------------------- | -------------- | ------------- | ------------ | ---------------- | ------ |
 | Alfalah Financial Sector Income Plan - I  | 02-Aug-23      | Perpetual     | Medium       | 6,925,353,011    | Active |
 | Alfalah Financial Sector Income Plan - II | 15-Jul-24      | Perpetual     | Medium       | 218,092,993      | Active |
+
+---
 
 # Alfalah Financial Sector Income Fund - Plan 1
 
@@ -3590,11 +3650,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Alfalah Financial Sector Income Fund is to provide income enhancement and preservation of capital by offering different plans which will invest in prime quality Financial Sector TFCs/Sukuks, Bank deposits, spread transactions, and short-term money market instruments.
 
-Basic Information
+## Basic Information
 
 | Category:                | Income Scheme                                                                                                                                            |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3616,7 +3676,7 @@ Basic Information
 | Management Fee:          | up to 2.0% per annum of the average daily net assets                                                                                                     |
 | Risk Profile:            | Medium                                                                                                                                                   |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -3631,7 +3691,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)     | 6,901.94 |
 | ------------------------------------------ | -------- |
@@ -3641,7 +3701,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*              | 1.35%    |
 | Total Expense Ratio (Month)                | 1.12%    |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AFSIF - I |
 | ------------------------ | ------ | --------- |
@@ -3650,7 +3710,7 @@ Fund Performance
 | Month (Feb 2025) - New   | 11.97% | 11.12%    |
 | Month (Feb 2025) - Old   | 11.86% | -         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating    | Percentage |
 | ---------------- | ---------- |
@@ -3666,11 +3726,11 @@ Credit Quality (as % of Total Assets)
 | BBB+             | 0.00%      |
 | BBB              | 0.00%      |
 
-TFC/Sukuk Holdings (% of Total Assets)
+## TFC/Sukuk Holdings (% of Total Assets)
 
 Kashf Foundation 10/10/2023 1.61%
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AFSIF - I | BM     |
 | ------ | --------- | ------ |
@@ -3688,7 +3748,7 @@ Monthly Returns
 | Jan-25 | 12.35%    | 12.24% |
 | Feb-25 | 11.12%    | 11.97% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -3701,11 +3761,11 @@ Asset Allocation (as % of Total Assets)
 | Others                          | 1.15%   | 1.05%    |
 | **Total Assets**                | **100.00%** | **100.00%** |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -3729,11 +3789,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Alfalah Financial Sector Income Fund is to provide income enhancement and preservation of capital by offering different plans which will invest in prime quality Financial Sector TFCs/Sukuks, Bank deposits, spread transactions, and short-term money market instruments.
 
-Basic Information
+## Basic Information
 
 | Category:                | Income Scheme                                                                                                                                            |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3755,7 +3815,7 @@ Basic Information
 | Risk Profile:            | Medium                                                                                                                                                   |
 | Listing:                 | Pakistan Stock Exchange                                                                                                                                  |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -3770,7 +3830,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)     | 216.96 |
 | ------------------------------------------ | ------ |
@@ -3780,7 +3840,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*              | 0.66%  |
 | Total Expense Ratio (Month)                | 0.63%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AFSIF - II |
 | ------------------------ | ------ | ---------- |
@@ -3789,7 +3849,7 @@ Fund Performance
 | Month (Feb 2025) - New   | 11.97% | 4.57%      |
 | Month (Feb 2025) - Old   | 11.86% | -          |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating    | Percentage |
 | ---------------- | ---------- |
@@ -3806,7 +3866,7 @@ Credit Quality (as % of Total Assets)
 | BBB+             | 0.00%      |
 | BBB              | 0.00%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AFSIF - II | BM     |
 | ------ | ---------- | ------ |
@@ -3818,7 +3878,7 @@ Monthly Returns
 | Jan-25 | 6.89%      | 12.24% |
 | Feb-25 | 4.57%      | 11.97% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -3832,11 +3892,11 @@ Asset Allocation (as % of Total Assets)
 | Others                          | 90.44%  | 3.54%    |
 | **Total Assets**                | **100.00%** | **100.00%** |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -3850,9 +3910,9 @@ Selling & marketing expense for the period ended February, 2025, PKR Mn 0.030
 
 # Alfalah Government Securities Fund
 
-Investment Plans Summary Report for February 2025
+## Investment Plans Summary Report for February 2025
 
-CIS General Information
+### CIS General Information
 
 | CIS Name                         | Alfalah Government Securities Fund |
 | -------------------------------- | ---------------------------------- |
@@ -3861,7 +3921,7 @@ CIS General Information
 | Cumulative Net Assets (CIS)      | PKR 6,256,055,329                  |
 | Risk Profile (CIS)               | Low                                |
 
-CIS Level Expense Breakdown
+### CIS Level Expense Breakdown
 
 | Expense Type                | Amount (PKR) |
 | --------------------------- | ------------ |
@@ -3871,12 +3931,14 @@ CIS Level Expense Breakdown
 | Formation Cost Amortization | 21,599       |
 | Other Expenses              | 8,674,572    |
 
-Investment Plans Overview
+### Investment Plans Overview
 
 | Investment Plan Name                 | Date of Launch | Maturity Date | Risk Profile | Net Assets (PKR) | Status |
 | ------------------------------------ | -------------- | ------------- | ------------ | ---------------- | ------ |
 | Alfalah Government Securities Plan-I | 10-Sep-24      | Perpetual     | Medium       | 5,396,458,614    | Active |
 | Alfalah Government Securities Plan-2 | 12-Nov-24      | 12-Nov-27     | Medium       | 859,596,715      | Active |
+
+---
 
 # Alfalah Government Securities Fund - Plan-1
 
@@ -3886,11 +3948,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Scheme is to deliver optimal risk-adjusted returns by investing mainly in a mix of short to long-term Government Securities and other debt instruments.
 
-Basic Information
+## Basic Information
 
 | Category:                | Sovereign Income Scheme                                                                                                                                       |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3912,7 +3974,7 @@ Basic Information
 | Management Fee:          | up to 2% of the Average Daily net asset value                                                                                                                 |
 | Listing:                 | Pakistan Stock Exchange                                                                                                                                       |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -3927,7 +3989,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 5,396 |
 | ------------------------------------------------- | ----- |
@@ -3937,7 +3999,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.21% |
 | Total Expense Ratio (Month)\*\*                   | 2.00% |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance                              | BM     | AGSOF  |
 | --------------------------------------------- | ------ | ------ |
@@ -3947,7 +4009,7 @@ Fund Performance
 | Month (Feb 2025) - Old                        | 11.66% | -      |
 | Avg. Peer Group Return for Feb 2025 was 9.19% |        |        |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating | Percentage |
 | ------------- | ---------- |
@@ -3963,7 +4025,7 @@ Credit Quality (as % of Total Assets)
 | BBB           | 0.00%      |
 | NR/UR         | 7.11%      |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGSP-1 | BM     |
 | ------ | ------ | ------ |
@@ -3973,11 +4035,23 @@ Monthly Returns
 | Jan-25 | 12.10% | 11.84% |
 | Feb-25 | 13.93% | 11.75% |
 
-Dispute Resolution/Complaint Handling
+## ALFALAH GOVERNMENT SECURITIES Fund - Plan 1 - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 33.11%  | 1.14%    |
+| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
+| TFCs/Sukuks                     | 0.00%   | 0.00%    |
+| PIBs                            | 62.92%  | 83.31%   |
+| T-Bills                         | 0.00%   | 8.46%    |
+| CPs                             | 0.00%   | 0.00%    |
+| Others                          | 3.97%   | 7.09%    |
+| **Total Assets**                | **100.00%** | **100.00%** |
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -3989,7 +4063,7 @@ This publication is for informational purposes only and nothing herein should be
 
 Selling & marketing expenses - for the period ended Feb 28, 2025: PKR 0.918 Mn
 
-MUFAP's Recommended Format
+## MUFAP's Recommended Format
 
 # Alfalah Government Securities Fund - Plan 2
 
@@ -3999,11 +4073,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Scheme is to deliver optimal risk-adjusted returns by investing mainly in a mix of short to long-term Government Securities and other debt instruments.
 
-Basic Information
+## Basic Information
 
 | Category:                | Sovereign Income Scheme                                                                                                                                       |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4025,7 +4099,7 @@ Basic Information
 | Management Fee:          | up to 2% of the Average Daily net asset value                                                                                                                 |
 | Listing:                 | Pakistan Stock Exchange                                                                                                                                       |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4040,7 +4114,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 859.60 |
 | ------------------------------------------------- | ------ |
@@ -4050,7 +4124,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 0.89%  |
 | Total Expense Ratio (Month)\*\*                   | 0.81%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance                              | BM     | AGSOF  |
 | --------------------------------------------- | ------ | ------ |
@@ -4060,7 +4134,7 @@ Fund Performance
 | Month (Feb 2025) - Old                        | 11.66% | -      |
 | Avg. Peer Group Return for Feb 2025 was 9.19% |        |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating | Percentage |
 | ------------- | ---------- |
@@ -4076,7 +4150,7 @@ Credit Quality (as % of Total Assets)
 | BBB           | 0.00%      |
 | NR/UR         | 19.31%     |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AGSP-2 | BM     |
 | ------ | ------ | ------ |
@@ -4084,11 +4158,25 @@ Monthly Returns
 | Jan-25 | 9.66%  | 11.84% |
 | Feb-25 | 10.70% | 11.75% |
 
-Dispute Resolution/Complaint Handling
+#  Asset Allocation (as % of Total Assets)
+
+| Asset Allocation               | January | February |
+|---------------------------------|---------|----------|
+| Cash                            | 10.35%  | 54.29%   |
+| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
+| Govt. Backed/ Gov. Guar.       | 0.00%   | 0.00%    |
+| TFCs/Sukuks                     | 0.00%   | 0.00%    |
+| PIBs                            | 83.32%  | 15.55%   |
+| T-Bills                         | 0.00%   | 10.84%   |
+| CPs                             | 0.00%   | 0.00%    |
+| Others                          | 6.33%   | 19.31%   |
+| **Total Assets**                | **100.00%** | **100.00%** |
+
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -4102,7 +4190,7 @@ Selling & marketing expenses - for the period ended Jan 31, 2025: PKR 0.032 Mn
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-Fund Managers' Report February 28, 2025
+## Fund Managers' Report February 28, 2025
 
 # Alfalah Saving Growth Fund
 
@@ -4112,11 +4200,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The prime objective of the fund is to generate competitive returns by investing primarily in debt and fixed income instruments having investment grade credit rating.
 
-Basic Information
+## Basic Information
 
 | Category:                | Income Scheme                                                                                                                                            |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4136,7 +4224,7 @@ Basic Information
 | Launch Date:             | May 12, 2007                                                                                                                                             |
 | Pricing:                 | Forward Day                                                                                                                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4151,7 +4239,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 187.0  |
 | ------------------------------------------------- | ------ |
@@ -4161,7 +4249,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.76%  |
 | Total Expense Ratio (Month)                       | 1.17%  |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | ASGF   |
 | ------------------------ | ------ | ------ |
@@ -4170,7 +4258,7 @@ Fund Performance
 | Month - New (Feb'25)     | 11.97% | 13.05% |
 | Month - Old (Feb'25)     | 11.81% | -      |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -4189,11 +4277,11 @@ Credit Quality (as % of Total Assets)
 | BBB                          | 0.00%      |
 | IG                           | 0.00%      |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -4207,7 +4295,7 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-Fund Managers' Report February 28, 2025
+## Fund Managers' Report February 28, 2025
 
 # Alfalah Government Securities Fund-III
 
@@ -4217,11 +4305,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Fund is to seek competitive returns by investing primarily in Government Securities.
 
-Basic Information
+## Basic Information
 
 | Category:                | Sovereign Income Scheme                                                                                                                                       |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4241,7 +4329,7 @@ Basic Information
 | Launch Date:             | March 16, 2020                                                                                                                                                |
 | Pricing:                 | Forward Day                                                                                                                                                   |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4256,7 +4344,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 2,687.0 |
 | ------------------------------------------------- | ------- |
@@ -4266,7 +4354,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.09%   |
 | Total Expense Ratio (Month)                       | 1.00%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | AGSF - II |
 | ------------------------ | ------ | --------- |
@@ -4275,7 +4363,7 @@ Fund Performance
 | Month - New (Feb'25)     | 11.75% | 9.67%     |
 | Month - Old (Feb'25)     | 11.68% | -         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -4294,11 +4382,11 @@ Credit Quality (as % of Total Assets)
 | NR/UR                        | 0.36%      |
 | IG                           | 0.00%      |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -4312,7 +4400,7 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-Fund Managers' Report February 28, 2025
+## Fund Managers' Report February 28, 2025
 
 # Alfalah Special Savings Plan-I
 
@@ -4322,11 +4410,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The Alfalah Special Savings Plan-I (ASSP-I) is a perpetual Allocation Plan under Alfalah Special Savings Fund with an objective to earn competitive return with capital protection for unit holders who retain their investment in the Plan for a period of Twenty Four (24) months or more from date of their investments in the Plan.
 
-Basic Information
+## Basic Information
 
 | Category:                | Capital Protected Scheme                                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -4347,7 +4435,7 @@ Basic Information
 | Par Value:               | PKR 100                                                                                                                  |
 | Pricing:                 | Forward Day                                                                                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4362,7 +4450,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 51.8    |
 | ------------------------------------------------- | ------- |
@@ -4371,7 +4459,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.56%   |
 | Total Expense Ratio (Month)                       | 1.28%   |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | ASSP - I |
 | ------------------------ | ------ | -------- |
@@ -4380,7 +4468,7 @@ Fund Performance
 | Month - New (Feb'25)     | 11.65% | 1.15%    |
 | Month - Old (Feb'25)     | 11.65% | -        |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -4396,11 +4484,11 @@ Credit Quality (as % of Total Assets)
 | A                            | 0.00%      |
 | NR/UR                        | 4.62%      |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -4414,7 +4502,7 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-Fund Managers' Report February 28, 2025
+## Fund Managers' Report February 28, 2025
 
 # Alfalah Special Savings Plan-II
 
@@ -4424,11 +4512,11 @@ AMC Rating: "AM1" by VIS 29-Dec-23
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The Alfalah Special Savings Plan-II (ASSP-II) is a perpetual Allocation Plan under Faysal Special Savings Fund with an objective to earn competitive return with capital protection for unit holders who retain their investment in the Plan for a period of Twenty Four (24) months or more from date of their investments in the Plan.
 
-Basic Information
+## Basic Information
 
 | Category:                | Capital Protected Scheme                                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -4449,7 +4537,7 @@ Basic Information
 | Par Value:               | PKR 100                                                                                                                  |
 | Pricing:                 | Forward Day                                                                                                              |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4464,7 +4552,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025)            | 50.7  |
 | ------------------------------------------------- | ----- |
@@ -4473,7 +4561,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)\*\*                     | 1.56% |
 | Total Expense Ratio (Month)                       | 1.37% |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance         | BM     | ASSP - II |
 | ------------------------ | ------ | --------- |
@@ -4482,7 +4570,7 @@ Fund Performance
 | Month - New (Feb'25)     | 11.65% | 1.19%     |
 | Month - Old (Jan'25)     | 11.65% | -         |
 
-Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Credit Rating                | Percentage |
 | ---------------------------- | ---------- |
@@ -4501,11 +4589,11 @@ Credit Quality (as % of Total Assets)
 | IG                           | 0.00%      |
 | NR/UR                        | 3.72%      |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -4519,18 +4607,18 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-Fund Managers' Report February 28, 2025
+## Fund Managers' Report February 28, 2025
 
 # Alfalah Strategic Allocation Fund
 
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The Investment Objective of the Plan is to earn a competitive return through diversified investment in mutual funds in line with the risk level of the Plan.
 
-Basic Information
+## Basic Information
 
 | Category:                | Equity Scheme                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------ |
@@ -4551,7 +4639,7 @@ Basic Information
 | Leverage:                | Nil                                                                                              |
 | Listing:                 | Pakistan Stock Exchange                                                                          |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4566,7 +4654,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Fund Statistics
+## Fund Statistics
 
 | Fund Size (PKR mn; as on February 2025)           | 99.42 |
 | ------------------------------------------------- | ----- |
@@ -4575,7 +4663,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)                         | 0.46% |
 | Total Expense Ratio (Month)                       | 0.38% |
 
-Fund Performance
+## Fund Performance
 
 | Fund Performance    | BM     | ASAF   |
 | ------------------- | ------ | ------ |
@@ -4583,7 +4671,7 @@ Fund Performance
 | YTD                 | -1.79% | -0.71% |
 | Month (Feb 2025)    | -0.83% | -0.49% |
 
-Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 |              | Jan-25  | Feb-25  |
 | ------------ | ------- | ------- |
@@ -4594,7 +4682,7 @@ Asset Allocation (as % of Total Assets)
 | Others       | 1.18%   | 1.19%   |
 | Total        | 100.00% | 100.00% |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | ASAF   | BM     |
 | ------ | ------ | ------ |
@@ -4602,7 +4690,7 @@ Monthly Returns
 | Jan-25 | -1.55% | -2.52% |
 | Feb-25 | -0.49% | -0.83% |
 
-Asset Allocation (as % of Total Assets)
+## Alfalah Strategic Allocation Fund - Asset Allocation (as % of Total Assets)
 
 | Asset Allocation               | January | February |
 |---------------------------------|---------|----------|
@@ -4620,11 +4708,12 @@ Asset Allocation (as % of Total Assets)
 | Spread Trans.                   | 0.00%   | 0.00%    |
 | Others                          | 1.18%   | 1.19%    |
 | **Total Assets**                | **3.73%** | **100.00%** |
-Dispute Resolution/Complaint Handling
+
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -4637,11 +4726,13 @@ Selling & marketing expense - for the period ended February 2025, PKR Mn 0.000.
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 Fund Managers' Report February 2025
 
+---
+
 # Alfalah Prosperity Planning Fund
 
-Investment Plans Summary Report for February 2025
+## Investment Plans Summary Report for February 2025
 
-CIS General Information
+### CIS General Information
 
 | CIS Name                         | Alfalah Prosperity Planning Fund |
 | -------------------------------- | -------------------------------- |
@@ -4650,7 +4741,7 @@ CIS General Information
 | Cumulative Net Assets (CIS)      | PKR 1,000,890,928                |
 | Risk Profile (CIS)               | Low                              |
 
-CIS Level Expense Breakdown
+### CIS Level Expense Breakdown
 
 | Expense Type                | Amount (PKR) |
 | --------------------------- | ------------ |
@@ -4660,7 +4751,7 @@ CIS Level Expense Breakdown
 | Formation Cost Amortization | -            |
 | Other Expenses              | 119,788      |
 
-Investment Plans Overview
+### Investment Plans Overview
 
 | Investment Plan Name                                          | Date of Launch | Maturity Date | Risk Profile | Net Assets (PKR) | Status |
 | ------------------------------------------------------------- | -------------- | ------------- | ------------ | ---------------- | ------ |
@@ -4668,6 +4759,7 @@ Investment Plans Overview
 | Alfalah Prosperity Planning Fund-Active Allocation Plan-II    | 11-Sept-2015   | Perpetual     | High         | 108,085,250      | Active |
 | Alfalah Prosperity Planning Fund-Conservative Allocation Plan | 11-Sept-2015   | Perpetual     | Medium       | 318,965,802      | Active |
 | Alfalah Prosperity Planning Fund-Capital Preservation Plan    | 16-May-2024    | 16-May-2026   | High         | 528,397,336      | Active |
+
 
 # Alfalah GHP Prosperity Planning Fund
 
@@ -4677,11 +4769,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 Alfalah GHP Prosperity Planning Fund is an Open-ended Fund of Funds Scheme that aims to generate returns on investment as per the respective Allocation Plan by investing in Collective Investment Scheme in line with the risk tolerance of the investor.
 
-Basic Information
+## Basic Information
 
 | Category:               | Fund of Funds Scheme                                                                                                     |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -4708,7 +4800,7 @@ Basic Information
 | Back end Load:          | AGPPF-Active: Nil, AGPPF-Moderate: Nil, AGPPF-Conservative: Nil, AGPPF CPP4-Conservative: Nil                            |
 | Leverage:               | Nil                                                                                                                      |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4723,7 +4815,7 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Risk Profile
+## Risk Profile
 
 | Fund Name  |        |
 | ---------- | ------ |
@@ -4732,9 +4824,9 @@ Risk Profile
 | AGPPF-AAP  | High   |
 | AGPPF-CPP4 | High   |
 
-Alfalah GHP Active Allocation Plan
+## Alfalah GHP Active Allocation Plan
 
-Holdings as % of Total Assets
+### Holdings as % of Total Assets
 
 | Holdings     | January     | February    |
 | ------------ | ----------- | ----------- |
@@ -4745,7 +4837,7 @@ Holdings as % of Total Assets
 | Others       | 0.65%       | 0.65%       |
 | **Total**    | **100.00%** | **100.00%** |
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025) | 108.09   |
 | -------------------------------------- | -------- |
@@ -4753,7 +4845,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)              | 0.23%    |
 | Total Expense Ratio (Month)            | 0.29%    |
 
-Fund Performance
+### Fund Performance
 
 | Fund Performance         | BM     | AGAAP  |
 | ------------------------ | ------ | ------ |
@@ -4762,9 +4854,9 @@ Fund Performance
 | Month (Feb 2025) - New   | -0.85% | -0.12% |
 | Month (Feb 2025) - Old   | -0.85% |        |
 
-Alfalah GHP Moderate Allocation Plan
+## Alfalah GHP Moderate Allocation Plan
 
-(Holdings as % of Total Assets)
+### (Holdings as % of Total Assets)
 
 | Holdings     | January     | February    |
 | ------------ | ----------- | ----------- |
@@ -4775,7 +4867,7 @@ Alfalah GHP Moderate Allocation Plan
 | Others       | 3.61%       | 3.58%       |
 | **Total**    | **100.00%** | **100.00%** |
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025) | 45.44   |
 | -------------------------------------- | ------- |
@@ -4783,7 +4875,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)              | 0.33%   |
 | Total Expense Ratio (Month)            | 0.57%   |
 
-Fund Performance
+### Fund Performance
 
 | Fund Performance         | BM     | AGMAP  |
 | ------------------------ | ------ | ------ |
@@ -4792,9 +4884,9 @@ Fund Performance
 | Month (Feb 2025) - New   | 0.22%  | 0.24%  |
 | Month (Feb 2025) - Old   | 0.22%  |        |
 
-Alfalah GHP Conservative Allocation Plan
+## Alfalah GHP Conservative Allocation Plan
 
-Holdings as % of Total Assets
+### Holdings as % of Total Assets
 
 | Holdings     | January     | February    |
 | ------------ | ----------- | ----------- |
@@ -4805,7 +4897,7 @@ Holdings as % of Total Assets
 | Others       | 0.70%       | 0.67%       |
 | **Total**    | **100.00%** | **100.00%** |
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025) | 318.97   |
 | -------------------------------------- | -------- |
@@ -4813,7 +4905,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)              | 0.28%    |
 | Total Expense Ratio (Month)            | 0.46%    |
 
-Fund Performance
+### Fund Performance
 
 | Fund Performance         | BM     | AGCAP  |
 | ------------------------ | ------ | ------ |
@@ -4822,9 +4914,9 @@ Fund Performance
 | Month (Feb 2025) - New   | 0.37%  | 0.51%  |
 | Month (Feb 2025) - Old   | 0.37%  |        |
 
-Alfalah GHP Capital Preservation Plan - 4
+## Alfalah GHP Capital Preservation Plan - 4
 
-Holdings as % of Total Assets
+### Holdings as % of Total Assets
 
 | Holdings         | January     | February    |
 | ---------------- | ----------- | ----------- |
@@ -4835,7 +4927,7 @@ Holdings as % of Total Assets
 | Others           | 0.04%       | 0.04%       |
 | **Total**        | **100.00%** | **100.00%** |
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PkR mn; as on Feb 28, 2025) | 528.40   |
 | -------------------------------------- | -------- |
@@ -4843,7 +4935,7 @@ Fund Statistics
 | Total Expense Ratio (YTD)              | 0.19%    |
 | Total Expense Ratio (Month)            | 0.17%    |
 
-Fund Performance
+### Fund Performance
 
 | Fund Performance         | BM     | AGCAP  |
 | ------------------------ | ------ | ------ |
@@ -4852,39 +4944,51 @@ Fund Performance
 | Month (Feb 2025) - New   | 0.50%  | 0.45%  |
 | Month (Feb 2025) - Old   | 0.50%  |        |
 
-Alfalah GHP Active Allocation Plan (Monthly Returns)\*\*
+## Alfalah GHP Active Allocation Plan (Monthly Returns)\*\*
 
 | Fund  | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 |
 | ----- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | AGAAP | 3.86%  | 2.10%  | 5.96%  | 4.79%  | 3.46%  | 0.81%  | 1.37%  | 5.09%  | 10.64% | 13.53% | 11.35% | -1.25% | -0.12% |
 | BM    | 3.54%  | 1.69%  | 7.05%  | 5.84%  | 3.17%  | 0.95%  | 0.63%  | 1.72%  | 8.90%  | 12.30% | 12.24% | -0.70% | -0.85% |
 
-Alfalah GHP Moderate Allocation Plan (Monthly Returns)\*\*
+## Alfalah GHP Moderate Allocation Plan (Monthly Returns)\*\*
 
 | Fund  | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 |
 | ----- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | AGMAP | 2.39%  | 1.57%  | 3.06%  | 2.79%  | 2.71%  | 1.63%  | 1.56%  | 3.83%  | 4.92%  | 7.35%  | 6.15%  | 0.10%  | 0.24%  |
 | BM    | 2.65%  | 1.76%  | 3.65%  | 3.22%  | 2.23%  | 1.47%  | 1.18%  | 1.52%  | 3.98%  | 7.16%  | 6.94%  | 0.35%  | 0.22%  |
 
-Alfalah GHP Conservative Allocation Plan (Monthly Returns)\*\*
+## Alfalah GHP Conservative Allocation Plan (Monthly Returns)\*\*
 
 | Fund  | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 |
 | ----- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | AGCAP | 1.83%  | 1.58%  | 2.44%  | 2.36%  | 6.02%  | 1.46%  | 1.48%  | 2.78%  | 3.32%  | 4.04%  | 3.47%  | 0.55%  | 0.51%  |
 | BM    | 2.12%  | 2.01%  | 2.55%  | 2.56%  | 1.95%  | 5.64%  | -2.76% | 1.46%  | 2.91%  | 3.74%  | 3.41%  | 0.64%  | 0.37%  |
 
-Alfalah GHP Capital Preservation Plan 4 (Monthly Returns)\*\*
+## Alfalah GHP Capital Preservation Plan 4 (Monthly Returns)\*\*
 
 | Fund    | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 |
 | ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | AGCPP-4 | -      | -      | -      | 0.76%  | 1.98%  | 1.04%  | 1.44%  | 4.07%  | 5.98%  | 5.41%  | 4.70%  | 0.43%  | 0.45%  |
 | BM      | -      | -      | -      | 0.86%  | 1.89%  | 1.45%  | 1.16%  | 1.85%  | 4.76%  | 5.03%  | 0.76%  | 4.81%  | 0.50%  |
 
-Dispute Resolution/Complaint Handling
+## Alfalah GHP Prosperity Planning Fund (CPF 4) - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation          | January | February |
+|---------------------------|---------|----------|
+| Equity Funds             | 9.2%    | 27.1%    |
+| Money Market Funds       | 9.5%    | 9.6%     |
+| Sovereign / Income Funds | 80.9%   | 63.1%    |
+| Others                   | 0.0%    | 0.0%     |
+| Cash                     | 0.3%    | 0.2%     |
+| Leverage                 | 0.0%    | 0.0%     |
+| **Total**                | **100.0%** | **100.0%** |
+
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. Past performance is not necessarily indicative of future results. All returns are calculated assuming reinvested dividends. Please read the Offering Document to understand the investment policies and risks involved. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah GHP Investment Management Limited or any investment scheme managed by it.
 
@@ -4898,13 +5002,13 @@ This publication is for informational purposes only and nothing herein should be
 
 \*\*\*\* Actual Management fee charged for AGMAP: 0.03% of net assets
 
-\*\*\*\* Actual Management fee charged for AGCPP4: 0.00% of net assets
+## \*\*\*\* Actual Management fee charged for AGCPP4: 0.00% of net assets
 
 # Alfalah Pension Fund
 
-Investment Plans Summary Report for February 2025
+## Investment Plans Summary Report for February 2025
 
-CIS General Information
+### CIS General Information
 
 | CIS Name                                            | Alfalah Pension Fund |
 | --------------------------------------------------- | -------------------- |
@@ -4913,7 +5017,7 @@ CIS General Information
 | Cumulative Net Assets (CIS)                         | PKR 539,047,840      |
 | Risk Profile (CIS)                                  | Low                  |
 
-CIS Level Expense Breakdown
+### CIS Level Expense Breakdown
 
 | Expense Type                | Amount (PKR) |
 | --------------------------- | ------------ |
@@ -4923,13 +5027,15 @@ CIS Level Expense Breakdown
 | Formation Cost Amortization | -            |
 | Other Expenses              | 914,061      |
 
-Investment Plans Overview
+### Investment Plans Overview
 
 | Investment Plan Name   | Date of Launch | Maturity Date | Risk Profile | Net Assets (PKR) | Status |
 | ---------------------- | -------------- | ------------- | ------------ | ---------------- | ------ |
 | Pension - Equity       | 8-Nov-2016     | Perpetual     | High         | 129,363,527      | Active |
 | Pension - Debt         | 8-Nov-2016     | Perpetual     | Medium       | 118,643,521      | Active |
 | Pension - Money Market | 8-Nov-2016     | Perpetual     | Low          | 291,040,793      | Active |
+
+---
 
 # Alfalah GHP Pension Fund - II
 
@@ -4939,11 +5045,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of introducing Alfalah GHP Pension Fund is to provide individuals with a portable, individualized, funded (based on defined contribution) and flexible pension scheme which is managed by professional investment managers to assist them in planning and providing for their retirement. The design of the scheme empowers the participants to decide how much to invest in their pensions and how to invest it, as well as to continue investing in their pension accounts even if they change jobs.
 
-Basic Information
+## Basic Information
 
 | Category:                | Voluntary Pension Fund Scheme |
 | ------------------------ | ----------------------------- |
@@ -4961,7 +5067,7 @@ Basic Information
 | Backend Load:            | Nil                           |
 | Management Fee:          | Up to 1.5%\*\*                |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -4976,9 +5082,9 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Alfalah GHP Equity Sub Fund
+## Alfalah GHP Equity Sub Fund
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PKR Mn.)       | 1.27    |
 | ------------------------- | ------- |
@@ -4989,9 +5095,9 @@ Fund Statistics
 | Expense Ratio (Month)     | 4.34%   |
 | Expense Ratio (YTD)\*\*\* | 2.29%   |
 
-Alfalah GHP Debt Sub Fund
+## Alfalah GHP Debt Sub Fund
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PKR Mn.)         | 2.105  |
 | --------------------------- | ------ |
@@ -5002,9 +5108,9 @@ Fund Statistics
 | Expense Ratio (Month)       | 2.03%  |
 | Expense Ratio (YTD)\*\*\*\* | 1.17%  |
 
-Alfalah GHP Money Market Sub Fund
+## Alfalah GHP Money Market Sub Fund
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PKR Mn.)       | 8.44   |
 | ------------------------- | ------ |
@@ -5015,7 +5121,7 @@ Fund Statistics
 | Expense Ratio (Month)     | 1.60%  |
 | Expense Ratio (YTD)**\*** | 0.99%  |
 
-Alfalah GHP Pension Fund DSF - Asset Allocation (as % of Total Assets)
+## Alfalah GHP Pension Fund DSF - Asset Allocation (as % of Total Assets)
 
 | Asset Allocation         | January | February |
 |--------------------------|---------|----------|
@@ -5033,7 +5139,7 @@ Alfalah GHP Pension Fund DSF - Asset Allocation (as % of Total Assets)
 | **Total Assets**         | **100.00%** | **100.00%** |
 
 
-Alfalah GHP Pension Fund MMSF - Asset Allocation (as % of Total Assets)
+## Alfalah GHP Pension Fund MMSF - Asset Allocation (as % of Total Assets)
 
 | Asset Allocation         | January | February |
 |--------------------------|---------|----------|
@@ -5049,11 +5155,27 @@ Alfalah GHP Pension Fund MMSF - Asset Allocation (as % of Total Assets)
 | Others                   | 0.31%   | 0.33%    |
 | **Total Assets**         | **100.00%** | **100.00%** |
 
-Dispute Resolution/Complaint Handling
+## Alfalah KPK Employee Pension Fund MMSF - Asset Allocation (as % of Total Assets)
+
+| Asset Allocation         | January | February |
+|--------------------------|---------|----------|
+| Cash                     | 23.77%  | 24.10%   |
+| Plac. with Banks/DFIs    |         |          |
+| Plac. with NBFCs         |         |          |
+| TFCs/Sukuks              |         |          |
+| PIBs                     |         |          |
+| T-Bills                  | 71.49%  | 71.56%   |
+| CPs/ST Sukuks            |         |          |
+| MTS                      |         |          |
+| Spread Trans.            |         |          |
+| Others                   | 4.75%   | 4.34%    |
+| **Total Assets**         | **100.00%** | **100.00%** |
+
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in Voluntary Pension Schemes are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the financial markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/obligations of Alfalah GHP Investment Management Limited or any investment scheme managed by it.
 
@@ -5072,6 +5194,7 @@ Selling & marketing expense - for the period ended February, 2025, PKR Mn 0.000
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 Fund Managers' Report February 2025
 
+
 # Alfalah KPK Employee Pension Fund
 
 Fund: Not Yet Rated
@@ -5080,11 +5203,11 @@ AMC Rating: "AM1" by VIS 02-Jan-25
 
 AMC Rating: "AM1" by PACRA 30-August-24
 
-Investment Objective
+## Investment Objective
 
 The objective of the Fund is to provide Employees with an individualized, funded (based on defined contribution) as well as flexible pension scheme which is managed by professional investment managers to assist them to plan and provide for their retirement. The design of the scheme empowers the Employees to invest their pensions as per their desired asset allocation.
 
-Basic Information
+## Basic Information
 
 | Category:                | Voluntary Pension Fund Scheme |
 | ------------------------ | ----------------------------- |
@@ -5102,7 +5225,7 @@ Basic Information
 | Par Value:               | PKR 100                       |
 | Pricing Mechanism:       | Forward                       |
 
-Investment Committee
+## Investment Committee
 
 | Name                         | Designation                     |
 | ---------------------------- | ------------------------------- |
@@ -5117,9 +5240,9 @@ Investment Committee
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-Money Market Sub Fund
+## Money Market Sub Fund
 
-Fund Statistics
+### Fund Statistics
 
 | Fund Size (PKR Mn.)       | 39.5920 |
 | ------------------------- | ------- |
@@ -5129,7 +5252,7 @@ Fund Statistics
 | Expense Ratio (Month)     | 0.81%   |
 | Expense Ratio (YTD)\*\*\* | 0.67%   |
 
-Monthly Returns
+## Monthly Returns
 
 | Month  | AKPKMMSF |
 | ------ | -------- |
@@ -5147,2736 +5270,17 @@ Monthly Returns
 | Jan-25 | 10.36%   |
 | Feb-25 | 9.74%    |
 
-Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 "Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction."
 
-Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in Voluntary Pension Schemes are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the financial markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
 
 \* Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
 
 \*\*\*This includes 0.0700% representing government levy and SECP Fee
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)\*\*
-
-Fund Managers' Report February 2025\*\*
-
-Alfalah Investments
-
-Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Limited)
-Islamic Chamber Of Commerce Industry & Agriculture Building, 2nd Floor ST-2/A Block 9, KDA Scheme 5, Clifton, Karachi
-UAN: +92 (21) 111 090 090
-Fax: +92 (21) 35306752
-www.alfalahamc.com
-
-# Alfalah Money Market Fund-II
-
-Fund Stability Rating: "AA(f)" by PACRA 22-Oct-24
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-Aim to generate competitive returns with minimum risk and enhanced liquidity by investing primarily in short-term government securities, term deposits and money market instruments with weighted average time to maturity of Net Assets not exceeding 90 days.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                                    |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Category:                | Money Market Scheme                                                                                                                                                |
-| Fund Type:               | Open Ended                                                                                                                                                         |
-| Benchmark:               | 90% three (3) months PKRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Launch Date:             | December 13, 2010                                                                                                                                                  |
-| Par Value:               | PKR 100                                                                                                                                                            |
-| Pricing:                 | Forward Day                                                                                                                                                        |
-| Sales Load:              | Up to 2.00%                                                                                                                                                        |
-| Risk Profile:            | Low                                                                                                                                                                |
-| Management Fee\*\*\*:    | Upto 1.00% of average net assets of the Scheme.                                                                                                                    |
-| Min. Initial Investment: | PKR 5,000/-                                                                                                                                                        |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                               |
-| Auditor:                 | A. F. Ferguson & Co.                                                                                                                                               |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                            |
-| Dealing Days:            | Monday - Friday                                                                                                                                                    |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                                  |
-| Leverage:                | Nil                                                                                                                                                                |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025):            | 166.3 |
-| -------------------------------------------------- | ----- |
-| Fund size including fund of fund schemes (PkR mn): | 166.3 |
-| NAV (PkR):                                         | 112.6 |
-| Total Expense Ratio(YTD)\*\*:                      | 1.74% |
-| Total Expense Ratio(Month):                        | 1.05% |
-
-Fund Performance
-
-|                           | BM     | AMMF-II |
-| ------------------------- | ------ | ------- |
-| Since Inception Return \* | 10.12% | 11.00%  |
-| YTD                       | 15.59% | 15.55%  |
-| Month - New (Jan'25):     | 11.72% | 10.90%  |
-| Month - Old (Jan'25):     | -      | -       |
-
-Credit Quality (as % of Total Assets)
-
-| Govt. Securities (Rated AAA) | 90.85% |
-| ---------------------------- | ------ |
-| A1+                          | 0.00%  |
-| AAA                          | 0.49%  |
-| A1                           | 0.00%  |
-| AA+                          | 0.00%  |
-| AA                           | 0.11%  |
-| A-                           | 0.00%  |
-| BBB+                         | 0.00%  |
-| BBB                          | 0.00%  |
-| Below                        | 0.00%  |
-| A+                           | 0.00%  |
-| IG                           | 0.00%  |
-| NR/U                         | 0.00%  |
-| R                            | 8.56%  |
-
-Monthly Returns
-
-|         | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| AMMF-II |        |        |        |        |        |        |        |        |        |        |        |        | 10.90% |
-| BM      |        |        |        |        |        |        |        |        |        |        |        |        | 11.72% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-\*\* This includes 0.160% representing government levy and SECP Fee
-
-\*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 13th supplemental OD with consent of the SECP
-
-\*\*\*\*Actual Management fee charged: 1.07% of net assets
-
-Selling & marketing expense - for the period ended January, 2025, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Alfalah Stock Fund - II
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of Faysal Stock Fund (FSF) is to provide capital growth by investing primarily in a diversified pool of equities and equity related investments. So as to diversify fund risk and to optimize potential returns.
-
-Basic Information
-
-| Category:                | Equity Scheme                                                       |
-| ------------------------ | ------------------------------------------------------------------- |
-| Fund Type:               | Open Ended                                                          |
-| Benchmark:               | KSE100                                                              |
-| Launch Date:             | April 19, 2004                                                      |
-| Par Value:               | 100                                                                 |
-| Pricing:                 | Forward Day                                                         |
-| Sales Load:              | 2.50%                                                               |
-| Risk Profile:            | High                                                                |
-| Leverage:                | Nil                                                                 |
-| Management Fee:          | Upto 4.00% per annum of the average daily net assets of the Scheme. |
-| Min. Initial Investment: | PKR 500/-                                                           |
-| Min. Subseq. Investment: | PKR 100/-                                                           |
-| Trustee:                 | CDC Pakistan Limited                                                |
-| Auditor:                 | Yousuf Adil Chartered Accountants                                   |
-| Listing:                 | Pakistan Stock Exchange                                             |
-| Dealing Days:            | Monday - Friday                                                     |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                   |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size PKR mn (Jan 2025)                       | 105.44  |
-| ------------------------------------------------- | ------- |
-| Fund Size including fund of fund schemes (Pkr mn) | 105.44  |
-| NAV (PkR):                                        | 62.2327 |
-| Total Expense Ratio(YTD)\*\*\*                    | 4.91%   |
-| Total Expense Ratio(Month)                        | 5.20%   |
-
-Fund Performance
-
-|                     | BM     | ASF - II |
-| ------------------- | ------ | -------- |
-| Since Inception\*\* | 15.21% | 36.26%   |
-| YTD                 | 45.65% | 53.69%   |
-| Month (Jan 2025)    | -0.76% | -0.71%   |
-
-Asset Allocation(Sector Wise as a % of Total Assets)
-
-| Commercial Banks     | 10.71% |
-| -------------------- | ------ |
-| Pharmaceuticals      | 10.49% |
-| Automobile Assembler | 5.02%  |
-| Fertilizer           | 4.89%  |
-| Engineering          | 2.94%  |
-| Others               | 7.61%  |
-| Total                | 41.66% |
-
-Top 10 Holdings (% of Total Assets)
-
-| Bank AL Habib Limited                    | 5.69% |
-| ---------------------------------------- | ----- |
-| Sazgar Engineering Works Limited         | 5.02% |
-| Citi Pharma Ltd                          | 4.79% |
-| Fauji Fertilizer Company Limited         | 4.45% |
-| BF Biosciences Limited                   | 4.22% |
-| United Bank Limited                      | 4.16% |
-| Crescent Steel & Allied Products Limited | 2.93% |
-| Pak Elektron Limited                     | 1.50% |
-| Fauji Cement Company Limited             | 0.69% |
-| Oil & Gas Development Company Limited    | 0.66% |
-
-Monthly Returns
-
-| Month  | ASF - II | BM    |
-| ------ | -------- | ----- |
-| Jan-24 |          |       |
-| Feb-24 |          |       |
-| Mar-24 |          |       |
-| Apr-24 |          |       |
-| May-24 |          |       |
-| Jun-24 |          |       |
-| Jul-24 |          |       |
-| Aug-24 |          |       |
-| Sep-24 |          |       |
-| Oct-24 |          |       |
-| Nov-24 |          |       |
-| Dec-24 |          |       |
-| Jan-25 | -0.71%   | 0.00% |
-
-Dispute Resolution/Complaint Handling
-
-Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Calculated on 12-month trailing data.
-
-\*\* Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
-
-\*\*\* This include 0.4700% representing government levy and SECP Fee.
-
-\*\*\*\*Management Fee of the fund has been amended on Oct 11,2024 through 9th supplemental OD with consent of the SECP
-
-\*\*\*\*Actual Management fee charged: 2.39% of net assets
-
-Selling & marketing expense - for the period ended January,2025, PKR Mn 4.470
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 2025
-
-# Alfalah Stable Return Fund - Plan 4
-
-AMC Rating: "AM1" by VIS 02-Jan-25
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
-
-Basic Information of the plan
-
-| Basic Information of the plan |                                                                                                                                  |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                     | Fixed Return                                                                                                                     |
-| Fund Type:                    | Open Ended                                                                                                                       |
-| New Benchmark:                | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Benchmark:                    | 3 Years PKRV                                                                                                                     |
-| Launch Date:                  | February 06, 2024                                                                                                                |
-| Par Value:                    | PKR 100                                                                                                                          |
-| Pricing:                      | Forward                                                                                                                          |
-| Front end Load:               | 0.00%%                                                                                                                           |
-| Back end Load:                | 0.00%                                                                                                                            |
-| Target Return:                | 6 Month Coupon Rate Of GOP Ijara Sukuk Issue 29 October 2021 (+/-) 10 Basis                                                      |
-| Risk Profile:                 | Low                                                                                                                              |
-| Management Fee:               | up to 1.50% per annum of the average daily net assets                                                                            |
-| Min. Initial Investment:      | PKR 500/-                                                                                                                        |
-| Min. Subseq.                  | N/A                                                                                                                              |
-| Trustee:                      | CDC Pakistan Limited                                                                                                             |
-| Auditor:                      | Yousuf Adil Chartered Accountants                                                                                                |
-| Listing:                      | Pakistan Stock Exchange                                                                                                          |
-| Dealing Days:                 | Monday - Friday                                                                                                                  |
-| Cut-off Time:                 | 9:00 am - 4:00 pm                                                                                                                |
-| Leverage:                     | Nil                                                                                                                              |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Statistic                                         | Value   |
-| ------------------------------------------------- | ------- |
-| Fund Size (PKR mn; as on January 31, 2025):       | 3,130.6 |
-| Fund Size including fund of fund schemes (PKR mn) | 3,130.6 |
-| NAV (PKR):                                        | 110.98  |
-| Wtd. Average Maturity (Years):                    | 0.75    |
-| Total Expense Ratio(YTD)\*                        | 0.87%   |
-| Total Expense Ratio(Month)                        | 0.00%   |
-
-Fund Performance
-
-|                              | BM     | ASRF-4 |
-| ---------------------------- | ------ | ------ |
-| Since Inception Return       | 15.54% | 20.16% |
-| YTD                          | 14.75% | 18.11% |
-| Month - New (January, 2025): | 16.70% | 6.77%  |
-| Month - Old (January, 2025): | 11.76% | -      |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Govt. Securities (Rated AAA)          | 96.53%     |
-| AAA                                   | 0.03%      |
-| AA+                                   | 0.00%      |
-| AA                                    | 0.00%      |
-| AA-                                   | 0.00%      |
-| A+                                    | 0.00%      |
-| A                                     | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| Below IG                              | 0.00%      |
-| NR/UR/MTS                             | 3.44%      |
-
-Monthly Returns
-
-|        | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| ASRF-4 | -      | 26.12% | 18.39% | 17.60% | 12.16% | 29.00% | 26.61% | 22.42% | 13.42% | 19.41% | 14.93% | 17.67% | 6.77%  |
-| BM     | -      | 16.83% | 16.72% | 16.69% | 16.60% | 16.41% | 16.42% | 15.60% | 17.20% | 15.56% | 14.17% | 12.56% | 16.70% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Asset Allocation (as % of Total Assets)
-
-| Asset Allocation               | January | February |
-|---------------------------------|---------|----------|
-| Cash                            | 0.03    | 0.02     |
-| Plac. with Banks/DFIs          | -       | -        |
-| Govt. Backed/ Gov. Guar.       | 96.53   | 95.55    |
-| TFCs/Sukuks                     | -       | -        |
-| PIBs                            | -       | -        |
-| T-Bills                         | -       | -        |
-| CPs                             | -       | -        |
-| Others                          | 3.44    | 4.42     |
-| **Total Assets**                | **100.00%** | **100.00%** |
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
-
-\*This include 0.18% representing government levy and SECP Fee
-
-\*\*Actual Management fee charge 0.00% of net assets
-
-Selling & marketing expense - for the period ended January,2025, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Alfalah Financial Sector Income Fund-Plan 1
-
-Fund Stability Rating: "A+(f)" by PACRA 2-July-2024
-
-AMC Rating: "AM1" by VIS 02-Jan-25
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of the Alfalah Financial Sector Income Fund is to provide income enhancement and preservation of capital by offering different plans which will invest in prime quality Financial Sector TFCs/Sukuks, Bank deposits, spread transactions and short-term money market instruments.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                           |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Income Scheme                                                                                                                                             |
-| Fund Type:               | Open Ended                                                                                                                                                |
-| New Benchmark:           | 75% six (6) months KIBOR + 25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Old Benchmark:           | 6 Month KIBOR                                                                                                                                             |
-| Launch Date:             | August 02, 2023                                                                                                                                           |
-| Par Value:               | PKR 100                                                                                                                                                   |
-| Pricing:                 | Forward Day                                                                                                                                               |
-| Sales Load:              | upto 2.00%                                                                                                                                                |
-| Risk Profile:            | Medium                                                                                                                                                    |
-| Leverage:                | Nil                                                                                                                                                       |
-| Management Fee**\***     | upto 2.0% per annum of the average daily net assets                                                                                                       |
-| Min. Initial Investment: | PKR 500/-                                                                                                                                                 |
-| Min. Subseq. Investment: | PKR 100/-                                                                                                                                                 |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                      |
-| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                                         |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                   |
-| Dealing Days:            | Monday - Friday                                                                                                                                           |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                         |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025):     | 9,442.03 |
-| ------------------------------------------- | -------- |
-| Fund Size including fund of funds (PkR mn): | 9,465.44 |
-| NAV (PkR):                                  | 109.6937 |
-| Wtd. Average Maturity (Years):              | 0.03     |
-| Total Expense Ratio(YTD):                   | 1.41%    |
-| Total Expense Ratio(Month):                 | 1.00%    |
-
-Fund Performance
-
-|                           | BM     | AFSIF  |
-| ------------------------- | ------ | ------ |
-| Since Inception Return \* | 19.28% | 21.68% |
-| YTD                       | 15.35% | 16.01% |
-| Month (Jan 2025) - New    | 12.24% | 12.35% |
-| Month (Jan 2025) - Old    | 11.86% | -      |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Gov. Secs.                            | 0.00%      |
-| AAA                                   | 2.10%      |
-| AA+                                   | 0.00%      |
-| AA                                    | 0.00%      |
-| AA-                                   | 0.00%      |
-| A+                                    | 0.01%      |
-| A                                     | 96.84%     |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| NR/UR                                 | 1.05%      |
-
-TFC/Sukuk Holdings (% of Total Assets)
-
-Kashif Foundation 10102023: 1.61%
-
-Monthly Returns
-
-|       | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| ----- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| AFSIF | 17.64% | 18.87% | 20.31% | 20.04% | 20.04% | 20.04% | 20.04% | 20.04% | 20.04% | 20.04% | 20.04% | 14.06% | 12.35% |
-| BM    | 20.99% | 21.49% | 21.50% | 21.62% | 21.40% | 20.35% | 19.84% | 18.59% | 16.59% | 14.50% | 13.39% | 12.33% | 12.24% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
-
-\*\* This include 0.24% representing government levy and SECP Fee.
-
-\*\*\* Management fee charged 0.33%
-
-Selling & marketing expense for the period ended January,2025, PKR Mn 2.413
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Alfalah Financial Sector Income Fund-Plan 2
-
-Fund Stability Rating: "A+(f)" by PACRA 2-July-2024
-
-AMC Rating: "AM1" by VIS 02-Jan-25
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of the Alfalah Financial Sector Income Fund is to provide income enhancement and preservation of capital by offering different plans which will invest in prime quality Financial Sector TFCs/Sukuks, Bank deposits, spread transactions and short-term money market instruments.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                           |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Income Scheme                                                                                                                                             |
-| Fund Type:               | Open Ended                                                                                                                                                |
-| New Benchmark:           | 75% six (6) months KIBOR + 25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Old Benchmark:           | 6 Month KIBOR                                                                                                                                             |
-| Launch Date:             | July 15, 2024                                                                                                                                             |
-| Par Value:               | PKR 100                                                                                                                                                   |
-| Pricing:                 | Forward Day                                                                                                                                               |
-| Sales Load:              | upto 3.00%                                                                                                                                                |
-| Risk Profile:            | Medium                                                                                                                                                    |
-| Leverage:                | Nil                                                                                                                                                       |
-| Management Fee**\***     | upto 2.0% per annum of the average daily net assets                                                                                                       |
-| Min. Initial Investment: | PKR 500/-                                                                                                                                                 |
-| Min. Subseq. Investment: | PKR 100/-                                                                                                                                                 |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                      |
-| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                                         |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                   |
-| Dealing Days:            | Monday - Friday                                                                                                                                           |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                         |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025):     | 216.96 |
-| ------------------------------------------- | ------ |
-| Fund Size including fund of funds (PkR mn): | 216.96 |
-| NAV (PkR):                                  | 100    |
-| Wtd. Average Maturity (Years):              | 0.00   |
-| Total Expense Ratio(YTD):                   | 0.66%  |
-| Total Expense Ratio(Month):                 | 0.92%  |
-
-Fund Performance
-
-| Fund Performance          | BM     | AFSIF  |
-| ------------------------- | ------ | ------ |
-| Since Inception Return \* | 19.30% | 10.60% |
-| YTD                       | 15.40% | 10.60% |
-| Month (Jan 2025) - New    | 12.24% | 6.89%  |
-| Month (Jan 2025) - Old    | 11.86% | -      |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Gov. Secs.                            | 0.00%      |
-| AAA                                   | 96.46%     |
-| AA+                                   | 0.00%      |
-| AA                                    | 0.00%      |
-| AA-                                   | 0.00%      |
-| A+                                    | 0.00%      |
-| A                                     | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| NR/UR                                 | 3.54%      |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
-
-\*\* This include 0.15% representing government levy and SECP Fee.
-
-\*\*\* Management fee charged 0.27%
-
-Selling & marketing expense for the period ended January,2025, PKR Mn 0.021
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 2025
-
-# Alfalah Cash Fund - II
-
-Fund Stability Rating: "AA+(f)" by PACRA 15-Dec-23
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The Objective of the Fund is to seek maximum possible preservation of capital and a competitive rate of return via investing primarily in money market securities.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                                   |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Money Market Scheme                                                                                                                                               |
-| Fund Type:               | Open Ended                                                                                                                                                        |
-| Benchmark:               | 90% three (3) months PKRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP |
-| Launch Date:             | January 08, 2021                                                                                                                                                  |
-| Par Value:               | PKR 100                                                                                                                                                           |
-| Pricing:                 | Backward Day                                                                                                                                                      |
-| Sales Load:              | up to 2.00%                                                                                                                                                       |
-| Risk Profile:            | Low                                                                                                                                                               |
-| Management Fee\*\*\*:    | Upto 1.00% of average net assets of the Scheme.                                                                                                                   |
-| Min. Initial Investment: | PKR 5,000/-                                                                                                                                                       |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                              |
-| Auditor:                 | A. F. Ferguson & Co.                                                                                                                                              |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                           |
-| Dealing Days:            | Monday - Friday                                                                                                                                                   |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                                 |
-| Leverage:                | Nil                                                                                                                                                               |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025):            | 106.1 |
-| -------------------------------------------------- | ----- |
-| Fund size including fund of fund schemes (PkR mn): | 106.1 |
-| NAV (PkR):                                         | 112.3 |
-| Total Expense Ratio(YTD)\*\*:                      | 2.26% |
-| Total Expense Ratio(Month):                        | 4.55% |
-
-Fund Performance
-
-|                           | BM     | ACF - II |
-| ------------------------- | ------ | -------- |
-| Since Inception Return \* | 13.84% | 15.10%   |
-| YTD                       | 15.59% | 20.31%   |
-| Month - New (Jan'25):     | 11.72% | 18.54%   |
-| Month - Old (Jan'00):     | 11.76% |          |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Govt. Securities (Rated AAA)          | 92.08%     |
-| AAA                                   | 0.92%      |
-| AA+                                   | 0.00%      |
-| AA                                    | 5.45%      |
-| AA-                                   | 0.00%      |
-| A+                                    | 0.00%      |
-| A                                     | 0.00%      |
-| A1+                                   | 0.00%      |
-| A1                                    | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| IG                                    | 0.00%      |
-| R                                     | 1.55%      |
-
-Monthly Returns
-
-|          | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| -------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| ACF - II |        |        |        |        |        |        |        |        |        |        |        |        | 18.54% |
-| BM       |        |        |        |        |        |        |        |        |        |        |        |        | 0.00%  |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-\*\* This includes 0.150% representing government levy and SECP Fee
-
-\*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 13th supplemental OD with consent of the SECP
-
-\*\*\*\*Actual Management fee charged: 1.07% of net assets
-
-Selling & marketing expense - for the period ended January, 2025, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Alfalah Financial Sector Opportunity Fund
-
-Fund Stability Rating: "AA+ (f)" by PACRA 22-Oct-24
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-Alfalah Financial Sector Opportunity Fund seeks to provide a competitive rate of returns to its investors by investing in money market and debt instruments with major exposure in financial sector instruments.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                          |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Income Scheme                                                                                                                                            |
-| Fund Type:               | Open Ended                                                                                                                                               |
-| Benchmark:               | 75% six (6) months KIBOR +25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Launch Date:             | July 05, 2013                                                                                                                                            |
-| Par Value:               | PKR 100                                                                                                                                                  |
-| Pricing:                 | Forward Day                                                                                                                                              |
-| Sales Load:              | up to 2.00%                                                                                                                                              |
-| Risk Profile:            | Medium                                                                                                                                                   |
-| Management Fee\*\*\*:    | Upto 1.00% of average net assets of the Scheme.                                                                                                          |
-| Min. Initial Investment: | PKR 5,000/-                                                                                                                                              |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                     |
-| Auditor:                 | A. F. Ferguson & Co.                                                                                                                                     |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                  |
-| Dealing Days:            | Monday - Friday                                                                                                                                          |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                        |
-| Leverage:                | Nil                                                                                                                                                      |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025):            | 974.0   |
-| -------------------------------------------------- | ------- |
-| Fund size including fund of fund schemes (PkR mn): | 974.0   |
-| NAV (PkR):                                         | 109.599 |
-| Total Expense Ratio(YTD):                          | 0.84%   |
-| Total Expense Ratio(Month):                        | 0.84%   |
-
-Fund Performance
-
-|                           | BM     | AFSOF  |
-| ------------------------- | ------ | ------ |
-| Since Inception Return \* | 10.90% | 11.00% |
-| YTD                       | 15.12% | 12.73% |
-| Month - New (Jan'25):     | 12.24% | 16.45% |
-| Month - Old (Jan'25):     | 11.86% |        |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Govt. Securities (Rated AAA)          | 4.59%      |
-| AAA                                   | 0.02%      |
-| AA+                                   | 0.01%      |
-| AA                                    | 0.00%      |
-| AA-                                   | 0.16%      |
-| A+                                    | 0.00%      |
-| A                                     | 9.59%      |
-| A1+                                   | 0.00%      |
-| A1                                    | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| IG                                    | 0.00%      |
-| R                                     | 83.75%     |
-
-Historical Performance (%)
-
-| Month  | AFSOF  | BM    |
-| ------ | ------ | ----- |
-| Jan-24 |        |       |
-| Feb-24 |        |       |
-| Mar-24 |        |       |
-| Apr-24 |        |       |
-| May-24 |        |       |
-| Jun-24 |        |       |
-| Jul-24 |        |       |
-| Aug-24 |        |       |
-| Sep-24 |        |       |
-| Oct-24 |        |       |
-| Nov-24 |        |       |
-| Dec-24 |        |       |
-| Jan-25 | 16.45% | 0.00% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-\*\* This includes 0.230% representing government levy and SECP Fee
-
-\*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 13th supplemental OD with consent of the SECP
-
-\*\*\*\*Actual Management fee charged: 1.07% of net assets
-
-Selling & marketing expense - for the period ended January, 2025, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Alfalah Stable Return Fund - Plan 8
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
-
-Basic Information of the plan
-
-| Category:       | Fixed Return                                                                                                                                                            |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Risk Profile:   | Low                                                                                                                                                                     |
-| Fund Type:      | Open Ended                                                                                                                                                              |
-| Management Fee: | up to 1.50% per annum of the average daily net assets                                                                                                                   |
-| Benchmark:      | 70% three (3) months PKRV rates + 30% three (3) months average deposit rate of comparable period of the Plan, of three (3)-AA rated Scheduled Bank as selected by MUFAP |
-| Launch Date:    | November 21, 2023                                                                                                                                                       |
-| Par Value:      | PKR 100                                                                                                                                                                 |
-| Pricing:        | Forward                                                                                                                                                                 |
-| Front end Load: | 0.00%                                                                                                                                                                   |
-| Back end Load:  | 0.00%                                                                                                                                                                   |
-| Leverage:       | Nil                                                                                                                                                                     |
-| Trustee:        | CDC Pakistan Limited                                                                                                                                                    |
-| Auditor:        | A.F Ferguson & Co. Pakistan                                                                                                                                             |
-| Listing:        | Pakistan Stock Exchange                                                                                                                                                 |
-| Dealing Days:   | Monday - Friday                                                                                                                                                         |
-| Cut-off Time:   | 9:00 am - 4:00 pm                                                                                                                                                       |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on October 31, 2024)        | 906.3  |
-| ------------------------------------------------- | ------ |
-| Fund size including fund of fund schemes (PkR mn) | 906.3  |
-| NAV (PkR):                                        | 106.30 |
-| Wtd. Average Maturity (Years):                    | 0.09   |
-| Total Expense Ratio(YTD)\*                        | 0.48%  |
-| Total Expense Ratio(Month)                        | 0.00%  |
-
-Fund Performance
-
-|                        | BM     | ASRF-8 |
-| ---------------------- | ------ | ------ |
-| Since Inception Return | 19.51% | 21.28% |
-| YTD                    | 17.68% | 21.89% |
-| Month (October, 2024): | 15.56% | 19.97% |
-
-Credit Quality (as % of Total Assets)
-
-| Govt. Securities (Rated AAA) | 95.18% |
-| ---------------------------- | ------ |
-| A                            | 0.00%  |
-| AAA                          | 4.74%  |
-| A-                           | 0.00%  |
-| BBB+                         | 0.00%  |
-| AA+                          | 0.00%  |
-| BBB                          | 0.00%  |
-| AA-                          | 0.00%  |
-| Below IG                     | 0.00%  |
-| A+                           | 0.00%  |
-| NR/UR/MTS                    | 0.08%  |
-
-Monthly Returns
-
-|        | Oct-23 | Nov-23 | Dec-23 | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| ASRF-8 | -      | 32.77% | 16.70% | 19.54% | 14.44% | 14.74% | 19.88% | 19.37% | 21.03% | 20.38% | 20.64% | 24.37% | 19.97% |
-| BM     | -      | 20.63% | 20.67% | 20.16% | 20.37% | 20.59% | 20.77% | 20.54% | 19.73% | 19.48% | 18.47% | 17.20% | 15.56% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
-
-\*This include 0.120% representing government levy and SECP Fee
-
-\*\*Actual Management fee charge 0.00% of net assets
-
-Selling & marketing expense - for the period ended October,2024, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report October 31, 2024
-
-# Alfalah Stable Return Fund - Plan 14
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
-
-Basic Information of the plan
-
-| Category:                | Fixed Return                                                                                              |
-| ------------------------ | --------------------------------------------------------------------------------------------------------- |
-| Risk Profile:            | Low                                                                                                       |
-| Fund Type:               | Open Ended                                                                                                |
-| Management Fee:          | up to 1.50% per annum of the average daily net assets selected by MUFAP                                   |
-| Benchmark:               | Average deposit rate of comparable of the Plan, of three (3)-AA rated Scheduled Bank as selected by MUFAP |
-| Min. Initial Investment: | PKR 500/-                                                                                                 |
-| Min. Subseq.:            | N/A                                                                                                       |
-| Launch Date:             | Oct 27, 2024                                                                                              |
-| Trustee:                 | CDC Pakistan Limited                                                                                      |
-| Par Value:               | PKR 100                                                                                                   |
-| Pricing:                 | Forward                                                                                                   |
-| Front end Load:          | 0.00%                                                                                                     |
-| Back end Load:           | 0.00%                                                                                                     |
-| Dealing Days:            | Monday - Friday                                                                                           |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                         |
-| Auditor:                 | Yousuf Adil Chartered Accountants                                                                         |
-| Listing:                 | Pakistan Stock Exchange                                                                                   |
-| Leverage:                | Nil                                                                                                       |
-
-Investment Committee
-
-|                              |                                 |
-| ---------------------------- | ------------------------------- |
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on December 31, 2024)       | 6,706.2 |
-| ------------------------------------------------- | ------- |
-| Fund size including fund of fund schemes (PkR mn) | 6,706.2 |
-| NAV (PkR):                                        | 102.94  |
-| Wtd. Average Maturity (Years):                    | 0.26    |
-| Total Expense Ratio(YTD)\*                        | 0.58%   |
-| Total Expense Ratio(Month)                        | 0.60%   |
-
-Fund Performance
-
-|                         | BM     | ASRF-14 |
-| ----------------------- | ------ | ------- |
-| Since Inception Return  | 15.76% | 14.88%  |
-| YTD                     | 15.76% | 14.88%  |
-| Month (December, 2024): | 13.94% | 14.71%  |
-
-Credit Quality (as % of Total Assets)
-
-|                              |        |
-| ---------------------------- | ------ |
-| Govt. Securities (Rated AAA) | 96.36% |
-| AAA                          | 0.00%  |
-| AA+                          | 0.00%  |
-| AA                           | 0.01%  |
-| AA-                          | 0.00%  |
-| A+                           | 0.00%  |
-| A                            | 0.00%  |
-| A-                           | 0.00%  |
-| BBB+                         | 0.00%  |
-| BBB                          | 0.00%  |
-| Below IG                     | 0.00%  |
-| NR/UR/MTS                    | 3.63%  |
-
-Monthly Returns
-
-| Month  | ASRF-14 | BM      |
-| ------ | ------- | ------- |
-| Dec-23 | -       | -       |
-| Jan-24 | -       | -       |
-| Feb-24 | -       | -       |
-| Mar-24 | -       | -       |
-| Apr-24 | -       | -       |
-| May-24 | -       | -       |
-| Jun-24 | -       | -       |
-| Jul-24 | -       | -       |
-| Aug-24 | -       | -       |
-| Sep-24 | -       | -       |
-| Oct-24 | 14.12%  | 16.97%- |
-| Nov-24 | 15.02%  | 16.37%  |
-| Dec-24 | 14.71%  | 13.94%  |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
-
-\*This include 0.14% representing government levy and SECP Fee
-
-\*\*Actual Management fee charge 0.39% of net assets
-
-Selling & marketing expense - for the period ended December,2024, PKR Mn 0.950
-
-Alfalah Investments
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report December 31, 2024
-
-# ALFALAH GOVERNMENT SECURITIES FUND -Plan 2
-
-Fund Stability Rating: "Not rated yet
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of the Scheme is to deliver optimal risk adjusted returns by investing mainly in mix of short to long term Government Securities and other debt Instruments.
-
-Basic Information
-
-| Category                   | Sovereign Income Scheme                       |
-| -------------------------- | --------------------------------------------- |
-| Fund Type                  | Open Ended                                    |
-| Benchmark                  | Six (6) months PKRV Rates                     |
-| Launch Date                | November 12, 2024                             |
-| Par Value                  | PKR 100                                       |
-| Pricing                    | Forward Day                                   |
-| Sales Load                 | Up to 3.00%                                   |
-| Risk Profile               | Medium                                        |
-| Leverage                   | Nil                                           |
-| Management Fee             | Up to 2% of the Average Daily net asset value |
-| Min. Initial Investment    | PKR 500/-                                     |
-| Min. Subsequent Investment | PKR 100/-                                     |
-| Trustee                    | CDC Pakistan Limited                          |
-| Auditor                    | Yousuf Adil Chartered Accountants             |
-| Listing                    | Pakistan Stock Exchange                       |
-| Dealing Days               | Monday - Friday                               |
-| Cut-off Time               | 9:00 am - 4:00 pm                             |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-|                                          |                    |
-| ---------------------------------------- | ------------------ |
-| Fund Size (as on Dec 31, 2024)           | PKR 11,410 million |
-| Fund Size including Fund of Fund Schemes | PKR 11,410 million |
-| NAV (PkR)                                | PKR 102.4          |
-| Weighted Average Maturity (WAM)          | 3.01 years         |
-| Total Expense Ratio (YTD)                | 0.86%              |
-| Total Expense Ratio (Month)              | 0.86%              |
-
-Credit Quality (as % of Total Assets)
-
-| Govt Backed | 83.32% |
-| ----------- | ------ |
-| A           | 0.00%  |
-| AAA         | 10.35% |
-| A-          | 0.00%  |
-| AA+         | 0.00%  |
-| BBB+        | 0.00%  |
-| AA          | 0.00%  |
-| BBB         | 0.00%  |
-| AA-         | 0.00%  |
-| NR/UR       | 6.33%  |
-| A+          | 0.00%  |
-
-Monthly Returns
-
-|        | Nov-24 | Dec-24 |
-| ------ | ------ | ------ |
-| AGSP-2 | 15.53% | 18.99% |
-| BM     | 13.10% | 11.90% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
-
-\*\* This include 0.1700% representing government levy and SECP Fee.
-
-\*\*\* Management fee charged 0.27%
-
-Selling & marketing expenses - for the period ended Oct, 2024: PKR 0.940 Mn
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report December 2024
-
-# Alfalah Stable Return Fund - Plan 10
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
-
-Basic Information of the plan
-
-| Category:                | Fixed Return                                                                                                                                                                  |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Risk Profile:            | Low                                                                                                                                                                           |
-| Fund Type:               | Open Ended                                                                                                                                                                    |
-| Management Fee:          | up to 1.50% per annum of the average daily net assets                                                                                                                         |
-| Benchmark:               | Average deposit rates of comparable period of the plan, of three(3)-AA rated scheduled Banks as selected by MUFAP and shall be disclosed at the time of public offering date. |
-| Min. Initial Investment: | PKR 500/-                                                                                                                                                                     |
-| Min. Subseq.:            | N/A                                                                                                                                                                           |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                                          |
-| Auditor:                 | A.F Ferguson & Co. Pakistan                                                                                                                                                   |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                                       |
-| Pricing:                 | Forward                                                                                                                                                                       |
-| Dealing Days:            | Monday - Friday                                                                                                                                                               |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                                             |
-| Front end Load:          | 0.00%                                                                                                                                                                         |
-| Back end Load:           | 0.00%                                                                                                                                                                         |
-| Leverage:                | Nil                                                                                                                                                                           |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on October 31, 2024)        | 277.5  |
-| ------------------------------------------------- | ------ |
-| Fund size including fund of fund schemes (PkR mn) | 277.5  |
-| NAV (PkR):                                        | 106.93 |
-| Wtd. Average Maturity (Years):                    | 0.04   |
-| Total Expense Ratio(YTD)\*                        | 1.67%  |
-| Total Expense Ratio(Month)                        | 1.36%  |
-
-Fund Performance
-
-|                        | BM     | ASRF-10 |
-| ---------------------- | ------ | ------- |
-| Since Inception Return | 18.13% | 20.37%  |
-| YTD                    | 17.50% | 19.50%  |
-| Month (October, 2024): | 15.56% | 18.14%  |
-
-Credit Quality (as % of Total Assets)
-
-| Govt. Securities (Rated AAA) | 97.95% |
-| ---------------------------- | ------ |
-| A                            | 0.00%  |
-| AAA                          | 2.04%  |
-| A-                           | 0.00%  |
-| AA+                          | 0.00%  |
-| BBB+                         | 0.00%  |
-| AA                           | 0.00%  |
-| BBB                          | 0.00%  |
-| AA-                          | 0.00%  |
-| Below IG                     | 0.00%  |
-| A+                           | 0.00%  |
-| NR/UR/MTS                    | 0.01%  |
-
-Monthly Returns
-
-|         | Oct-23 | Nov-23 | Dec-23 | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 |
-| ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| ASRF-10 | -      | -      | -      | -      | -      | 6.54%  | 19.18% | 19.77% | 20.82% | 20.46% | 18.76% | 18.80% | 18.14% |
-| BM      | -      | -      | -      | -      | -      | 18.97% | 18.97% | 18.96% | 18.97% | 18.77% | 18.47% | 17.20% | 15.56% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
-
-\*This include 0.270% representing government levy and SECP Fee
-
-\*\*Actual Management fee charge 0.71% of net assets
-
-Selling & marketing expense - for the period ended October,2024, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report
-
-October 31, 2024
-
-# ALFALAH GOVERNMENT SECURITIES Fund- Plan-1
-
-Fund Stability Rating: "Not rated yet
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of the Scheme is to deliver optimal risk adjusted returns by investing mainly in mix of short to long term Government Securities and other debt Instruments.
-
-Basic Information
-
-| Category                   | Sovereign Income Scheme                       |
-| -------------------------- | --------------------------------------------- |
-| Fund Type                  | Open Ended                                    |
-| Benchmark                  | Six (6) months PKRV Rates                     |
-| Launch Date                | September 10, 2024                            |
-| Par Value                  | PKR 100                                       |
-| Pricing                    | Forward Day                                   |
-| Sales Load                 | Up to 3.00%                                   |
-| Risk Profile               | Medium                                        |
-| Leverage                   | Nil                                           |
-| Management Fee             | Up to 2% of the Average Daily net asset value |
-| Min. Initial Investment    | PKR 500/-                                     |
-| Min. Subsequent Investment | PKR 100/-                                     |
-| Trustee                    | CDC Pakistan Limited                          |
-| Auditor                    | Yousuf Adil Chartered Accountants             |
-| Listing                    | Pakistan Stock Exchange                       |
-| Dealing Days               | Monday - Friday                               |
-| Cut-off Time               | 9:00 am - 4:00 pm                             |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Dec 31, 2024):            | 5,285 |
-| -------------------------------------------------- | ----- |
-| Fund Size including fund of fund schemes (PkR mn): | 5,285 |
-| NAV (PkR):                                         | 104.4 |
-| Wtd. Average Maturity (Years):                     | 2.27  |
-| Total Expense Ratio(YTD)\*\*                       | 1.04% |
-| Total Expense Ratio(Month)\*\*                     | 1.00% |
-
-Fund Performance
-
-|                          | BM     | AGSOF  |
-| ------------------------ | ------ | ------ |
-| Since Inception Return\* | 13.92% | 19.38% |
-| YTD                      | 13.92% | 19.38% |
-| Month (Dec 2024)         | 11.90% | 15.67% |
-
-Credit Quality (as % of Total Assets)
-
-| Govt Backed | 62.92% |
-| ----------- | ------ |
-| A           | 0.00%  |
-| AAA         | 33.08% |
-| A-          | 0.00%  |
-| AA+         | 0.00%  |
-| BBB+        | 0.00%  |
-| AA          | 0.00%  |
-| BBB         | 0.00%  |
-| AA-         | 0.00%  |
-| NR/UR       | 4.00%  |
-| A+          | 0.00%  |
-
-Monthly Returns
-
-|        | Dec-23 | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| AGSP-1 |        |        |        |        |        |        |        |        |        | 32.92% | 14.38% | 17.80% | 15.67% |
-| BM     |        |        |        |        |        |        |        |        |        | 16.62% | 14.06% | 13.10% | 11.90% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
-
-\*\* This include 0.2000% representing government levy and SECP Fee.
-
-\*\*\* Management fee charged 0.46%
-
-Selling & marketing expenses - for the period ended Oct, 2024: PKR 0.858 Mn
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report December 31, 2024
-
-# ALFALAH GOVERNMENT SECURITIES FUND
-
-Fund Stability Rating: "Not rated yet"
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of the Scheme is to deliver optimal risk adjusted returns by investing mainly in mix of short to long term Government Securities and other debt Instruments.
-
-Basic Information
-
-| Category                | Sovereign Income Scheme                      |
-| ----------------------- | -------------------------------------------- |
-| Fund Type               | Open Ended                                   |
-| Benchmark               | Six (6) months PKRV Rates                    |
-| Launch Date             | September 10, 2024                           |
-| Par Value               | PKR 100                                      |
-| Pricing                 | Forward Day                                  |
-| Sales Load              | up to 3.00%                                  |
-| Risk Profile            | Medium                                       |
-| Leverage                | Nil                                          |
-| Management Fee          | upto 2% of the Average Daily net asset value |
-| Min. Initial Investment | PKR 500/-                                    |
-| Min. Subseq. Investment | PKR 100/-                                    |
-| Trustee                 | CDC Pakistan Limited                         |
-| Auditor                 | A.F Ferguson & Co                            |
-| Listing                 | Pakistan Stock Exchange                      |
-| Dealing Days            | Monday - Friday                              |
-| Cut-off Time            | 9:00 am - 4:00 pm                            |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Statistic                                         | Value |
-| ------------------------------------------------- | ----- |
-| Fund Size (PKR mn; as on Oct 31, 2024):           | 5,140 |
-| Fund Size including fund of fund schemes (PKR mn) | 5,140 |
-| NAV (PKR):                                        | 101.5 |
-| Wtd. Average Maturity (Years):                    | 3.50  |
-| Total Expense Ratio (YTD)\*\*                     | 0.96% |
-| Total Expense Ratio (Month)\*\*                   | 1.12% |
-
-Fund Performance
-
-|                          | BM     | AGSOF  |
-| ------------------------ | ------ | ------ |
-| Since Inception Return\* | 15.34% | 21.81% |
-| YTD                      | 15.34% | 21.81% |
-| Month (Oct 2024)         | 14.06% | 14.38% |
-
-Credit Quality (as % of Total Assets)
-
-| Govt Backed | 91.54% |
-| ----------- | ------ |
-| A           | 0.00%  |
-| AAA         | 2.75%  |
-| A-          | 0.00%  |
-| AA+         | 0.00%  |
-| BBB+        | 0.00%  |
-| AA          | 0.00%  |
-| BBB         | 0.00%  |
-| AA-         | 0.00%  |
-| NR/UR       | 5.71%  |
-| A+          | 0.00%  |
-
-Monthly Returns
-
-| Month  | AGSP-1 | BM     |
-| ------ | ------ | ------ |
-| Oct-23 |        |        |
-| Nov-23 |        |        |
-| Dec-23 |        |        |
-| Jan-24 |        |        |
-| Feb-24 |        |        |
-| Mar-24 |        |        |
-| Apr-24 |        |        |
-| May-24 |        |        |
-| Jun-24 |        |        |
-| Jul-24 |        |        |
-| Aug-24 |        |        |
-| Sep-24 | 32.92% | 16.62% |
-| Oct-24 | 14.38% | 14.06% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
-
-\*\* This include 0.1900% representing government levy and SECP Fee.
-
-\*\*\* Management fee charged 3.30%
-
-Selling & marketing expenses - for the period ended Oct, 2024: PKR Mn 0.00
-
-Alfalah Investments
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report October 2024
-
-# Alfalah Stable Return Fund - Plan 6
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-Investment Objective
-
-Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
-
-Basic Information of the plan
-
-| Category:                | Fixed Return                                                                                                                                                            |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Risk Profile:            | Low                                                                                                                                                                     |
-| Fund Type:               | Open Ended                                                                                                                                                              |
-| Management Fee:          | up to 1.50% per annum of the average daily net assets                                                                                                                   |
-| Benchmark:               | 70% three (3) months PKRV rates + 30% three (3) months average deposit rate of comparable period of the Plan, of three (3)-AA rated Scheduled Bank as selected by MUFAP |
-| Launch Date:             | October 25, 2023                                                                                                                                                        |
-| Par Value:               | PKR 100                                                                                                                                                                 |
-| Pricing:                 | Forward                                                                                                                                                                 |
-| Dealing Days:            | Monday - Friday                                                                                                                                                         |
-| Front end Load:          | 0.00%                                                                                                                                                                   |
-| Back end Load:           | 0.00%                                                                                                                                                                   |
-| Leverage:                | Nil                                                                                                                                                                     |
-| Min. Initial Investment: | PKR 500/-                                                                                                                                                               |
-| Min. Subsequent:         | N/A                                                                                                                                                                     |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                                    |
-| Auditor:                 | A.F Ferguson & Co. Pakistan                                                                                                                                             |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                                 |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                                       |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Omar Mukhtar                 | Head of Risk                    |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Jr. Fund Manager Equity Funds   |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on June 30, 2024)           | 1,365.7 |
-| ------------------------------------------------- | ------- |
-| Fund size including fund of fund schemes (PkR mn) | 1,365.7 |
-| NAV (PkR):                                        | 100.80  |
-| Wtd. Average Maturity (Years):                    | 0.37    |
-| Total Expense Ratio(YTD)\*                        | 1.34%   |
-| Total Expense Ratio(Month)                        | 0.18%   |
-
-Fund Performance
-
-| Period                 | BM     | ASRF-6 |
-| ---------------------- | ------ | ------ |
-| Since Inception Return | 20.56% | 20.27% |
-| YTD                    | 20.56% | 20.27% |
-| Month (June, 2024)     | 19.73% | 22.07% |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality               | Percentage |
-| ---------------------------- | ---------- |
-| Govt. Securities (Rated AAA) | 99.37%     |
-| AAA                          | 0.40%      |
-| AA+                          | 0.00%      |
-| AA                           | 0.00%      |
-| AA-                          | 0.00%      |
-| A                            | 0.00%      |
-| A-                           | 0.00%      |
-| BBB+                         | 0.00%      |
-| BBB                          | 0.00%      |
-| Below IG                     | 0.00%      |
-| A+                           | 0.00%      |
-| NR/UR/MTS                    | 0.23%      |
-
-Monthly Returns
-
-| Month  | ASRF-6 | BM     |
-| ------ | ------ | ------ |
-| Jun-23 | -      | -      |
-| Jul-23 | -      | -      |
-| Aug-23 | -      | -      |
-| Sep-23 | -      | -      |
-| Oct-23 | 27.87% | 21.55% |
-| Nov-23 | 22.32% | 20.63% |
-| Dec-23 | 16.25% | 20.67% |
-| Jan-24 | 18.42% | 20.16% |
-| Feb-24 | 14.76% | 20.37% |
-| Mar-24 | 16.54% | 20.59% |
-| Apr-24 | 20.01% | 20.77% |
-| May-24 | 20.98% | 20.54% |
-| Jun-24 | 22.07% | 19.73% |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
-
-\*This include 0.002% representing government levy and SECP Fee
-
-\*\*Actual Management fee charge 0.00% of net assets
-
-Selling & marketing expense - for the period ended June,2024, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report June 30, 2024
-
-# Alfalah Government Securities Fund-II
-
-Fund Stability Rating: "AA(f)" by VIS 28-Oct-24
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The Objective of the Fund is to seek competitive returns by investing primarily in Government Securities
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                                |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Sovereign Income Scheme                                                                                                                                        |
-| Fund Type:               | Open Ended                                                                                                                                                     |
-| Benchmark:               | 90% six (6) months PKRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Launch Date:             | March 16, 2020                                                                                                                                                 |
-| Par Value:               | PKR 100                                                                                                                                                        |
-| Pricing:                 | Forward Day                                                                                                                                                    |
-| Sales Load:              | up to 2.00%                                                                                                                                                    |
-| Risk Profile:            | Low                                                                                                                                                            |
-| Management Fee\*\*\*:    | Upto 1.00% of average net assets of the Scheme.                                                                                                                |
-| Min. Initial Investment: | PKR 5,000/-                                                                                                                                                    |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                           |
-| Auditor:                 | A. F. Ferguson & Co.                                                                                                                                           |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                        |
-| Dealing Days:            | Monday - Friday                                                                                                                                                |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                              |
-| Leverage:                | Nil                                                                                                                                                            |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025):            | 2,512.0 |
-| -------------------------------------------------- | ------- |
-| Fund size including fund of fund schemes (PkR mn): | 2,512.0 |
-| NAV (PkR):                                         | 139.763 |
-| Total Expense Ratio(YTD)\*\*:                      | 1.32%   |
-| Total Expense Ratio(Month):                        | 1.04%   |
-
-Fund Performance
-
-|                           | BM     | AGSF - II |
-| ------------------------- | ------ | --------- |
-| Since Inception Return \* | 13.54% | 12.60%    |
-| YTD                       | 15.06% | 18.56%    |
-| Month - New (Jan'25):     | 11.84% | 7.85%     |
-| Month - Old (Jan'25):     | 11.66% |           |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Govt. Securities (Rated AAA)          | 97.16%     |
-| AAA                                   | 0.00%      |
-| AA+                                   | 0.00%      |
-| AA                                    | 2.39%      |
-| AA-                                   | 0.27%      |
-| A+                                    | 0.00%      |
-| A                                     | 0.00%      |
-| A1+                                   | 0.00%      |
-| A1                                    | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| IG                                    | 0.00%      |
-| R                                     | 0.18%      |
-
-Historical Performance (%)
-
-| Monthly Returns | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| AGSF - II       |        |        |        |        |        |        |        |        |        |        |        |        | 7.85%  |
-| BM              |        |        |        |        |        |        |        |        |        |        |        |        | 0.00%  |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-\*\* This includes 0.180% representing government levy and SECP Fee
-
-\*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 13th supplemental OD with consent of the SECP
-
-\*\*\*\*Actual Management fee charged: 1.07% of net assets
-
-Selling & marketing expense - for the period ended January, 2025, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# ALFALAH GOVERNMENT SECURITIES Fund- Plan-1
-
-Fund Stability Rating: "Not rated yet"
-
-AMC Rating: "AM1" by VIS 02-Jan-25
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of the Scheme is to deliver optimal risk adjusted returns by investing mainly in mix of short to long term Government Securities and other debt Instruments.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                                |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Sovereign Income Scheme                                                                                                                                        |
-| Fund Type:               | Open Ended                                                                                                                                                     |
-| New Benchmark:           | 90% six (6) months PKRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Old Benchmark:           | Six (6) months PKRV Rates                                                                                                                                      |
-| Launch Date:             | September 10, 2024                                                                                                                                             |
-| Par Value:               | PKR 100                                                                                                                                                        |
-| Pricing:                 | Forward Day                                                                                                                                                    |
-| Sales Load:              | up to 3.00%                                                                                                                                                    |
-| Risk Profile:            | Medium                                                                                                                                                         |
-| Leverage:                | Nil                                                                                                                                                            |
-| Management Fee:          | upto 2% of the Average Daily net asset value                                                                                                                   |
-| Min. Initial Investment: | PKR 500/-                                                                                                                                                      |
-| Min. Subseq. Investment: | PKR 100/-                                                                                                                                                      |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                           |
-| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                                              |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                        |
-| Dealing Days:            | Monday - Friday                                                                                                                                                |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                              |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Statistic                                         | Value |
-| ------------------------------------------------- | ----- |
-| Fund Size (PKR mn; as on Jan 31, 2025):           | 5,339 |
-| Fund Size including fund of fund schemes (PKR mn) | 5,339 |
-| NAV (PKR):                                        | 105.5 |
-| Wtd. Average Maturity (Years):                    | 3.58  |
-| Total Expense Ratio(YTD)\*\*                      | 1.05% |
-| Total Expense Ratio(Month)\*\*                    | 1.09% |
-
-Fund Performance
-
-| Performance              | BM     | AGSOF  |
-| ------------------------ | ------ | ------ |
-| Since Inception Return\* | 13.52% | 17.96% |
-| YTD                      | 13.52% | 17.96% |
-| Month (Jan 2025) - New   | 11.84% | 12.10% |
-| Month (Jan 2025) - Old   | 11.66% |        |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Govt Backed                           | 91.77%     |
-| AAA                                   | 1.11%      |
-| AA+                                   | 0.00%      |
-| AA                                    | 0.00%      |
-| AA-                                   | 0.00%      |
-| A+                                    | 0.00%      |
-| A                                     | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| NR/UR                                 | 7.11%      |
-
-Monthly Returns
-
-| Month  | AGSP-1 | BM     |
-| ------ | ------ | ------ |
-| Jan-24 |        |        |
-| Feb-24 |        |        |
-| Mar-24 |        |        |
-| Apr-24 |        |        |
-| May-24 |        |        |
-| Jun-24 |        |        |
-| Jul-24 |        |        |
-| Aug-24 |        |        |
-| Sep-24 |        |        |
-| Oct-24 |        |        |
-| Nov-24 |        |        |
-| Dec-24 | 14.38% | 14.06% |
-| Jan-25 | 17.80% | 13.10% |
-
-| Monthly Returns | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| AGSP-1          |        |        |        |        |        |        |        |        |        | 14.38% | 17.80% | 15.67% | 12.10% |
-| BM              |        |        |        |        |        |        |        |        |        | 14.06% | 13.10% | 12.00% | 11.84% |
-
-Asset Allocation (as % of Total Assets)
-
-| Asset Allocation               | January | February |
-|---------------------------------|---------|----------|
-| Cash                            | 33.11%  | 1.14%    |
-| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
-| TFCs/Sukuks                     | 0.00%   | 0.00%    |
-| PIBs                            | 62.92%  | 83.31%   |
-| T-Bills                         | 0.00%   | 8.46%    |
-| CPs                             | 0.00%   | 0.00%    |
-| Others                          | 3.97%   | 7.09%    |
-| **Total Assets**                | **100.00%** | **100.00%** |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
-
-\*\* This include 0.2000% representing government levy and SECP Fee.
-
-\*\*\* Management fee charged 0.49%
-
-Selling & marketing expenses - for the period ended Jan 31, 2025: PKR 0.945 Mn
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# ALFALAH GOVERNMENT SECURITIES FUND - Plan 2
-
-Fund Stability Rating: "Not rated yet"
-
-AMC Rating: "AM1" by VIS 02-Jan-25
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of the Scheme is to deliver optimal risk adjusted returns by investing mainly in mix of short to long term Government Securities and other debt Instruments.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                                |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Sovereign Income Scheme                                                                                                                                        |
-| Fund Type:               | Open Ended                                                                                                                                                     |
-| New Benchmark:           | 90% six (6) months PKRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Old Benchmark:           | Six (6) months PKRV Rates                                                                                                                                      |
-| Launch Date:             | November 12, 2024                                                                                                                                              |
-| Par Value:               | PKR 100                                                                                                                                                        |
-| Pricing:                 | Forward Day                                                                                                                                                    |
-| Sales Load:              | up to 3.00%                                                                                                                                                    |
-| Risk Profile:            | Medium                                                                                                                                                         |
-| Leverage:                | Nil                                                                                                                                                            |
-| Management Fee:          | upto 2% of the Average Daily net asset value                                                                                                                   |
-| Min. Initial Investment: | PKR 500/-                                                                                                                                                      |
-| Min. Subseq. Investment: | PKR 100/-                                                                                                                                                      |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                           |
-| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                                              |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                        |
-| Dealing Days:            | Monday - Friday                                                                                                                                                |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                              |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Statistic                                         | Value    |
-| ------------------------------------------------- | -------- |
-| Fund Size (PKR mn; as on Jan 31, 2025):           | 1,204.71 |
-| Fund Size including fund of fund schemes (PKR mn) | 1,204.71 |
-| NAV (PKR):                                        | 100.02   |
-| Wtd. Average Maturity (Years):                    | 0.76     |
-| Total Expense Ratio(YTD)\*\*                      | 0.84%    |
-| Total Expense Ratio(Month)\*\*                    | 0.79%    |
-
-Fund Performance
-
-| Performance              | BM     | AGSOF  |
-| ------------------------ | ------ | ------ |
-| Since Inception Return\* | 12.73% | 14.74% |
-| YTD                      | 12.73% | 14.74% |
-| Month (Jan 2025) - New   | 11.84% | 9.66%  |
-| Month (Jan 2025) - Old   | 11.66% |        |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Govt Backed                           | 26.39%     |
-| AAA                                   | 54.29%     |
-| AA+                                   | 0.00%      |
-| AA                                    | 0.00%      |
-| AA-                                   | 0.00%      |
-| A+                                    | 0.00%      |
-| A                                     | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| NR/UR                                 | 19.31%     |
-
-Monthly Returns
-
-| Month  | AGSP-2 | BM     |
-| ------ | ------ | ------ |
-| Jan-24 |        |        |
-| Feb-24 |        |        |
-| Mar-24 |        |        |
-| Apr-24 |        |        |
-| May-24 |        |        |
-| Jun-24 |        |        |
-| Jul-24 |        |        |
-| Aug-24 |        |        |
-| Sep-24 |        |        |
-| Oct-24 |        |        |
-| Nov-24 | 15.53% | 13.10% |
-| Dec-24 | 18.99% | 11.90% |
-| Jan-25 | 9.66%  | 11.84% |
-
-Asset Allocation (as % of Total Assets)
-
-| Asset Allocation               | January | February |
-|---------------------------------|---------|----------|
-| Cash                            | 10.35%  | 54.29%   |
-| Plac. with Banks/DFIs          | 0.00%   | 0.00%    |
-| Govt. Backed/ Gov. Guar.       | 0.00%   | 0.00%    |
-| TFCs/Sukuks                     | 0.00%   | 0.00%    |
-| PIBs                            | 83.32%  | 15.55%   |
-| T-Bills                         | 0.00%   | 10.84%   |
-| CPs                             | 0.00%   | 0.00%    |
-| Others                          | 6.33%   | 19.31%   |
-| **Total Assets**                | **100.00%** | **100.00%** |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
-
-\*\* This include 0.1700% representing government levy and SECP Fee.
-
-\*\*\* Management fee charged 0.35%
-
-Selling & marketing expenses - for the period ended Jan 31, 2025: PKR 1.232 Mn
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Alfalah MTS Fund
-
-Fund Stability Rating: "AA(f)" by PACRA 22-Oct-24
-
-AMC Rating: "AM1" by VIS 29-Dec-23
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of Alfalah MTS Fund (AMTSF) is to provide competitive returns primarily through investment to MTS market.
-
-Basic Information
-
-| Basic Information        |                                                                                                                                                          |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Category:                | Income Scheme                                                                                                                                            |
-| Fund Type:               | Open Ended                                                                                                                                               |
-| Benchmark:               | 75% six (6) months KIBOR +25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Launch Date:             | April 08, 2016                                                                                                                                           |
-| Par Value:               | PKR 100                                                                                                                                                  |
-| Pricing:                 | Forward Day                                                                                                                                              |
-| Sales Load:              | up to 2.00%                                                                                                                                              |
-| Risk Profile:            | Low                                                                                                                                                      |
-| Management Fee\*\*\*:    | Upto 1.00% of average net assets of the Scheme.                                                                                                          |
-| Min. Initial Investment: | PKR 5,000/-                                                                                                                                              |
-| Trustee:                 | CDC Pakistan Limited                                                                                                                                     |
-| Auditor:                 | A. F. Ferguson & Co.                                                                                                                                     |
-| Listing:                 | Pakistan Stock Exchange                                                                                                                                  |
-| Dealing Days:            | Monday - Friday                                                                                                                                          |
-| Cut-off Time:            | 9:00 am - 4:00 pm                                                                                                                                        |
-| Leverage:                | Nil                                                                                                                                                      |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025):            | 108.7 |
-| -------------------------------------------------- | ----- |
-| Fund size including fund of fund schemes (PkR mn): | 108.7 |
-| NAV (PkR):                                         | 111.4 |
-| Total Expense Ratio(YTD)\*\*:                      | 0.88% |
-| Total Expense Ratio(Month):                        | 1.85% |
-
-Fund Performance
-
-|                           | BM     | AMTSF  |
-| ------------------------- | ------ | ------ |
-| Since Inception Return \* | 11.33% | 11.22% |
-| YTD                       | 15.12% | 13.05% |
-| Month - New (Jan'25):     | 12.24% | 10.96% |
-| Month - Old (Jan'25):     | 11.86% |        |
-
-Credit Quality (as % of Total Assets)
-
-| Credit Quality (as % of Total Assets) | Percentage |
-| ------------------------------------- | ---------- |
-| Govt. Securities (Rated AAA)          | 0.00%      |
-| AAA                                   | 1.04%      |
-| AA+                                   | 0.02%      |
-| AA                                    | 2.82%      |
-| AA-                                   | 86.74%     |
-| A+                                    | 0.00%      |
-| A                                     | 0.00%      |
-| A1+                                   | 0.00%      |
-| A1                                    | 0.00%      |
-| A-                                    | 0.00%      |
-| BBB+                                  | 0.00%      |
-| BBB                                   | 0.00%      |
-| IG                                    | 0.00%      |
-| R                                     | 9.39%      |
-
-Monthly Returns
-
-| Monthly Returns | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jun-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| AMTSF           |        |        |        |        |        |        |        |        |        |        |        |        | 10.96% |
-| BM              |        |        |        |        |        |        |        |        |        |        |        |        |        |
-
-Dispute Resolution/Complaint Handling
-
-“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-\*\* This includes 0.180% representing government levy and SECP Fee
-
-\*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 13th supplemental OD with consent of the SECP
-
-\*\*\*\*Actual Management fee charged: 1.07% of net assets
-
-Selling & marketing expense - for the period ended January, 2025, PKR Mn 0.000
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Alfalah GHP Prosperity Planning Fund - Active Allocation Plan
-
-(Holdings as % of Total Assets)
-
-| Holdings     | December | January |
-| ------------ | -------- | ------- |
-| Cash         | 0.07%    | 0.09%   |
-| Equity       | 96.51%   | 96.86%  |
-| Income       | 2.33%    | 2.40%   |
-| Money Market | 0.00%    | 0.00%   |
-| Others       | 1.08%    | 0.65%   |
-| Total        | 100.00%  | 100.00% |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025): | 108.21   |
-| --------------------------------------- | -------- |
-| NAV (PkR):                              | 138.2186 |
-| Total Expense Ratio(YTD)\*\*            | 0.19%    |
-| Total Expense Ratio(Month)              | 0.30%    |
-
-Fund Performance
-
-|                              | BM     | AGAAP  |
-| ---------------------------- | ------ | ------ |
-| Since Inception Return**\*** | 15.32% | 13.33% |
-| YTD                          | 40.83% | 48.32% |
-| Month                        | -0.70% | -1.25% |
-
-Alfalah GHP Prosperity Planning Fund - Moderate Allocation Plan
-
-(Holdings as % of Total Assets)
-
-| Holdings     | December | January |
-| ------------ | -------- | ------- |
-| Cash         | 0.54%    | 0.63%   |
-| Equity       | 39.49%   | 39.08%  |
-| Income       | 55.88%   | 56.69%  |
-| Money Market | 0.48%    | 0.00%   |
-| Others       | 3.59%    | 3.61%   |
-| Total        | 100.00%  | 100.00% |
-
-Fund Statistica
-
-| Fund Size (PkR mn; as on Jan 31, 2025): | 45.33    |
-| --------------------------------------- | -------- |
-| NAV (PkR):                              | 126.7395 |
-| Total Expense Ratio(YTD)\*\*\*          | 0.24%    |
-| Total Expense Ratio(Month)              | 0.48%    |
-
-Fund Performance
-
-|                              | BM     | AGMAP  |
-| ---------------------------- | ------ | ------ |
-| Since Inception Return**\*** | 13.91% | 11.99% |
-| YTD                          | 24.62% | 28.26% |
-| Month                        | 0.35%  | 0.10%  |
-
-Alfalah GHP Prosperity Planning Fund - Conservative Allocation Plan
-
-(Holdings as % of Total Assets)
-
-| Holdings     | December | January |
-| ------------ | -------- | ------- |
-| Cash         | 0.11%    | 0.13%   |
-| Equity       | 19.69%   | 19.32%  |
-| Income       | 32.10%   | 32.28%  |
-| Money Market | 47.41%   | 47.56%  |
-| Others       | 0.69%    | 0.70%   |
-| Total        | 100.00%  | 100.00% |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025): | 317.35  |
-| --------------------------------------- | ------- |
-| NAV (PkR):                              | 128.315 |
-| Total Expense Ratio(YTD)\*\*\*\*        | 0.21%   |
-| Total Expense Ratio(Month)              | 0.41%   |
-
-Fund Performance
-
-|                              | BM     | AGCAP  |
-| ---------------------------- | ------ | ------ |
-| Since Inception Return**\*** | 12.91% | 11.59% |
-| YTD                          | 15.80% | 18.36% |
-| Month                        | 0.64%  | 0.55%  |
-
-Alfalah GHP Prosperity Planning Fund - Capital Preservation Plan 4
-
-(Holdings as % of Total Assets)
-
-| Holdings         | December | January |
-| ---------------- | -------- | ------- |
-| Cash             | 0.28%    | 0.28%   |
-| Equity           | 28.73%   | 9.19%   |
-| Sovereign/Income | 70.94%   | 80.94%  |
-| Money Market     | 0.02%    | 9.55%   |
-| Others           | 0.03%    | 0.04%   |
-| Total            | 100.00%  | 100.00% |
-
-Fund Statistics
-
-| Fund Size (PkR mn; as on Jan 31, 2025): | 526.04   |
-| --------------------------------------- | -------- |
-| NAV (PkR):                              | 125.3839 |
-| Total Expense Ratio(YTD)\*\*\*\*        | 0.20%    |
-| Total Expense Ratio(Month)              | 0.19%    |
-
-Fund Performance
-
-|                              | BM     | AGCAP  |
-| ---------------------------- | ------ | ------ |
-| Since Inception Return**\*** | 24.82% | 28.76% |
-| YTD                          | 21.46% | 25.31% |
-| Month                        | 4.81%  | 0.43%  |
-
-
-Alfalah GHP Prosperity Planning Fund (CPF 4) - Asset Allocation (as % of Total Assets)
-
-| Asset Allocation          | January | February |
-|---------------------------|---------|----------|
-| Equity Funds             | 9.2%    | 27.1%    |
-| Money Market Funds       | 9.5%    | 9.6%     |
-| Sovereign / Income Funds | 80.9%   | 63.1%    |
-| Others                   | 0.0%    | 0.0%     |
-| Cash                     | 0.3%    | 0.2%     |
-| Leverage                 | 0.0%    | 0.0%     |
-| **Total**                | **100.0%** | **100.0%** |
-
-Details of Non-Compliant Investments
-
-| Plan Name | Allocation | Type           | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
-| --------- | ---------- | -------------- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-| MAP       | 45,330,000 | Min. Fund Size | 45,330,000                | 0                         | 45,330,000               |                |              |
-
-# Alfalah GHP Active Allocation Plan (Monthly Returns)
-
-| Month  | AGAAP  | BM     |
-| ------ | ------ | ------ |
-| Jan-24 | 0.24%  | -0.18% |
-| Feb-24 | 3.86%  | 3.54%  |
-| Mar-24 | 2.10%  | 1.69%  |
-| Apr-24 | 5.96%  | 7.05%  |
-| May-24 | 4.79%  | 5.84%  |
-| Jun-24 | 3.46%  | 3.17%  |
-| Jul-24 | 0.81%  | 0.95%  |
-| Aug-24 | 1.37%  | 0.63%  |
-| Sep-24 | 5.09%  | 1.72%  |
-| Oct-24 | 10.64% | 8.90%  |
-| Nov-24 | 13.53% | 12.30% |
-| Dec-24 | 11.35% | 12.24% |
-| Jan-25 | -1.25% | -0.70% |
-
-# Alfalah GHP Moderate Allocation Plan (Monthly Returns)
-
-| Month  | AGMAP | BM    |
-| ------ | ----- | ----- |
-| Jan-24 | 1.05% | 0.98% |
-| Feb-24 | 2.39% | 2.65% |
-| Mar-24 | 1.57% | 1.76% |
-| Apr-24 | 3.06% | 3.65% |
-| May-24 | 2.79% | 3.22% |
-| Jun-24 | 2.71% | 2.23% |
-| Jul-24 | 1.63% | 1.47% |
-| Aug-24 | 1.56% | 1.18% |
-| Sep-24 | 3.83% | 1.52% |
-| Oct-24 | 4.92% | 3.98% |
-| Nov-24 | 7.35% | 7.16% |
-| Dec-24 | 6.15% | 6.94% |
-| Jan-25 | 0.10% | 0.35% |
-
-# Alfalah GHP Conservative Allocation Plan (Monthly Returns)
-
-| Month  | AGCAP | BM     |
-| ------ | ----- | ------ |
-| Jan-24 | 1.31% | 1.49%  |
-| Feb-24 | 1.83% | 2.12%  |
-| Mar-24 | 1.58% | 2.01%  |
-| Apr-24 | 2.44% | 2.55%  |
-| May-24 | 2.36% | 2.56%  |
-| Jun-24 | 6.02% | 1.95%  |
-| Jul-24 | 1.46% | 5.64%  |
-| Aug-24 | 1.48% | -2.76% |
-| Sep-24 | 2.78% | 1.46%  |
-| Oct-24 | 3.33% | 2.91%  |
-| Nov-24 | 4.04% | 3.74%  |
-| Dec-24 | 3.47% | 3.41%  |
-| Jan-25 | 0.55% | 0.64%  |
-
-# Alfalah GHP Capital Preservation Plan 4 (Monthly Returns)
-
-| Month  | AGCPP-4 | BM    |
-| ------ | ------- | ----- |
-| Jan-24 |         |       |
-| Feb-24 |         |       |
-| Mar-24 |         |       |
-| Apr-24 |         |       |
-| May-24 |         |       |
-| Jun-24 |         |       |
-| Jul-24 |         |       |
-| Aug-24 |         |       |
-| Sep-24 |         |       |
-| Oct-24 |         |       |
-| Nov-24 | 5.41%   | 5.03% |
-| Dec-24 | 4.70%   | 0.76% |
-| Jan-25 | 0.43    | 4.81  |
-
-Dispute Resolution/Complaint Handling
-
-Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. Past performance is not necessarily indicative of future results. All returns are calculated assuming reinvested dividends. Please read the Offering Document to understand the investment policies and risks involved. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah GHP Investment Management Limited or any investment scheme managed by it.
-
-- Not Applicable, if invested in funds managed by AGIML
-
-\*\*AGAAP: This include 0.0900% representing government levy and SECP Fee
-
-\*\*\*AGMAP: This include 0.0900% representing government levy and SECP Fee
-
-\*\*\*\*AGCAP: This include 0.0900% representing government levy and SECP Fee
-
-**\*** Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-**\*\*** Management fee of the fund has been amended from Oct 11, 2024 through 5th supplemental OD with consent of the SECP
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 2025
-
-# Alfalah GHP Pension Fund - Equity Sub Fund|Debt Sub Fund|Market Sub Fund - Monthly Return
-
-| Month  | AGPESF | AGPDSF | AGPMMSF |
-| ------ | ------ | ------ | ------- |
-| Dec-23 |        |        |         |
-| Jan-24 |        |        |         |
-| Feb-24 |        |        |         |
-| Mar-24 |        |        |         |
-| Apr-24 |        |        |         |
-| May-24 |        |        |         |
-| Jun-24 |        |        |         |
-| Jul-24 |        |        |         |
-| Aug-24 |        |        |         |
-| Sep-24 |        |        |         |
-| Oct-24 |        |        |         |
-| Nov-24 |        |        |         |
-| Dec-24 |        |        |         |
-| Jan-25 | -4.18% | 10.65% | 9.98%   |
-
-Dispute Resolution/Complaint Handling
-
-Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in Voluntary Pension Schemes are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the financial markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah GHP Investment Management Limited or any investment scheme managed by it.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-\*\*AGPF Mgt Fee has been revised from Aug 24, 2022 through 2nd supplemental OD
-
-\*\*\*AGESF: This includes 0.1500% representing government levy and SECP Fee
-
-\*\*\*\*AGDSF: This includes 0.1600% representing government levy and SECP Fee
-
-**\***AGMMSF: This includes 0.1500% representing government levy and SECP Fee
-
-Selling & marketing expense - for the period ended January,2025, PKR Mn 0.000
-
-# Alfalah KPK Employee Pension Fund - Money Market Sub Fund
-
-Fund Statistic
-
-| Fund Size (PKR Mn.)       | 39.2983 |
-| ------------------------- | ------- | --- |
-| NAV                       | 121.214 |
-| Year To Date Return       | 15.34%  |
-| Since Inception Return\*  | 18.70%  |
-| Expense ratio (month)     | 0.54%   |
-| Expense ratio (YTD)\*\*\* | 0.65%   | \   |
-
-Monthly Return
-
-|          | Dec-23 | Jan-24 | Feb-24 | Mar-24 | Apr-24 | May-24 | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 |
-| -------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| AKPKMMSF | 20.89% | 19.54% | 19.95% | 19.09% | 18.82% | 20.35% | 18.14% | 16.92% | 16.70% | 15.60% | 12.86% | 12.88% | 10.36% |
-
-Dispute Resolution/Complaint Handling
-
-Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
-
-Asset Allocation (as % of Total Assets)
-
-| Asset Allocation         | January | February |
-|--------------------------|---------|----------|
-| Cash                     | 23.77%  | 24.10%   |
-| Plac. with Banks/DFIs    |         |          |
-| Plac. with NBFCs         |         |          |
-| TFCs/Sukuks              |         |          |
-| PIBs                     |         |          |
-| T-Bills                  | 71.49%  | 71.56%   |
-| CPs/ST Sukuks            |         |          |
-| MTS                      |         |          |
-| Spread Trans.            |         |          |
-| Others                   | 4.75%   | 4.34%    |
-| **Total Assets**         | **100.00%** | **100.00%** |
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in Voluntary Pension Schemes are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the financial markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah GHP Investment Management Limited or any investment scheme managed by it.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-**\***AKPKMMSF: This includes 0.0800% representing government levy and SECP Fee
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 2025
-
-# Alfalah GHP Pension Fund
-
-Fund: Not Yet Rated
-
-AMC Rating: "AM1" by VIS 02-Jan-25
-
-AMC Rating: "AM1" by PACRA 30-August-24
-
-Investment Objective
-
-The objective of introducing Alfalah GHP Pension Fund is to provide individuals with a portable, individualized, funded (based on defined contribution) and flexible pension scheme which is managed by professional investment manager to assist them to plan and provide for their retirement. The design of the scheme empowers the participants to decide how much to invest in their pensions and how to invest it, as well as to continue investing in their pension accounts even if they change jobs.
-
-Basic Information
-
-| Basic Information        |                                   |
-| ------------------------ | --------------------------------- |
-| Category:                | Voluntary Pension Fund Scheme     |
-| Fund Type:               | Open Ended                        |
-| Launch Date:             | November 08, 2016                 |
-| Min. Initial Investment: | PKR 500/-                         |
-| Min. Subseq. Investment: | PKR 100/-                         |
-| Trustee:                 | CDC Pakistan Limited              |
-| Auditor:                 | Yousuf Adil Chartered Accountants |
-| Cut-off Time:            | 9:00 am - 4:00 pm                 |
-| Dealing Days:            | Monday - Friday                   |
-| Par Value:               | 10                                |
-| Pricing Mechanism:       | Forward                           |
-| Frontend load:           | 3.00%                             |
-| Backend load:            | Nil                               |
-| Management Fee:          | Upto 1.25%\*\*                    |
-
-Investment Committee
-
-| Khaldoon Bin Latif           | Chief Executive Officer         |
-| ---------------------------- | ------------------------------- |
-| Ayub Khuhro                  | Chief Investment Officer        |
-| Faisal Ali Khan              | Chief Financial Officer         |
-| Shariq Mukhtar Hashmi        | Chief Compliance Officer        |
-| Imad Ansari                  | Chief Risk Officer              |
-| Muddasir Ahmed Shaikh        | Head of Equities                |
-| Mustafa Kamal                | Head of Fixed Income            |
-| Shams-ud-din Shah, CFA, FCCA | Head of Research                |
-| Salman Jawaid                | Fund Manager Fixed Income Funds |
-| Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-Alfalah GHP Equity Sub Fund
-
-Top Ten Holdings (as a % of total assets)
-
-| Fauji Fertilizer Company Limited      | 7.27% |
-| ------------------------------------- | ----- |
-| United Bank Limited                   | 5.93% |
-| Oil & Gas Development Company Limited | 4.58% |
-| Pakistan Petroleum Limited            | 3.87% |
-| Bank AL Habib Limited                 | 3.44% |
-| Lucky Cement Limited                  | 3.34% |
-| Maple Leaf Cement Factory Limited     | 3.33% |
-| Fauji Cement Company Limited          | 3.04% |
-| Sazgar Engineering Works Limited      | 2.80% |
-| Cherat Cement Company Limited         | 2.71% |
-
-Sector Allocation (as a % of total assets)
-
-| Commercial Banks                | 22.48% |
-| ------------------------------- | ------ |
-| Cement                          | 17.98% |
-| Oil & Gas Exploration Companies | 11.27% |
-| Fertilizer                      | 9.72%  |
-| Pharmaceuticals                 | 7.01%  |
-| Others                          | 29.41% |
-
-Fund Statistics
-
-| Fund Size (PKR Mn.)       | 161.28 |
-| ------------------------- | ------ |
-| NAV                       | 231.44 |
-| Year To Date Return       | 49.98% |
-| Since Inception Return\*  | 10.94% |
-| Expense ratio (month)     | 4.28%  |
-| Expense ratio (YTD)\*\*\* | 4.58%  |
-
-Alfalah GHP Debt Sub Fund
-
-Fund Statistics
-
-| Statistic                   | Value   |
-| --------------------------- | ------- |
-| Fund Size (PKR Mn.)         | 115.556 |
-| NAV                         | 216.45  |
-| Year To Date Return         | 19.56%  |
-| Since Inception Return\*    | 10.02%  |
-| Expense ratio (month)       | 1.76%   |
-| Expense ratio (YTD)\*\*\*\* | 1.40%   |
-
-Alfalah GHP Money Market Sub Fund
-
-Fund Statistics
-
-| Statistic                   | Value  |
-| --------------------------- | ------ |
-| Fund Size (PKR Mn.)         | 288.38 |
-| NAV                         | 224.16 |
-| Year To Date Return         | 16.21% |
-| Since Inception Return\*    | 10.50% |
-| Expense ratio (month)       | 1.20%  |
-| Expense ratio (YTD)**\*\*** | 1.05%  |
-
-# Alfalah GHP Pension Fund - Equity Sub Fund | Debt Sub Fund | Market Sub Fund - Monthly Return |
-
-| Month  | AGPESF | AGPDSF | AGPMMSF |
-| ------ | ------ | ------ | ------- |
-| Dec-23 | 3.87%  | 19.24% | 19.71%  |
-| Jan-24 | -0.33% | 20.30% | 19.53%  |
-| Feb-24 | 5.48%  | 13.72% | 18.34%  |
-| Mar-24 | 2.53%  | 13.36% | 18.27%  |
-| Apr-24 | 7.54%  | 17.72% | 19.96%  |
-| May-24 | 5.57%  | 17.27% | 19.75%  |
-| Jun-24 | 0.24%  | 19.81% | 19.36%  |
-| Jul-24 | 1.82%  | 18.33% | 18.00%  |
-| Aug-24 | 3.77%  | 35.14% | 19.80%  |
-| Sep-24 | 11.70% | 14.66% | 16.72%  |
-| Oct-24 | 14.74% | 22.53% | 13.67%  |
-| Nov-24 | 12.82% | 8.86%  | 12.20%  |
-| Dec-24 | -2.06% | 12.07% | 9.43%   |
-
-Dispute Resolution/Complaint Handling
-
-Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
-
-Disclaimer
-
-This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in Voluntary Pension Schemes are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the financial markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/ obligations of Alfalah GHP Investment Management Limited or any investment scheme managed by it.
-
-- Since Inception return is calculated on Compounded Annual Growth Rate (CAGR)
-
-\*\*AGPF Mgt Fee has been revised from Aug 24, 2022 through 2nd supplemental OD
-
-\*\*\*AGESF: This includes 0.5700% representing government levy and SECP Fee
-
-\*\*\*\*AGDSF: This includes 0.1600% representing government levy and SECP Fee
-
-**\***AGMMSF: This includes 0.1500% representing government levy and SECP Fee
-
-Selling & marketing expense - for the period ended January,2025, PKR Mn 0.000
-
-# Investment Plans Summary Report of Alfalah Stable Return Fund Plan for Month Year
-
-CIS General Information
-
-CIS Name: Alfalah Stable Return Fund Plan
-
-Date of Launch/IOP:
-
-Total Number of Investment Plans: 16 (Active & Matured) (6 Active, 10 Matured)
-
-Cumulative Net Assets (CIS): 21,801,508,389
-
-Risk Profile (CIS):
-
-CIS Level Expense Breakdown
-
-| Audit Fee                   | 362,863    |
-| --------------------------- | ---------- |
-| Shariah Advisory Fee        | -          |
-| Rating Fee                  | -          |
-| Formation Cost Amortization | -          |
-| Other Expenses              | 12,894,846 |
-
-Investment Plans Overview
-
-| Investment Plan Name         | Date of Launch | Maturity Date | Risk Profile | Net Assets    | Status (Active/Matured) |
-| ---------------------------- | -------------- | ------------- | ------------ | ------------- | ----------------------- |
-| Stable Return Fund Plan-I    | 31-Aug-22      | 25-Aug-23     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-II   | 07-Dec-22      | 07-Dec-23     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-III  | 08-Mar-23      | 20-June-23    | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-IV   | 7-Feb-24       | 30-Oct-2026   | Low          | 3,130,586,139 | Active                  |
-| Stable Return Fund Plan-V    | 12-Apr-23      | 5-July-23     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-VI   | 25-Oct-23      | 26-July-24    | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-VII  | 19-July-23     | 20-Oct-23     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-VIII | 21-Nov-23      | 19-Nov-24     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-IX   | 24-Apr-24      | 07-Oct-24     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-X    | 04-Apr-24      | 15-Nov-24     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-XI   | 22-Mar-24      | 21-Mar-2025   | Low          | 1,446,885,846 | Active                  |
-| Stable Return Fund Plan-XII  | 14-Oct-24      | 05-Sep-2025   | Low          | 5,254,208,871 | Active                  |
-| Stable Return Fund Plan-XIII | 21-Oct-24      | 11-Jul-2025   | Low          | 4,191,909,817 | Active                  |
-| Stable Return Fund Plan-XIV  | 28-Oct-24      | 09-Jan-25     | Low          | NA            | Matured                 |
-| Stable Return Fund Plan-XV   | 19-Nov-24      | 14-Nov-2025   | Low          | 1,674,474,066 | Active                  |
-| Stable Return Fund Plan-XVI  | 13-Dec-24      | 13-Jun-2025   | Low          | 6,103,443,651 | Active                  |
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Investment Plans Summary Report of Alfalah Government Securities Fund for January 2025
-
-CIS General Information
-
-CIS Name: Alfalah Government Securities Fund
-
-Date of Launch/IOP:
-
-Total Number of Investment Plans (Active & Matured): 2
-
-Cumulative Net Assets (CIS): 6,544,108,752
-
-Risk Profile (CIS): Low
-
-CIS Level Expense Breakdown
-
-| Expense Type                | Amount     |
-| --------------------------- | ---------- |
-| Audit Fee                   | 132,618    |
-| Shariah Advisory Fee        | -          |
-| Rating Fee                  | -          |
-| Formation Cost Amortization | 23,913     |
-| Other Expenses              | 11,039,581 |
-
-Investment Plans Overview
-
-| Investment Plan Name                 | Date of Launch | Maturity Date | Risk Profile | Net Assets    | Status (Active/Matured) |
-| ------------------------------------ | -------------- | ------------- | ------------ | ------------- | ----------------------- |
-| Alfalah Government Securities Plan-I | 10-Sep-24      | Perpetual     | Medium       | 5,339,397,085 | Active                  |
-| Alfalah Government Securities Plan-2 | 12-Nov-24      | 12-Nov-27     | Medium       | 1,204,711,667 | Active                  |
-
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
-
-Fund Managers' Report January 31, 2025
-
-# Investment Plans Summary Report of Alfalah Prosperity Planning Fund for January 2025
-
-CIS General Information
-
-CIS Name: Alfalah Prosperity Planning Fund
-
-Date of Launch/IOP:
-
-Total Number of Investment Plans (Active & Matured): 4
-
-Cumulative Net Assets (CIS): 996,935,008
-
-Risk Profile (CIS): Low
-
-CIS Level Expense Breakdown
-
-| Audit Fee                   | 111,132 |
-| --------------------------- | ------- |
-| Shariah Advisory Fee        | -       |
-| Rating Fee                  | 4,417   |
-| Formation Cost Amortization | -       |
-| Other Expenses              | 142,470 |
-
-Investment Plans Overview
-
-| Investment Plan Name                                          | Date of Launch | Maturity Date | Risk Profile | Net Assets     | Status |
-| ------------------------------------------------------------- | -------------- | ------------- | ------------ | -------------- | ------ |
-| Alfalah Prosperity Planning Fund-Moderate Allocation Plan     | 11-Sept-2015   | Perpetual     | Medium       | 92,794,706.00  | Active |
-| Alfalah Prosperity Planning Fund-Active Allocation Plan-II    | 11-Sept-2015   | Perpetual     | High         | 238,314,344.01 | Active |
-| Alfalah Prosperity Planning Fund-Conservative Allocation Plan | 11-Sept-2015   | Perpetual     | Medium       | 194,869,990.12 | Active |
-| Alfalah Prosperity Planning Fund-Capital Preservation Plan    | 16-May-2024    | 16-May-2026   | High         | 526,039,882.83 | Active |
-
-# Investment Plans Summary Report of Alfalah Pension Fund for January 2025
-
-CIS General Information
-
-CIS Name: Alfalah Pension Fund
-
-Date of Launch/IOP:
-
-Total Number of Investment Plans (Active & Matured): 3
-
-Cumulative Net Assets (CIS): 565,217,708
-
-Risk Profile (CIS): Low
-
-CIS Level Expense Breakdown
-
-| Audit Fee                   | 33,247    |
-| --------------------------- | --------- |
-| Shariah Advisory Fee        | -         |
-| Rating Fee                  | -         |
-| Formation Cost Amortization | -         |
-| Other Expenses              | 1,022,903 |
-
-Investment Plans Overview
-
-| Investment Plan Name   | Date of Launch | Maturity Date | Risk Profile | Net Assets  | Status |
-| ---------------------- | -------------- | ------------- | ------------ | ----------- | ------ |
-| Pension- Equity        | 8-Nov-2016     | Perpetual     | High         | 161,284,231 | Active |
-| Pension - Debt         | 8-Nov-2016     | Perpetual     | Mediu        | 115,556,203 | Active |
-| Pension - Money Market | 8-Nov-2016     | Perpetual     | Low          | 288,377,274 | Active |
 
 # Performance Summary for Faysal (as of 31-Jan-25)
 
@@ -7949,3 +5353,15 @@ Since Inception
 | Faysal Pension Fund-Money Market Sub Fund | 15.45%                 | 14.95%                 | 11.93%                 | 7.31%                  | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      |
 | Faysal Pension Fund-Equity Sub Fund       | 152.55%                | 73.08%                 | -10.35%                | -8.14%                 | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      |
 | Faysal Pension Fund-Debt Sub Fund         | 14.76%                 | 14.10%                 | 10.99%                 | 4.84%                  | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      | -                      |
+
+**Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)**
+
+## **Fund Managers' Report February 2025**
+
+# Alfalah Investments
+
+Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Limited)
+Islamic Chamber Of Commerce Industry & Agriculture Building, 2nd Floor ST-2/A Block 9, KDA Scheme 5, Clifton, Karachi
+UAN: +92 (21) 111 090 090
+Fax: +92 (21) 35306752
+www.alfalahamc.com

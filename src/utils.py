@@ -19,6 +19,21 @@ from src.config import MONTH_FULL_NAMES, MONTH_PATTERN, YEAR_PATTERN
 
 csv_file_path = "src/query_response_cache.csv"
 
+month_to_number = {
+    "January": 1,
+    "February": 2,
+    "March": 3,
+    "April": 4,
+    "May": 5,
+    "June": 6,
+    "July": 7,
+    "August": 8,
+    "September": 9,
+    "October": 10,
+    "November": 11,
+    "December": 12,
+}
+
 
 def creat_node_data_from_input_dir(inpur_dir):
 
@@ -140,15 +155,47 @@ def create_filters(month, year):
     # Return filters if any are found, otherwise None
     if filters_list:
         return MetadataFilters(filters=filters_list, condition=FilterCondition.AND)
-    return None
+    return MetadataFilters(
+        filters=[
+            # MetadataFilter(key="year", operator=FilterOperator.NIN, value=list(range(2014, 2024))),
+            MetadataFilter(
+                key="year", operator=FilterOperator.IS_EMPTY, value=None
+            )  # Avoid including `value`
+        ],
+        condition=FilterCondition.OR,
+    )
 
 
 # Main function to handle the overall process
 def make_filter(sub_query):
-    # Extract month and year from the query
-    month = extract_month(sub_query)
-    year = extract_year(sub_query)
-    # Create and return filters based on extracted month and year
+    lowered_query = sub_query.lower()
+    if (
+        "compliance" in lowered_query
+        or "compliance report" in lowered_query
+        or "fund compliance report" in lowered_query
+    ):
+        return MetadataFilters(
+            filters=[
+                MetadataFilter(
+                    key="filename",
+                    operator=FilterOperator.EQ,
+                    value="Alfalah_assist_all_tabulor_md_data.md",
+                )
+            ],
+            condition=FilterCondition.OR,
+        )
+    else:
+        month = extract_month(sub_query)
+        year = extract_year(sub_query)
+
+        # if month and (year is None or int(year) == current_year):
+        #     if month_to_number[month] >= month_to_number[current_month]:
+        #         year = str(current_year - 1)
+        #     else:
+        #         year = str(current_year)
+        # elif year and (month is None) and int(year) != current_year:
+        #     month = "December"
+
     return create_filters(month, year)
 
 

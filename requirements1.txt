@@ -15,7 +15,7 @@ cachetools==5.5.0
 certifi==2024.8.30
 charset-normalizer==3.3.2
 chroma-hnswlib==0.7.6
-# chromadb==0.5.5
+chromadb==0.6.3
 click==8.1.7
 coloredlogs==15.0.1
 comm==0.2.2
@@ -37,7 +37,7 @@ fsspec==2024.6.1
 google-auth==2.34.0
 googleapis-common-protos==1.65.0
 greenlet==3.1.0
-grpcio==1.66.1
+# grpcio==1.66.1
 guidance==0.1.16
 h11==0.14.0
 httpcore==1.0.5
@@ -62,28 +62,29 @@ kubernetes==30.1.0
 langchain==0.3.0
 langchain-community==0.3.0
 langchain-core==0.3.0
-langchain-openai==0.2.0
 langchain-text-splitters==0.3.0
 langsmith==0.1.125
-llama-cloud==0.0.17
-llama-index==0.11.7
-llama-index-agent-openai==0.3.1
-llama-index-cli==0.3.0
-llama-index-core==0.11.7
-llama-index-embeddings-huggingface==0.3.1
-llama-index-embeddings-openai==0.2.4
-llama-index-indices-managed-llama-cloud==0.3.0
+llama-cloud==0.1.9
+llama-index==0.12.11
+llama-index-agent-openai==0.4.2
+llama-index-cli==0.4.0
+llama-index-core==0.12.11
+llama-index-embeddings-huggingface==0.5.0
+llama-index-embeddings-openai==0.3.1
+llama-index-indices-managed-llama-cloud==0.6.3
 llama-index-legacy==0.9.48.post3
-llama-index-llms-langchain==0.4.1
-llama-index-llms-openai==0.2.3
-llama-index-multi-modal-llms-openai==0.2.0
-llama-index-program-guidance==0.2.1
-llama-index-program-openai==0.2.0
-llama-index-question-gen-guidance==0.2.0
-llama-index-question-gen-openai==0.2.0
-llama-index-readers-file==0.2.1
-llama-index-readers-llama-parse==0.3.0
-llama-index-vector-stores-chroma==0.2.0
+llama-index-llms-langchain==0.5.0
+llama-index-llms-openai==0.3.13
+llama-index-multi-modal-llms-openai==0.4.2
+llama-index-program-guidance==0.3.0
+llama-index-program-openai==0.3.1
+llama-index-question-gen-guidance==0.3.0
+llama-index-question-gen-openai==0.3.0
+llama-index-readers-file==0.4.3
+llama-index-readers-llama-parse==0.4.0
+llama-index-vector-stores-chroma==0.4.1
+llama-index-vector-stores-qdrant==0.4.3
+langchain-openai
 llama-parse==0.5.2
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
@@ -103,7 +104,7 @@ nltk==3.9.1
 numpy==1.26.4
 oauthlib==3.2.2
 onnxruntime==1.19.2
-openai==1.44.0
+openai
 opentelemetry-api==1.27.0
 opentelemetry-exporter-otlp-proto-common==1.27.0
 opentelemetry-exporter-otlp-proto-grpc==1.27.0
@@ -125,7 +126,7 @@ pillow==10.4.0
 platformdirs==4.3.6
 posthog==3.6.6
 prompt_toolkit==3.0.47
-protobuf==4.25.4
+# protobuf==4.25.4
 psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -136,7 +137,7 @@ pydantic==2.9.0
 pydantic-settings==2.5.2
 pydantic_core==2.23.2
 Pygments==2.18.0
-pypdf==4.3.1
+pypdf
 PyPika==0.48.9
 pyproject_hooks==1.1.0
 python-dateutil==2.9.0.post0
@@ -198,4 +199,4 @@ django-filter
 django-cors-headers
 psycopg2-binary
 Pillow
-qdrant-client==1.11.0
+colorlog

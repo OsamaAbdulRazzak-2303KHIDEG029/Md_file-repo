@@ -124,7 +124,7 @@ class GenPipeline:
 
     def _get_qdrant_index(self):
         try:
-            client = QdrantClient(host="65.0.229.53", port=6333)
+            client = QdrantClient(host="98.70.40.88", port=6333)
 
             vector_store = QdrantVectorStore(
                 client=client, collection_name="alfalah_investment"
@@ -135,12 +135,12 @@ class GenPipeline:
             return index
 
         except Exception as e:
-            logging.error(f"Error during setup_chroma: {e}")
+            logging.error(f"Error during setup_Qdrant: {e}")
             raise Exception(e, sys)
 
     def _search_similar_vectors(self, query):
         try:
-            client = QdrantClient(host="65.0.229.53", port=6333)
+            client = QdrantClient(host="98.70.40.88", port=6333)
             vector_store = QdrantVectorStore(
                 # client=client, collection_name="qdrant_collection"
                 client=client,

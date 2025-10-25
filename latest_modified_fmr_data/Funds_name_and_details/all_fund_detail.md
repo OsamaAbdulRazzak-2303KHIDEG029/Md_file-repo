@@ -7,7 +7,7 @@
 | 3    | Alfalah Financial Value Fund               | Open Ended | Asset Allocation Scheme               | High         |
 | 4    | Alfalah Asset Allocation Fund              | Open Ended | Asset Allocation Scheme               | High         |
 | 5    | Alfalah GHP Stock Fund                     | Open Ended | Equity Scheme                         | High         |
-| 6    | Alfalah GHP Stock Fund - II                | Open Ended | quity Scheme                          | High         |
+| 6    | Alfalah GHP Stock Fund - II                | Open Ended | Equity Scheme                         | High         |
 | 7    | Alfalah GHP Sovereign Income Fund          | Open Ended | Income Scheme                         | Medium       |
 | 8    | Alfalah MTS Fund                           | Open Ended | Income Scheme                         | Low          |
 | 9    | Alfalah Saving Growth Fund                 | Open Ended | Income Scheme                         | Medium       |
@@ -83,21 +83,3 @@
 |      | c) Money Market Sub Fund                       | Open Ended | Shariah Compliant Voluntary Pension Fund Scheme | Low             |
 | 15   | Alfalah Islamic KPK Employee Pension Fund      | Open Ended | Shariah Compliant Voluntary Pension Fund Scheme | Low             |
 |      | a)Money Market Sub Fund                        | Open Ended | Shariah Compliant Voluntary Pension Fund Scheme | Low             |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

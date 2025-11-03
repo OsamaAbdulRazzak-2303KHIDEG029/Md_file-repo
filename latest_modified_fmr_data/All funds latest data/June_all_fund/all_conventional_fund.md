@@ -1628,7 +1628,7 @@ Investment Plans Overview
 | Alfalah Financial Sector Income Plan - I  | 02-Aug-23      | Perpetual     | Medium       | 12,181,013,892 | Active  |
 | Alfalah Financial Sector Income Plan - II | 15-Jul-24      | 10-Jun-25     | Medium       | NA             | Matured |
 
-# Alfalah Financial Sector Income Fund - Plan 1
+# Alfalah Financial Sector Income Fund-Plan 1
 
 Fund Stability Rating: "A+(f)" by PACRA 7-March-2025
 
@@ -2201,7 +2201,7 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 Fund Managers' Report June 30, 2025
 
-# Alfalah Income And Growth Fund
+# Alfalah Income & Growth Fund
 
 Fund Stability Rating: "A(f)" by PACRA 22-Oct-24
 

@@ -745,7 +745,7 @@ Investment Plans Overview
 | Alfalah Islamic Sovereign Plan-2 | 13-Dec-23      | 13-Dec-26     | Medium       | 2,993,383,937    | Active |
 | Alfalah Islamic Sovereign Plan-3 | 22-Aug-24      | 22-Aug-27     | Medium       | 2,751,723,568    | Active |
 
-# Alfalah Islamic Sovereign Plan-1
+# Alfalah Islamic Sovereign plan-1
 
 Fund Stability Rating: "AA+(f)" by PACRA 07-Mar-25
 
@@ -957,7 +957,7 @@ This publication is for informational purposes only and nothing herein should be
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   ** This includes 0.4000% representing government levy and SECP Fee. \*** Actual Management fee charged: 0.67% of net assets
 
-# Alfalah Islamic Sovereign Plan-3
+# Alfalah Islamic Sovereign plan-3
 
 Fund Stability Rating: "AA+(f)" by PACRA 07-Mar-25
 
@@ -1527,7 +1527,7 @@ This publication is for informational purposes only and nothing herein should be
   \*\*** AGIPDSF: This includes 0.1600% representing government levy and SECP Fee.
   **\*** AGIPMMSF: This includes 0.1700% representing government levy and SECP Fee.
 
-# Alfalah Islamic KPK Employee Pension Fund
+# ALFALAH ISLAMIC KPK EMPLOYEE PENSION FUND
 
 Fund Rating: Not Yet Rated
 
@@ -1704,3 +1704,116 @@ This publication is for informational purposes only and nothing herein should be
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
 - This includes 0.2300% representing government levy and SECP Fee.
 - Actual Management fee charged: 0.98% of net assets
+
+# Alfalah Islamic Stable Return Plan - V Fund
+
+Fund Stability Rating: Not Yet Rated
+
+AMC Rating: "AM1" by VIS 02-Jan-25
+
+AMC Rating: "AM1" by PACRA 29-Aug-25
+
+Investment Objective
+
+The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide a fixed return to Unit Holders who hold their investment until maturity by investing in Authorized Investable Avenues.
+
+Basic Information of the plan
+
+| Category                | FIxed Rate / Return Scheme.                                                                                                              |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Fund Type               | Open Ended                                                                                                                               |
+| Benchmark               | Three (3) months average deposit rates of three (3) AA rated Islamic Banks or Islamic windows of Conventional Banks as selected by MUFAP |
+| Launch Date             | 27 August, 2025                                                                                                                          |
+| Par Value               | PKR 100                                                                                                                                  |
+| Pricing                 | Forward Day                                                                                                                              |
+| Sales Load              | upto 0%                                                                                                                                  |
+| Risk Profile            | Low to Moderate                                                                                                                          |
+| Management Fee\*\*\*    | upto. 1%                                                                                                                                 |
+| Min. Initial Investment | PKR 500/-                                                                                                                                |
+| Min. Subseq. Investment | PKR 0/-                                                                                                                                  |
+| Dealing Days            | Monday - Friday                                                                                                                          |
+| Cut-off Time            | 9:00 am - 4:00 pm                                                                                                                        |
+| Leverage                | Nil                                                                                                                                      |
+| Target Return           | 10.25% - 10.50%                                                                                                                          |
+
+Investment Committee
+
+| Name                             | Position                        |
+| :------------------------------- | :------------------------------ |
+| **Khaldoon Bin Latif**           | Chief Executive Officer         |
+| **Ayub Khuhro**                  | Chief Investment Officer        |
+| **Faisal Ali Khan**              | Chief Financial Officer         |
+| **Shariq Mukhtar Hashmi**        | Chief Compliance Officer        |
+| **Muddasir Ahmed Shaikh**        | Head of Equities                |
+| **Mustafa Kamal**                | Head of Fixed Income            |
+| **Shams-ud-din Shah, CFA, FCCA** | Head of Research                |
+| **Imad Ansari**                  | Chief Risk Officer              |
+| **Salman Jawaid**                | Fund Manager Fixed Income Funds |
+| **Anil Kumar, CFA**              | Fund Manager Equity Funds       |
+
+Fund Statistics
+
+| Fund Size (PkR mn; as on Sep 30, 2025)            | 10,157   |
+| ------------------------------------------------- | -------- |
+| Fund size including fund of fund schemes (PkR mn) | 10,157   |
+| NAV (PkR)                                         | 101.5697 |
+| Information Ratio                                 | 0.97     |
+| Portfolio Turnover                                | 99.62%   |
+| Wtd. Average Maturity (Years)                     | 0.24     |
+| YTM                                               | 10.74%   |
+| Duration                                          | 0.00%    |
+| Modified Duration                                 | 0.00%    |
+
+Fund Performance
+
+| Metric                   | AISRF-V | BM     |
+| ------------------------ | ------- | ------ |
+| Since Inception Return\* | 9.92%   | 10.61% |
+| YTD                      | 9.92%   | 10.61% |
+| Month (Sep 2025)         | 9.92%   | 10.41% |
+
+Credit Quality (as % of Total Assets)
+
+| Rating                           | % of Total Assets | Rating       | % of Total Assets |
+| :------------------------------- | :---------------- | :----------- | :---------------- |
+| **Govt. Guaranteed (Rated AAA)** | 0.00%             | **A**        | 0.00%             |
+| **AAA**                          | 40.19%            | **A-**       | 0.00%             |
+| **AA+**                          | 58.22%            | **BBB+**     | 0.00%             |
+| **AA**                           | 0.00%             | **Below IG** | 0.00%             |
+| **AA-**                          | 0.00%             | **NR/UR**    | 1.59%             |
+| **A+**                           | 0.00%             |              |                   |
+
+|
+
+Monthly Returns
+
+| Month  | AISRF-V | BM    |
+| ------ | ------- | ----- |
+| Sep-24 | -       | -     |
+| Oct-24 | -       | -     |
+| Nov-24 | -       | -     |
+| Dec-24 | -       | -     |
+| Jan-25 | -       | -     |
+| Feb-25 | -       | -     |
+| Mar-25 | -       | -     |
+| Apr-25 | -       | -     |
+| May-25 | -       | -     |
+| Jun-25 | -       | -     |
+| Jul-25 | -       | -     |
+| Aug-25 | 10.77%  | 9.92% |
+| Sep-25 | 10.41%  | 9.92% |
+
+Dispute Resolution/Complaint Handling
+
+“Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
+
+Disclaimer
+
+This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company. \* Since Inception return is calculated on Compound Annual Growth Rate (CAGR).
+
+Total Expense Ratio Break
+
+| M.F | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without levies |
+| --- | -------------- | ----------- | ---------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
+| MTD | 0.05%          | 0.06%       | 0.04%            | 0.02%                | 0.01%                | 0.01%          | 0.19%                 | 0.17%                    |
+| YTD | 0.02%          | 0.03%       | 0.02%            | 0.01%                | 0.01%                | 0.00%          | 0.09%                 | 0.08%                    |

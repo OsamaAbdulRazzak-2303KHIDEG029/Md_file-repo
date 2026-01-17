@@ -3991,7 +3991,7 @@ Total Expense Ratio
 
 \*\*\*Management fee of the fund has been amended from Jul 01, 2025 through 5th supplemental OD with consent of the SECP
 
-# Investment Plans Summary Report for September Year 2025 of Alfalah Stable Return Fund Plan
+# Investment Plans Summary Report for September 2025 of Alfalah Stable Return Fund Plan
 
 CIS General Information
 
@@ -4380,7 +4380,7 @@ UAN: +92 (21) 111 090 090
 Fax: +92 (21) 35306752
 www.alfalahamc.com
 
-# Monthly Performance Returns (Nov-24 to Jun-25)
+## Monthly Performance Returns (Nov-24 to Jun-25)
 
 | Month  | ASRF-15 | BM      |
 | ------ | ------- | ------- |

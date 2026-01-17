@@ -170,8 +170,8 @@ An open-ended Money Market Scheme which shall seek to generate competitive retur
 | Fund Performance         | BM     | AGMMF  |
 | ------------------------ | ------ | ------ |
 | Since Inception Return\* | 9.29%  | 10.63% |
-| YTD                      | 13.86% | 10.84% |
-| Month - June 2025        | 14.79% | 10.84% |
+| YTD                      | 13.86% | 14.79% |
+| Month - June 2025        | 10.84% | 9.93%  |
 
 Avg. Peer Group Return for June 2025 was 9.88%
 5 Years - Avg. Peer Group Return for June 2025 was 14.34%

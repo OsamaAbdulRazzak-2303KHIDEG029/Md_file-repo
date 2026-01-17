@@ -853,9 +853,7 @@ This publication is for informational purposes only and nothing herein should be
   ** Calculated on 5-year average
   \*\*\*** Since inception return is calculated on CAGR basis
 
-Investment Plans Summary Report for August 2025
-
-# Alfalah Islamic Sovereign Fund Plan
+# Investment Plans Summary Report for August 2025 of Alfalah Islamic Sovereign Fund Plan
 
 ## CIS General Information
 
